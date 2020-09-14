@@ -15,4 +15,6 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 	Icon:
-		Icons erstellt von <a href="https://www.flaticon.com/de/kostenloses-icon/ei_2789884" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/de/" title="Flaticon"> www.flaticon.com</a>
+		Good Ware
+		https://www.flaticon.com/de/kostenloses-icon/ei_2789884
+		https://www.flaticon.com/
