@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "mmmint.ai",
+  "Id": "b71e614c-c02d-42d6-87cb-c1d7d849f777"
+}
