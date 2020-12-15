@@ -24,6 +24,21 @@ sections:
         actions:
           - label: Learn More
             url: /solutions/registrationrecognition
+      - title: Individuelle Lösung für Ihr Unternehmen
+        image: images/undraw_cloud_sync_2aph.svg
+        content: >-
+          Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Die Zusammenarbeit kann in Form eines Research and Development Projekts gemeinsam erarbeitet werden. Sprechen Sie uns gerne an. <mark>mmmint.ai - building smart solutions</mark>
 
+        actions:
+          - label: Contact
+            url: mailto:info@mmmint.ai
+  - section_id: call-to-action
+    component: cta_block.html
+    type: ctablock
+    title: Jetzt Kontakt aufnehmen!
+    subtitle: Wir sind gespannt auf Ihre Herausforderung
+    actions:
+      - label: Kontakt
+        url: mailto:info@mmmint.ai
 layout: features
 ---

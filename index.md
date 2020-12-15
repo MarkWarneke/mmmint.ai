@@ -7,7 +7,7 @@ sections:
     image: images/logo_alt.png
     title: MMM Intelligence
     content: >-
-      We are building smart solutions.
+      We are building smart solutions. Osnabrücker Talentschmiede für Künstliche Intelligenz und alles Digitales.
     actions:
       - label: Learn More
         url: /solutions
@@ -30,18 +30,26 @@ sections:
       - title: Fahrzeugschein Erkennung
         image: images/product_registration_recognition.png
         content: >-
-          Digitalisierung von Fahrzeugscheinen mittels start of the art machine learning object detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
+          Digitalisierung von Fahrzeugscheinen mittels state of the art machine learning object detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
         actions:
           - label: Learn More
             url: /solutions/registrationrecognition
       - title: Individuelle Lösung für Ihr Unternehmen
         image: images/undraw_cloud_sync_2aph.svg
         content: >-
-          Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an.
+          Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an. [<mark>mmmint.ai - building smart solutions</mark>](/solutions)
 
         actions:
           - label: Contact
             url: mailto:info@mmmint.ai
+      - title: Workshops für Ihr Unternehmen
+        image: images/undraw_robotics_kep0.svg
+        content: >-
+          Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema Digitaler Transformation. [<mark>mmmint.ai - creating value</mark>](/workshops)
+
+        actions:
+          - label: Workshops
+            url: /workshops
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock

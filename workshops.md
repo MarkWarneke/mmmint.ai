@@ -7,7 +7,7 @@ sections:
     bg: gray
     title: Workshops
     subtitle: >-
-      mmmint.ai - delivering value
+      mmmint.ai - creating value
     featureslist:
       - title: Multi-Cloud Strategie Workshop
         image: images/undraw_server_status_5pbv.svg
@@ -22,7 +22,7 @@ sections:
       - title: Individuelle Workshops für Ihr Unternehmen
         image: images/undraw_robotics_kep0.svg
         content: >-
-          Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an.
+          Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an. <mark>mmmint.ai - creating value</mark>
 
         actions:
           - label: Contact
