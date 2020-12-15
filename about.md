@@ -17,11 +17,11 @@ sections:
       - author: Max Stein
         avatar: images/maxs.jpg
         content: >-
-          Max ist Geschäftsführer der Restemeier GmbH und Experte in der Unfallschadenabwicklung. Er überzeugt mit Branchenkenntnis und Netzwerk. Max ist Vorstandsmitglied bei der IDK, der größten Kfz-Innung in Norddeutschland mit ca. 600 Mitgliedsbetrieben.
-      - author: Max Leimkühler
+          Max ist Geschäftsführer der Restemeier GmbH und Experte in der Unfallschadenabwicklung. Er überzeugt mit Branchenkenntnis und Netzwerk. Er ist Vorstandsmitglied bei der IDK, der größten Kfz-Innung in Norddeutschland mit ca. 600 Mitgliedsbetrieben.
+      - author: Markus KühlerLeim
         avatar: images/maxl.jpg
         content: >-
-          Max ist  KI-Experte beim DFKI und hat Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war Max bei der BMW Group in der Digitalisierung beschäftigt.
+          M. ist KI-Experte und hat Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt.
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
