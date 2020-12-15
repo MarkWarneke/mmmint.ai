@@ -30,15 +30,24 @@ sections:
       - title: registration recognition
         image: images/feature2.png
         content: >-
-          Digitizing registrations by using state of the art machine learning object detection and Optical Character Recognition (OCR)
+          Digitalisierung von Fahrzeugscheinen mittels start of the art machine learning object detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
         actions:
           - label: Learn More
             url: /features
+
       - title: machine learning operations (MLOps) workshop
         image: images/feature3.png
         content: >-
-          Learn from our experts how modern MLOps can help business accelerate their digital transformation. This hybrid workshop series of trainings and hands-on consulting will get you from development to production using cloud-native solutions.
-          After this three week intensive workshop you will be able to accelerate the deployment frequency of machine learning models to production.
+          Lernen Sie von unseren Experten wie moderne MLOps mittels einer Multi-Cloud Strategie ihre Digitalen Transformation unterstützen kann. 
+          **Date is the new oil` - dieser drei wöchentliche hybride Workshop Serie vermittelt Ihnen anhand von neusten Trainings Material sowie Hand-On Beratung wie Sie ihre Machine Learning Workloads in die Produktion bringen. 
+          Nach Abschgluss des intensiv Programms haben Sie die Fähigkiet Ihre Bereistellung Geschwindigkeit von Machine Learning Alogrithmen in die Produktion deutlich zu erhöhen.
+          Durch die Nutzung einer secure in depth cloud-native Multi-Cloud Strategie wird Ihre IT Transformation nicht nur deutlich modernisiert sondern gleichzeitig Zukunftssicher und deutlich verlässlichlicher gestaltet.
+
+      - title: Individuelle Lösung für Ihre Werkstatt
+        image: images/feature3.png
+        content: >-
+          Sie möchten Ihre Werkstatt digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an.
+
         actions:
           - label: Learn More
             url: /features
