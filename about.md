@@ -10,15 +10,15 @@ sections:
     subtitle: >-
       What we have to say about us!
     reviews:
-      - author: Mark Warneke
+      - author: Mark
         avatar: images/markw.jpg
         content: >-
           Mark ist Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein.​
-      - author: Max Stein
+      - author: Max
         avatar: images/maxs.jpg
         content: >-
           Max ist Geschäftsführer der Restemeier GmbH und Experte in der Unfallschadenabwicklung. Er überzeugt mit Branchenkenntnis und Netzwerk. Er ist Vorstandsmitglied bei der IDK, der größten Kfz-Innung in Norddeutschland mit ca. 600 Mitgliedsbetrieben.
-      - author: Max L.
+      - author: Max
         avatar: images/maxl.jpg
         content: >-
           Max ist KI-Experte und hat Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt.
