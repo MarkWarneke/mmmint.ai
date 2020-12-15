@@ -5,9 +5,9 @@ sections:
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Solutions
+    title: Workshops
     subtitle: >-
-      mmmint.ai - we build smart solutions
+      mmmint.ai - delivering value
     featureslist:
       - title: Multi-Cloud Strategie Workshop
         image: images/undraw_server_status_5pbv.svg
@@ -20,7 +20,7 @@ sections:
           **Data is the new oil** - dieser drei wöchentliche hybride Workshop Serie zu MLOps vermittelt Ihnen anhand von neusten Trainings Material sowie Hand-On Beratung wie Sie ihre Machine Learning Workloads in die Produktion bringen. 
           Nach Abschgluss des intensiv Programms haben Sie die Fähigkiet Ihre Bereistellung Geschwindigkeit von Machine Learning Alogrithmen in die Produktion deutlich zu erhöhen.
       - title: Individuelle Workshops für Ihr Unternehmen
-        image: images/undraw_cloud_sync_2aph.svg
+        image: images/undraw_robotics_kep0.svg
         content: >-
           Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an.
 
