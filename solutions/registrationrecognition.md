@@ -6,24 +6,25 @@ sections:
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Künstliche Intelligenz zur Optimierung Ihrer Prozesse
-    image: images/product_registration_recognition.png
-    content: >-
-      Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. 
-      <br/><br/>
-      Wir verwenden deep-learning-based Object Detection und Texterkennung um die Fahrzeugscheine zu verarbeiten. Um eine sehr hohe Genauigkeit zu erreichen, wurde unsere Künstliche Intelligenz mit mehreren Tausend Bildern angelernt. Folgende Postitionen kann unsere Künstliche Intelligenz automatisiert extrahieren:
+    featureslist:
+      - title: Künstliche Intelligenz zur Optimierung Ihrer Prozesse
+        image: images/product_registration_recognition.png
+        content: >-
+          Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. 
+          <br/><br/>
+          Wir verwenden deep-learning-based Object Detection und Texterkennung um die Fahrzeugscheine zu verarbeiten. Um eine sehr hohe Genauigkeit zu erreichen, wurde unsere Künstliche Intelligenz mit mehreren Tausend Bildern angelernt. Folgende Postitionen kann unsere Künstliche Intelligenz automatisiert extrahieren:
 
-      * Vorname und Nachname
+          * Vorname und Nachname
 
-      * Anschrift
+          * Anschrift
 
-      * Kennzeichen
+          * Kennzeichen
 
-      * FIN
+          * FIN
 
-      * Nächste HU und Erstzulassung
+          * Nächste HU und Erstzulassung
 
-      * Codehersteller und Codetyp
+          * Codehersteller und Codetyp
     actions:
       - label: Go To API
         url: /solutions/fahrzeugschein.html
@@ -84,7 +85,7 @@ sections:
     faqitems:
       - question: Wie kann ich die Fahrzeugschein API benutzen? 
         answer: >-
-          For usage of the registration recognition API an APIKey (access_token) is required.
+          For usage of the registration recognition API an APIKey (`access_token`) is required.
           Please get in contact with us to request a test environment.
           <br/>
           For support reach out to [info@mmmint.ai](mailto:info@mmmint.ai). 
@@ -93,13 +94,13 @@ sections:
           The provided service is hosted in german datacenters. Submitted data is encrypted in transit and at rest. The submitted date can only be accessed using the used APIKey.
       - question: Wie funktioniert die Fahrzeugschein API?
         answer: >-
-          For support reach out to [info@mmmint.ai](mailto:info@mmmint.ai). For usage of the registration recognition API an APIKey (access_token) is required.
-          <br/>
-          1. In order to use the registration recognition API you start by submitting an image via file upload, or with a publicly accessible image of the registration, using a POST to /fahrzeugschein.
-          2. The asynchronous processing of the the recognition can be checked using the /fahrzeugschein/status/{sessionId} resource.
-          3. After the status is finished, the recognized data can be retrieved using /fahrzeugschein/{id} resource.
-          4. The bounding boxes and associated cropped images can be retrieved using the /detection resources.
-          5. To retrieve all sessions for the submitted registration use the /session resource. The sessions will also indicate the status of all submissions.
+          For support reach out to [info@mmmint.ai](mailto:info@mmmint.ai). For usage of the registration recognition API an APIKey (`access_token`) is required.
+
+            1. In order to use the registration recognition API you start by submitting an image via file upload, or with a publicly accessible image of the registration, using a POST to `/fahrzeugschein`.
+            2. The asynchronous processing of the the recognition can be checked using the `/fahrzeugschein/status/` {sessionId} resource.
+            3. After the status is finished, the recognized data can be retrieved using `/fahrzeugschein/{id}` resource.
+            4. The bounding boxes and associated cropped images can be retrieved using the `/detection` resources.
+            5. To retrieve all sessions for the submitted registration use the `/session` resource. The sessions will also indicate the status of all submissions.
 
 layout: features
 ---

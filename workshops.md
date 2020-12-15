@@ -22,16 +22,13 @@ sections:
       - title: Individuelle Workshops für Ihr Unternehmen
         image: images/undraw_robotics_kep0.svg
         content: >-
-          Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an. <mark>mmmint.ai - creating value</mark>
+          Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema Digitaler Transformation.
 
-        actions:
-          - label: Contact
-            url: mailto:info@mmmint.ai
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
-    title: Jetzt Kontakt aufnehmen!
-    subtitle: Wir sind gespannt auf Ihre Herausforderung
+    title: Jetzt Kontakt aufnehmen! 
+    subtitle: mmmint.ai - creating value. Wir sind gespannt auf Ihre Herausforderung
     actions:
       - label: Kontakt
         url: mailto:info@mmmint.ai
