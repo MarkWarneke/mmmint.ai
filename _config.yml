@@ -24,7 +24,7 @@ footer:
   nav_title: Company
   has_social: true
   social_title: Community
-  has_subscribe: true
+  has_subscribe: false
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
   content: "&copy; MMM Intelligence UG. All rights reserved."
