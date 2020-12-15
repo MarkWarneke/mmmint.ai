@@ -5,17 +5,17 @@ sections:
     component: hero_block.html
     type: heroblock
     image: images/logo_alt.png
-    title: MMM Intelligence UG
+    title: MMM Intelligence
     content: >-
       We are building smart solutions.
     actions:
       - label: Learn More
-        url: /features
-  - section_id: features
+        url: /solutions
+  - section_id: solutions
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Produkte
+    title: Solutions
     subtitle: >-
       mmmint.ai - we build smart solutions
     featureslist:
@@ -33,7 +33,7 @@ sections:
           Digitalisierung von Fahrzeugscheinen mittels start of the art machine learning object detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
         actions:
           - label: Learn More
-            url: /features
+            url: /solutions/registrationrecognition
 
       - title: Multi-Cloud Strategie Workshop
         image: images/undraw_server_status_5pbv.svg
@@ -51,8 +51,8 @@ sections:
           Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an.
 
         actions:
-          - label: Learn More
-            url: /features
+          - label: Contact
+            url: mailto:info@mmmint.ai
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock

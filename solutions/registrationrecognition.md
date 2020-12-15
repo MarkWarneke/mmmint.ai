@@ -1,5 +1,6 @@
 ---
-title: Features
+title: Fahrzeugschein Erkennung
+subtitle: Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. 
 sections:
   - section_id: registrationrecognition
     component: content_block.html
@@ -23,7 +24,9 @@ sections:
       * Nächste HU und Erstzulassung
 
       * Codehersteller und Codetyp
-
+    actions:
+      - label: Go To API
+        url: /solutions/fahrzeugschein.html
 
   - section_id: call-to-action
     component: cta_block.html
@@ -47,7 +50,6 @@ sections:
           * dann €0.15 pro Bild
           * Volle Fahrzeugschein Digitalisierung
           * Bereistellung der API Spezifikation
-          * Bereitstellung Python SDK
         actions:
           - label: Order Now
             url: /signup
@@ -58,9 +60,9 @@ sections:
           * dann €0.08 pro Bild
           * Support: 24 Stunden Reaktionszeit
           * Volle Fahrzeugschein Digitalisierung
+          * Fahrzeugschein Overlay
           * Einführung in die API Spezifikation
-          * Lizensierung Fahrzeugschein Overlay
-          * Bereitstellung Python SDK
+          * Einführung in Python SDK
         highlight: true
         actions:
           - label: Order Now
@@ -78,21 +80,21 @@ sections:
     type: faqblock
     bg: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: Hier sind die meist gestellten Fragen
     faqitems:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: Wie kann ich die Fahrzeugschein API benutzen? 
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
           mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
           tristique enim. Pellentesque habitant morbi tristique senectus et
           netus et malesuada fames ac turpis egestas.
-      - question: Aliquam eget purus ante?
+      - question: Wird die DSGVO eingehalten?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
           eget velit. 
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+      - question: Wie funktioniert die Fahrzeugschein API?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit

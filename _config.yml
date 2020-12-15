@@ -12,7 +12,7 @@ header:
   nav:
     Home: "index"
     Blog: "blog"
-    Features: "features"
+    Solutions: "solutions"
     About: "about"
   palette: blue
   menu:
@@ -34,7 +34,7 @@ footer:
   nav:
     Home: "index"
     Blog: "blog"
-    Features: "features"
+    Solutions: "solutions"
     About: "about"
 
 sass:

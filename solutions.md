@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Solutions
 sections:
   - section_id: mrfiktiv
     component: content_block.html
@@ -23,7 +23,7 @@ sections:
       Digitalisierung von Fahrzeugscheinen mittels start of the art machine learning object detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
     actions:
       - label: Learn More
-        url: /features/registrationrecognition
+        url: /solutions/registrationrecognition
   # - section_id: call-to-action
   #   component: cta_block.html
   #   type: ctablock
