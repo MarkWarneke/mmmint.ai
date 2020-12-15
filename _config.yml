@@ -35,8 +35,9 @@ footer:
     Home: "index"
     Blog: "blog"
     Solutions: "solutions"
-    About: "about"
+    Workshops: "workshops"
     Karriere: "career"
+    About: "about"
 
 sass:
   indentWidth: 4
