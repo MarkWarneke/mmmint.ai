@@ -1,9 +1,9 @@
 title: mmmint.ai - building smart solutions
 baseurl: /
-permalink: "/:title/"
+permalink: "/:year/:month/:day/:title/"
 collections:
   posts:
-    permalink: "/posts/:title/"
+    permalink: "/blog/:year/:month/:day/:title/"
 palette: blue
 header:
   title: mmmint.ai
