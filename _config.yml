@@ -33,6 +33,7 @@ footer:
   nav_title: Company
   nav:
     Home: "index"
+    Blog: "blog"
     Features: "features"
     About: "about"
 

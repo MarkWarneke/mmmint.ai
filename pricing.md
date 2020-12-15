@@ -68,9 +68,5 @@ sections:
           luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-menus:
-  main:
-    weight: 3
-    title: Pricing
 layout: pricing
 ---
