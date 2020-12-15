@@ -7,12 +7,12 @@
           {% assign logo_img_is_not_empty = site.footer.logo_img | is_not_empty %}
           {% if logo_img_is_not_empty %}
           <p class="site-logo">
-            <a href='{{ ' /' | relative_url }}'><img src="{{ site.footer.logo_img | relative_url }}" alt="Logo"
+            <a href='{{ '/' | relative_url }}'><img src="{{ site.footer.logo_img | relative_url }}" alt="Logo"
                 style="max-height: 150px;" /></a>
           </p>
           {% else %}
           <p class="site-title">
-            <a href='{{ ' /' | relative_url }}'>{{ site.header.title }}</a>
+            <a href='{{ '/' | relative_url }}'>{{ site.header.title }}</a>
           </p>
           {% endif %}
           {% assign tagline_is_not_empty = site.footer.tagline | is_not_empty %}

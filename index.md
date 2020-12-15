@@ -15,7 +15,7 @@ sections:
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Features
+    title: Produkte
     subtitle: >-
       mmmint.ai - we build smart solutions
     featureslist:
@@ -53,6 +53,14 @@ sections:
         actions:
           - label: Learn More
             url: /features
+  - section_id: call-to-action
+    component: cta_block.html
+    type: ctablock
+    title: Jetzt Kontakt aufnehmen!
+    subtitle: Wir sind gespannt auf Ihre Herausforderung
+    actions:
+      - label: Kontakt
+        url: /signup
   - section_id: reviews
     component: reviews_block.html
     type: reviewsblock
@@ -74,17 +82,5 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - section_id: call-to-action
-    component: cta_block.html
-    type: ctablock
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-menus:
-  main:
-    weight: 1
-    title: Home
 layout: home
 ---
