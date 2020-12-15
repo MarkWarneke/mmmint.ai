@@ -19,7 +19,7 @@ serve-drafts:
 	docker run --name mmmint --volume="$(current_dir):/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:$(JEKYLL_VERSION) jekyll serve --watch --drafts
 
 exec:
-	docker exec -ti myblog /bin/sh
+	docker exec -ti mmmint /bin/sh
 
 clean:
 	docker rm -f mmmint

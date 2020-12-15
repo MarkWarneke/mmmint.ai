@@ -57,20 +57,20 @@ sections:
     component: reviews_block.html
     type: reviewsblock
     bg: white
-    title: Testimonials
+    title: Co-Founders
     subtitle: >-
-      What others have to say about us!
+      What we have to say about us!
     reviews:
-      - author: Max Mama
-        avatar: images/review2.jpg
+      - author: Mark Warneke
+        avatar: images/markw.jpg
         content: >-
-          mmmint.ai is wirklich ein tolle Idee! Die Jungs von mmmint sind ein tolles team und bieten viel potential.
-      - author: Max Papa
-        avatar: images/review1.jpg
+          mmmint.ai is wirklich ein tolle Idee! Wir sind ein tolles Team und bieten viel potential.
+      - author: Max Stein
+        avatar: images/maxs.jpg
         content: >-
-          Es freut uns sehr, mmmint.ai als Betrieb mit an Bord zu haben! Uns macht die Zusammenarbeit mit mmmint viel Spaß und ist eine willkommene Abwechslung
-      - author: Richard Roe
-        avatar: images/review3.jpg
+
+      - author: Max Leimkühler
+        avatar: images/maxl.jpg
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.

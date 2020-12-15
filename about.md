@@ -11,6 +11,76 @@ menus:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<header>
+  <h2>
+    <a target="_blank" href="https://mmmint.ai"> mmmint.ai</a> - Osnabrücker Talentschmiede für KI und Digitales
+  </h2>
+  <p>
+    Wir revolutionieren den Abrechnungsprozess von Fahrzeugschäden mit Ihrer
+    Versicherung.
+  </p>
+</header>
+<section id="intro" class="container">
+  <div class="row">
+    <div class="col-4 col-12-medium">
+      <section class="first">
+        <img src="/images/maxl.jpg" style="height: 10em" />
+        <p>
+          <a
+            href="mailto:max.leimkuehler@mrfitkiv.com?subject=Kontakt über Webseite"
+          >
+            <strong>Max </strong>
+          </a>
+          ist KI-Experte beim DFKI und hat Erfahrung in Forschungs- sowie
+          Beratungsprojekten gesammelt.
+        </p>
+      </section>
+    </div>
+    <div class="col-4 col-12-medium">
+      <section class="middle">
+        <img src="/images/maxs.jpg" style="height: 10em" />
+        <p>
+          <a href="mailto:max.stein@mrfitkiv.com?subject=Kontakt über Webseite">
+            <strong>Max </strong>
+          </a>
+          ist Experte in der Unfallschadenabwicklung. Er überzeugt mit
+          Branchenkenntnis und Netzwerk zu Versicherungen, sowie Werkstätten. 
+        </p>
+      </section>
+    </div>
+    <div class="col-4 col-12-medium">
+      <section class="last">
+        <img src="/images/markw.jpg" style="height: 10em" />
+        <p>
+          <a
+            href="mailto:mark.warneke@mrfitkiv.com?subject=Kontakt über Webseite"
+          >
+            <strong>Mark </strong>
+          </a>
+          ist Softwareentwickler bei Microsoft. Mark bringt Erfahrungen aus
+          zahlreichen Cloud-Softwareprojekten, wie z. B. starteve.ai ein.
+        </p>
+      </section>
+    </div>
+  </div>
+  <footer>
+    <address>
+      MMM Intelligence UG (haftungsbeschränkt)<br />
+      Auf der Halle 25a <br />
+      49124 Georgsmarienhütte
+    </address>
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+    <ul class="actions">
+      <li>E-Mail: <a href="mailto:info@mrfiktiv.com">info@mrfiktiv.com</a></li>
+      <li>Telefon:  <a href="tel:+4917672884125">+49 176 72884125</a></li>
+      <li>
+        Webseite:  <a target="_blank" href="https://mmmint.ai">mmmint.ai</a>
+      </li>
+    </ul>
+    <ul class="social">
+      {% for item in site.data.social %} {% include template/social.html %} {%
+      endfor %}
+    </ul>
+
+  </footer>
+</section>
