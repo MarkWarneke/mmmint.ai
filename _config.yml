@@ -36,6 +36,7 @@ footer:
     Blog: "blog"
     Solutions: "solutions"
     About: "about"
+    Karriere: "career"
 
 sass:
   indentWidth: 4
