@@ -5,10 +5,23 @@ sections:
     component: content_block.html
     type: contentblock
     bg: gray
-    title: Fahrzeugschein Erkennung
+    title: Künstliche Intelligenz zur Optimierung Ihrer Prozesse
     image: images/product_registration_recognition.png
     content: >-
-      Digitalisierung von Fahrzeugscheinen mittels start of the art machine learning object detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
+      Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. Wir verwenden deep-learning-based Object Detection und Texterkennung um die Fahrzeugscheine zu verarbeiten. Um eine sehr hohe Genauigkeit zu erreichen, wurde unsere Künstliche Intelligenz mit mehreren Tausend Bildern angelernt. Folgende Postitionen kann unsere Künstliche Intelligenz automatisiert extrahieren:
+
+      * Vorname und Nachname
+
+      * Anschrift
+
+      * Kennzeichen
+
+      * FIN
+
+      * Nächste HU und Erstzulassung
+
+      * Codehersteller und Codetyp
+
 
   - section_id: call-to-action
     component: cta_block.html
