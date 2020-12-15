@@ -41,7 +41,7 @@ footer:
 
   has_subscribe: true
   subscribe_title: "Subscribe"
-  subscribe_content: "Get in contact an get updates on all of our product launches"
+  subscribe_content: "Melde dich bei unserem Newsletter an und bekomme direkt die neusten Updates"
 
 sass:
   indentWidth: 4
