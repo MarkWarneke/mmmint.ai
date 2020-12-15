@@ -20,18 +20,20 @@ header:
 footer:
   logo_img: images/logo_alt.png
   tagline: mmmint.ai - building smart solutions
-  has_nav: true
-  nav_title: Company
-  has_social: true
-  social_title: Community
-  has_subscribe: false
-  subscribe_title: Subscribe
-  subscribe_content: Stay up to date with our latest developments.
   content: "&copy; MMM Intelligence UG. All rights reserved."
   links:
     - text: Impressum
       url: "/impressum"
       new_window: false
+
+  social_title: Community
+
+  nav_title: Company
+  nav:
+    Home: "index"
+    Features: "features"
+    About: "about"
+
 sass:
   indentWidth: 4
   style: nested

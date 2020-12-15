@@ -27,7 +27,7 @@ sections:
         actions:
           - label: Learn More
             url: https://www.mrfiktiv.com
-      - title: registration recognition
+      - title: Fahrzeugschein Erkennung
         image: images/feature2.png
         content: >-
           Digitalisierung von Fahrzeugscheinen mittels start of the art machine learning object detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
@@ -36,19 +36,19 @@ sections:
             url: /features
 
       - title: Multi-Cloud Strategie Workshop
-        image: images/feature3.png
+        image: images/undraw_server_status_5pbv.svg
         content: >-
           Lernen Sie von unseren Experten wie eine moderne Multi-Cloud Strategie ihre Digitalen Transformation voran bringen kann. 
           Durch die Nutzung einer secure in depth cloud-native Multi-Cloud Strategie wird Ihre IT Transformation nicht nur deutlich modernisiert sondern gleichzeitig Zukunftssicher und deutlich verlässlichlicher gestaltet.
       - title: Machine Learning Operations Workshop
-        image: images/feature4.png
+        image: images/undraw_Artificial_intelligence_re_enpp.svg
         content: >-
           **Data is the new oil** - dieser drei wöchentliche hybride Workshop Serie zu MLOps vermittelt Ihnen anhand von neusten Trainings Material sowie Hand-On Beratung wie Sie ihre Machine Learning Workloads in die Produktion bringen. 
           Nach Abschgluss des intensiv Programms haben Sie die Fähigkiet Ihre Bereistellung Geschwindigkeit von Machine Learning Alogrithmen in die Produktion deutlich zu erhöhen.
-      - title: Individuelle Lösung für Ihre Werkstatt
-        image: images/feature3.png
+      - title: Individuelle Lösung für Ihr Unternehmen
+        image: images/undraw_cloud_sync_2aph.svg
         content: >-
-          Sie möchten Ihre Werkstatt digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an.
+          Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an.
 
         actions:
           - label: Learn More
