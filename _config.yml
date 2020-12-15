@@ -22,7 +22,7 @@ header:
 footer:
   logo_img: images/logo_alt.png
   tagline: mmmint.ai - building smart solutions
-  content: "&copy; MMM Intelligence UG. All rights reserved."
+  content: "&copy; MMM Intelligence UG (haftungsbeschränkt). All rights reserved."
   links:
     - text: Impressum
       url: "/impressum"
