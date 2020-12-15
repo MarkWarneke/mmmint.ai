@@ -3,7 +3,7 @@ layout: post
 title:  "Top 5 Neugründungen der Woche - laut startupdetector weekly"
 subtitle:  "Nächster Meilenstein Seedhouse Osnabrück"
 date:   2020-11-02
-thumb_img_path: images/2_thumb.jpg
+thumb_img_path: images/danielle-macinnes-IuLgi9PWETU-unsplash.jpg
 ---
 
 Mit der Gründung von der MMM Intelligence UG (haftungsbeschränkt) ist unsere Firma offiziell in verschiedene Register eingetragen worden. 

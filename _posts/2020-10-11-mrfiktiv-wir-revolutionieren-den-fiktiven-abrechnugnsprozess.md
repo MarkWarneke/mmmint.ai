@@ -5,7 +5,7 @@ subtitle: >-
 excerpt: >-
   Immer mehr Autobesitzer lassen nach einem Autounfall den Schaden an Ihrem Fahrzeug nicht reparieren. Stattdessen lassen sie sich das Geld von Ihrer Versicherung auszahlen.
 date: '2020-10-11'
-thumb_img_path: images/1_thumb.jpg
+thumb_img_path: images/michael-jin-mCj7atG0nEc-unsplash.jpg
 layout: post
 ---
 
