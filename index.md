@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/hero.png
+    image: images/avatar.png
     title: MMM Intelligence UG
     content: >-
       We are building smart solutions.
