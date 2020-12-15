@@ -13,9 +13,9 @@ sections:
           Durch mrfiktiv werden Kunden und Werkstätten in einem digitalen Raum zusammengebracht. 
           <br/> <br/>
           Dabei profitieren sowohl die Werkstätten als auch die Kunden, die fiktiv abrechnen wollen: Die Kunden können ohne Werkstattbesuch und kostengünstig die Schäden bei der Versicherung einreichen. Die Werkstatt kann mit wenig Aufwand zusätzlichen Umsatz erwirtschaften und die Mitarbeiter im Kundendienst zielgerichteter auslasten.​​
-    actions:
-      - label: Go To Solution
-        url: https://www.mrfiktiv.com
+        actions:
+          - label: Go To App
+            url: https://www.mrfiktiv.com
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock

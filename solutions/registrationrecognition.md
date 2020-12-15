@@ -25,9 +25,9 @@ sections:
           * Nächste HU und Erstzulassung
 
           * Codehersteller und Codetyp
-    actions:
-      - label: Go To API
-        url: /solutions/fahrzeugschein.html
+        actions:
+          - label: Go To API
+            url: /solutions/fahrzeugschein.html
 
   - section_id: call-to-action
     component: cta_block.html
