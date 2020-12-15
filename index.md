@@ -60,7 +60,7 @@ sections:
     subtitle: Wir sind gespannt auf Ihre Herausforderung
     actions:
       - label: Kontakt
-        url: /signup
+        url: mailto:info@mmmint.ai
   - section_id: recent-posts
     component: posts_block.html
     type: postsblock
