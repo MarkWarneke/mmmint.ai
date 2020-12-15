@@ -4,6 +4,10 @@ permalink: "/:year/:month/:day/:title/"
 collections:
   posts:
     permalink: "/blog/:year/:month/:day/:title/"
+navbar-links:
+  Home: "index"
+  Features: "features"
+  About: "about"
 palette: blue
 header:
   title: mmmint.ai

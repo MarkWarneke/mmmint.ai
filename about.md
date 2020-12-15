@@ -1,9 +1,5 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-img_path: images/about.jpg
 menus:
   secondary:
     weight: 1
@@ -76,10 +72,6 @@ layout: page
       <li>
         Webseite:  <a target="_blank" href="https://mmmint.ai">mmmint.ai</a>
       </li>
-    </ul>
-    <ul class="social">
-      {% for item in site.data.social %} {% include template/social.html %} {%
-      endfor %}
     </ul>
 
   </footer>
