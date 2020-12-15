@@ -28,7 +28,7 @@ sections:
           - label: Learn More
             url: https://www.mrfiktiv.com
       - title: Fahrzeugschein Erkennung
-        image: images/feature2.png
+        image: images/product_registration_recognition.png
         content: >-
           Digitalisierung von Fahrzeugscheinen mittels start of the art machine learning object detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
         actions:
