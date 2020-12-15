@@ -70,11 +70,6 @@ sections:
     actions:
       - label: Get Started
         url: /signup
-  - section_id: recent-posts
-    component: posts_block.html
-    type: postsblock
-    bg: gray
-    title: Latest Posts
 menus:
   main:
     weight: 1
