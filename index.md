@@ -7,7 +7,7 @@ sections:
     image: images/hero.png
     title: MMM Intelligence UG
     content: >-
-      We are building smart solutions.  
+      We are building smart solutions.
     actions:
       - label: Learn More
         url: /features
@@ -34,10 +34,11 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: mileage prediction
+      - title: machine learning operations (MLOps) workshop
         image: images/feature3.png
         content: >-
-          Predictive maintenance service for workshops. Prediction for workshop booking and cold calling customers by predicting mileage using state of the art machine learning algorithm.
+          Learn from our experts how modern MLOps can help business accelerate their digital transformation. This hybrid workshop series of trainings and hands-on consulting will get you from development to production using cloud-native solutions.
+          After this three week intensive workshop you will be able to accelerate the deployment frequency of machine learning models to production.
         actions:
           - label: Learn More
             url: /features
@@ -47,7 +48,7 @@ sections:
     bg: white
     title: Testimonials
     subtitle: >-
-      What others have to say about us! 
+      What others have to say about us!
     reviews:
       - author: Max Mama
         avatar: images/review2.jpg
