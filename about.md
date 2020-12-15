@@ -13,7 +13,7 @@ sections:
       - author: Mark Warneke
         avatar: images/markw.jpg
         content: >-
-          Mark ist Softwareentwickler bei Microsoft. Mark bringt Erfahrungen aus zahlreichen Cloud-Softwareprojekten, wie z. B. starteve.ai ein.
+          Mark ist Softwareentwickler bei Microsoft. Er bringt Erfahrungen aus zahlreichen Cloud-Softwareprojekten, wie z. B. starteve.ai ein.
       - author: Max Stein
         avatar: images/maxs.jpg
         content: >-

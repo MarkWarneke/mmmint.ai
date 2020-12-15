@@ -23,37 +23,37 @@ sections:
     type: pricingblock
     bg: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: Wir bieten verschiedene Preismodelle an. 
     pricingplans:
       - title: Basic
-        price: $5/m
+        price: €10
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * pro 100 Bilder
+          * Volle Fahrzeugschein Digitalisierung
+          * Bereistellung der API Spezifikation
+          * Bereitstellung Python SDK
         actions:
           - label: Order Now
             url: /signup
       - title: Professional
-        price: $49/m
+        price: €500/m
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+          * 2000 Bilder inklusive,
+          * dann €0.08 pro Bild
+          * Support: 24 Stunden Reaktionszeit
+          * Volle Fahrzeugschein Digitalisierung
+          * Einführung in die API Spezifikation
+          * Lizensierung Fahrzeugschein Overlay
+          * Bereitstellung Python SDK
         highlight: true
         actions:
           - label: Order Now
             url: /signup
       - title: Enterprise
-        price: $149/m
+        price: individuell
         details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+          * Volle Fahrzeugschein Digitalisierung
+          * Individuelle Vertragsvereinbarung
         actions:
           - label: Order Now
             url: /signup
