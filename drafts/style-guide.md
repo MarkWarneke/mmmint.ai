@@ -95,5 +95,5 @@ body {
 # CI
 
 - <font color="#BEF9C3">  #BEF9C3 </font>
-- <font color="#BEF9C3"> #9EE6B8  </font>
-- <font color="#BEF9C3"> #6FB38A  </font>
+- <font color="#9EE6B8"> #9EE6B8  </font>
+- <font color="#6FB38A"> #6FB38A  </font>
