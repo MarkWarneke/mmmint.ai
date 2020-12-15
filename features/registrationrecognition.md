@@ -41,9 +41,9 @@ sections:
     subtitle: Wir bieten verschiedene Preismodelle an. 
     pricingplans:
       - title: Basic
-        price: €300
+        price: €300/m
         details: |-
-          * pro 1000 Bilder
+          * 1000 Bilder inklusive,
           * dann €0.15 pro Bild
           * Volle Fahrzeugschein Digitalisierung
           * Bereistellung der API Spezifikation
