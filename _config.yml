@@ -39,6 +39,10 @@ footer:
     Karriere: "career"
     About: "about"
 
+  has_subscribe: true
+  subscribe_title: "Subscribe"
+  subscribe_content: "Get in contact an get updates on all of our product launches"
+
 sass:
   indentWidth: 4
   style: nested

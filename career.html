@@ -1,6 +1,5 @@
 ---
-title: Career
-
+title: Karriere
 layout: page
 ---
 
@@ -12,32 +11,19 @@ layout: page
         ><img src="/images/pic09.jpeg" alt=""
       /></a> -->
       <header>
-        <h3>Karriere Links</h3>
+        <h3>Links</h3>
       </header>
       <ul>
         {% for career in site.data.career %}
         <li><a href="#{{forloop.index}}">{{ career.title }}</a></li>
         {% endfor %}
       </ul>
-      <footer>
-        <a href="/about" class="button">Lerne das Team kennen</a>
-      </footer>
+      <footer></footer>
     </section>
   </div>
   <div class="col-8 col-12-medium imp-medium">
     <!-- Content -->
     <article class="box post">
-      <!-- <a href="#" class="image featured"
-        ><img src="/images/pic01.jpeg" alt=""
-      /></a> -->
-
-      <header>
-        <h2>Karriere</h2>
-        <p>
-          Join mrfiktiv! Werde ein Teil unseres jungen Teams, Bewirb dich jetzt!
-        </p>
-      </header>
-
       {% for career in site.data.career %}
       <section>
         <h4 id="{{forloop.index}}">{{ career.title }}</h4>
@@ -53,5 +39,8 @@ layout: page
         <br />
       </footer>
     </article>
+    <div>
+      <img src="/images/undraw_online_resume_qyys.svg" />
+    </div>
   </div>
 </div>

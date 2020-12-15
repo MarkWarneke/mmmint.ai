@@ -1,9 +1,6 @@
 ---
-title: Sign Up
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-img_path: images/11.jpg
+title: Kontakt
+img_path: images/undraw_contact_us_15o2.svg
 
 layout: page
 ---
