@@ -22,7 +22,7 @@ sections:
       - title: mr fiktiv
         image: images/product_mrfiktiv.png
         content: >-
-          mrfiktiv ist eine Plattform, auf der Kunden bei der Abrechnung von Autoschäden geholfen wird.​
+          mr fiktiv ist eine Plattform, auf der Kunden bei der Abrechnung von Autoschäden geholfen wird.​
           Eine digitale Schadensabrechnung nach Autounfällen – kein Werkstattbesuch, keine Reparatur und schnelles Geld. ​
         actions:
           - label: Learn More
