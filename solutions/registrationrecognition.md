@@ -84,24 +84,22 @@ sections:
     faqitems:
       - question: Wie kann ich die Fahrzeugschein API benutzen? 
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+          For usage of the registration recognition API an APIKey (access_token) is required.
+          Please get in contact with us to request a test environment.
+          <br/>
+          For support reach out to [info@mmmint.ai](mailto:info@mmmint.ai). 
       - question: Wird die DSGVO eingehalten?
         answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
+          The provided service is hosted in german datacenters. Submitted data is encrypted in transit and at rest. The submitted date can only be accessed using the used APIKey.
       - question: Wie funktioniert die Fahrzeugschein API?
         answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+          For support reach out to [info@mmmint.ai](mailto:info@mmmint.ai). For usage of the registration recognition API an APIKey (access_token) is required.
+          <br/>
+          1. In order to use the registration recognition API you start by submitting an image via file upload, or with a publicly accessible image of the registration, using a POST to /fahrzeugschein.
+          2. The asynchronous processing of the the recognition can be checked using the /fahrzeugschein/status/{sessionId} resource.
+          3. After the status is finished, the recognized data can be retrieved using /fahrzeugschein/{id} resource.
+          4. The bounding boxes and associated cropped images can be retrieved using the /detection resources.
+          5. To retrieve all sessions for the submitted registration use the /session resource. The sessions will also indicate the status of all submissions.
+
 layout: features
 ---

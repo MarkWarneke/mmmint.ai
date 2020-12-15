@@ -16,7 +16,7 @@ sections:
           Eine digitale Schadensabrechnung nach Autounfällen – kein Werkstattbesuch, keine Reparatur und schnelles Geld. ​
         actions:
           - label: Learn More
-            url: https://www.mrfiktiv.com
+            url: /solutions/mrfiktiv
       - title: Fahrzeugschein Erkennung
         image: images/product_registration_recognition.png
         content: >-

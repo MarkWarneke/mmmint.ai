@@ -40,8 +40,8 @@ sections:
           Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an. [<mark>mmmint.ai - building smart solutions</mark>](/solutions)
 
         actions:
-          - label: Contact
-            url: mailto:info@mmmint.ai
+          - label: Solutions
+            url: /solutions
       - title: Workshops für Ihr Unternehmen
         image: images/undraw_robotics_kep0.svg
         content: >-
