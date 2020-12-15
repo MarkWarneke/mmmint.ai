@@ -1,14 +1,45 @@
-<form name="subscribeForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="subscribe-form"
-  class="subscribe-form">
+<form
+  name="subscribeForm"
+  method="POST"
+  netlify-honeypot="bot-field"
+  data-netlify="true"
+  id="subscribe-form"
+  class="subscribe-form"
+>
   <div class="screen-reader-text">
-    <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+    <label
+      >Don't fill this out if you're human: <input name="bot-field"
+    /></label>
   </div>
   <div class="form-row">
-    <label>
-      <span class="screen-reader-text">Email address</span>
-      <input class="subscribe-email" type="email" name="email" placeholder="Enter Email Address...">
-    </label>
+    <div
+      class="typeform-widget"
+      data-url="https://form.typeform.com/to/QPpiD9wh?typeform-medium=embed-snippet"
+      style="width: 100%; height: 500px"
+    ></div>
+    <script>
+      (function () {
+        var qs,
+          js,
+          q,
+          s,
+          d = document,
+          gi = d.getElementById,
+          ce = d.createElement,
+          gt = d.getElementsByTagName,
+          id = "typef_orm",
+          b = "https://embed.typeform.com/";
+        if (!gi.call(d, id)) {
+          js = ce.call(d, "script");
+          js.id = id;
+          js.src = b + "embed.js";
+          q = gt.call(d, "script")[0];
+          q.parentNode.insertBefore(js, q);
+        }
+      })();
+    </script>
   </div>
   <input type="hidden" name="form-name" value="subscribeForm" />
   <button class="button" type="submit">Subscribe</button>
-</form><!-- .subscribe-form -->
+</form>
+<!-- .subscribe-form -->
