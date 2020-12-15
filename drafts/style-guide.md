@@ -86,3 +86,14 @@ body {
     </tr>
   </tfoot>
 </table>
+
+# Resourcse
+
+- [illustrations](https://undraw.co/search)
+
+
+# CI
+
+- <font color="#BEF9C3">  #BEF9C3 </font>
+- <font color="#BEF9C3"> #9EE6B8  </font>
+- <font color="#BEF9C3"> #6FB38A  </font>
