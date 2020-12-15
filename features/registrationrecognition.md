@@ -8,7 +8,9 @@ sections:
     title: Künstliche Intelligenz zur Optimierung Ihrer Prozesse
     image: images/product_registration_recognition.png
     content: >-
-      Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. Wir verwenden deep-learning-based Object Detection und Texterkennung um die Fahrzeugscheine zu verarbeiten. Um eine sehr hohe Genauigkeit zu erreichen, wurde unsere Künstliche Intelligenz mit mehreren Tausend Bildern angelernt. Folgende Postitionen kann unsere Künstliche Intelligenz automatisiert extrahieren:
+      Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. 
+      <br/><br/>
+      Wir verwenden deep-learning-based Object Detection und Texterkennung um die Fahrzeugscheine zu verarbeiten. Um eine sehr hohe Genauigkeit zu erreichen, wurde unsere Künstliche Intelligenz mit mehreren Tausend Bildern angelernt. Folgende Postitionen kann unsere Künstliche Intelligenz automatisiert extrahieren:
 
       * Vorname und Nachname
 
@@ -39,9 +41,9 @@ sections:
     subtitle: Wir bieten verschiedene Preismodelle an. 
     pricingplans:
       - title: Basic
-        price: €10
+        price: €300
         details: |-
-          * pro 100 Bilder
+          * pro 1000 Bilder
           * Volle Fahrzeugschein Digitalisierung
           * Bereistellung der API Spezifikation
           * Bereitstellung Python SDK
