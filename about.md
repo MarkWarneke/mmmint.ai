@@ -18,7 +18,7 @@ sections:
         avatar: images/maxs.jpg
         content: >-
           Max ist Geschäftsführer der Restemeier GmbH und Experte in der Unfallschadenabwicklung. Er überzeugt mit Branchenkenntnis und Netzwerk. Er ist Vorstandsmitglied bei der IDK, der größten Kfz-Innung in Norddeutschland mit ca. 600 Mitgliedsbetrieben.
-      - author: Markus KühlerLeim
+      - author: Markus Kühlerleim
         avatar: images/maxl.jpg
         content: >-
           M. ist KI-Experte und hat Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt.
