@@ -4,9 +4,6 @@
 - name: LinkedIn
   link: https://www.linkedin.com/company/mmmint-ai/
   class: brands fa-linkedin
-- name: Instagram
-  link: https://instagram.com/mrfiktiv
-  class: brands fa-instagram
 - name: Email
   link: mailto:info@mmmint.ai
   class: solid fa-envelope

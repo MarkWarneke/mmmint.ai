@@ -1,43 +1,37 @@
 ---
 title: Features
 sections:
-  - section_id: features
+  - section_id: mrfiktiv
     component: content_block.html
     type: contentblock
     bg: gray
-    image: images/feature1.png
-    title: The Best Features of Your Services
+    title: mr fiktiv
+    image: images/product_mrfiktiv.png
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      mrfiktiv ist eine Plattform, auf der Kunden bei der Abrechnung von Autoschäden geholfen wird.​
+      Eine digitale Schadensabrechnung nach Autounfällen – kein Werkstattbesuch, keine Reparatur und schnelles Geld. ​
     actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
-  - section_id: call-to-action
-    component: cta_block.html
-    type: ctablock
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+      - label: Learn More
+        url: https://www.mrfiktiv.com
+  - section_id: registrationrecognition
+    component: content_block.html
+    type: contentblock
+    bg: gray
+    title: Fahrzeugschein Erkennung
+    image: images/product_registration_recognition.png
+    content: >-
+      Digitalisierung von Fahrzeugscheinen mittels start of the art machine learning object detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
     actions:
-      - label: Get Started
-        url: '#'
-menus:
-  main:
-    weight: 2
-    title: Features
+      - label: Learn More
+        url: /features/registrationrecognition
+  # - section_id: call-to-action
+  #   component: cta_block.html
+  #   type: ctablock
+  #   title: This Is Call to Action Block!
+  #   subtitle: This is an optional description for the call to action block.
+  #   actions:
+  #     - label: Get Started
+  #       url: '#'
+
 layout: features
 ---

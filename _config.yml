@@ -4,15 +4,17 @@ permalink: "/:year/:month/:day/:title/"
 collections:
   posts:
     permalink: "/blog/:year/:month/:day/:title/"
-navbar-links:
-  Home: "index"
-  Features: "features"
-  About: "about"
-palette: blue
+
 header:
   title: mmmint.ai
   logo_img: images/logo.png
   has_nav: true
+  nav:
+    Home: "index"
+    Blog: "blog"
+    Features: "features"
+    About: "about"
+  palette: blue
   menu:
     actions:
       - label: Sign Up
