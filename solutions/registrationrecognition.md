@@ -3,8 +3,8 @@ title: Fahrzeugschein Erkennung
 subtitle: Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. 
 sections:
   - section_id: registrationrecognition
-    component: content_block.html
-    type: contentblock
+    component: features_block.html
+    type: featuresblock
     bg: gray
     title: Künstliche Intelligenz zur Optimierung Ihrer Prozesse
     image: images/product_registration_recognition.png
