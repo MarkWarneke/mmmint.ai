@@ -25,10 +25,12 @@
               class="icon-close" aria-hidden="true"></span></button>
           <ul class="menu">
             {%- for link in site.header.nav -%}
-            <li class="menu-item {% if page.url == link[1] %} current-menu-item{% endif %}">
+            {% assign current = page.url | split:'/' | second %}
+            <li class="menu-item {% if current == link[1] %} current-menu-item{% endif %}">
               <a href="{{ link[1] | relative_url }}">{{ link[0]}}</a>
             </li>
-            {%- endfor -%}
+           
+            {%- endfor -%}  
           </ul><!-- .menu -->
         </div><!-- .site-nav-inside -->
       </nav><!-- .site-navigation -->
