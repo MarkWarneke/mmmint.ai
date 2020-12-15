@@ -35,7 +35,7 @@ sections:
           - label: Learn More
             url: /features
 
-      - title: Multi-Cloud Strategie Workshop m
+      - title: Multi-Cloud Strategie Workshop
         image: images/feature3.png
         content: >-
           Lernen Sie von unseren Experten wie eine moderne Multi-Cloud Strategie ihre Digitalen Transformation voran bringen kann. 
@@ -43,7 +43,7 @@ sections:
       - title: Machine Learning Operations Workshop
         image: images/feature4.png
         content: >-
-          **Date is the new oil` - dieser drei wöchentliche hybride Workshop Serie zu MLOps vermittelt Ihnen anhand von neusten Trainings Material sowie Hand-On Beratung wie Sie ihre Machine Learning Workloads in die Produktion bringen. 
+          **Data is the new oil** - dieser drei wöchentliche hybride Workshop Serie zu MLOps vermittelt Ihnen anhand von neusten Trainings Material sowie Hand-On Beratung wie Sie ihre Machine Learning Workloads in die Produktion bringen. 
           Nach Abschgluss des intensiv Programms haben Sie die Fähigkiet Ihre Bereistellung Geschwindigkeit von Machine Learning Alogrithmen in die Produktion deutlich zu erhöhen.
       - title: Individuelle Lösung für Ihre Werkstatt
         image: images/feature3.png
