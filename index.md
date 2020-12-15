@@ -34,10 +34,10 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: mileage prediction
+      - title: Individuelle Lösung für Ihre Werkstatt
         image: images/feature3.png
         content: >-
-          Predictive maintenance service for workshops. Prediction for workshop booking and cold calling customers by predicting mileage using state of the art machine learning algorithm.
+          Sie möchten Ihre Werkstatt digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an.
         actions:
           - label: Learn More
             url: /features
