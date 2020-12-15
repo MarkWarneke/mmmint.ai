@@ -53,7 +53,7 @@ sections:
           * Bereistellung der API Spezifikation
         actions:
           - label: Order Now
-            url: /signup
+            url: mailto:info@mmmint.ai
       - title: Professional
         price: €500/m
         details: |-
@@ -67,7 +67,7 @@ sections:
         highlight: true
         actions:
           - label: Order Now
-            url: /signup
+            url: mailto:info@mmmint.ai
       - title: Enterprise
         price: individuell
         details: |-
@@ -75,7 +75,7 @@ sections:
           * Individuelle Vertragsvereinbarung
         actions:
           - label: Order Now
-            url: /signup
+            url: mailto:info@mmmint.ai
   - section_id: faq
     component: faq_block.html
     type: faqblock
