@@ -44,6 +44,7 @@ sections:
         price: €300
         details: |-
           * pro 1000 Bilder
+          * dann €0.15 pro Bild
           * Volle Fahrzeugschein Digitalisierung
           * Bereistellung der API Spezifikation
           * Bereitstellung Python SDK
