@@ -7,7 +7,7 @@ sections:
     bg: gray
     title: Smart Solutions
     subtitle: >-
-      take a look, what mmmint.ai already solved
+      take a look, what mmmint.ai is offering
     featureslist:
       - title: mr fiktiv
         image: images/product_mrfiktiv.png
@@ -24,7 +24,7 @@ sections:
         actions:
           - label: Learn More
             url: /solutions/registrationrecognition
-       - title: Intelligentes Fahrverhalten und Kilometerstandsprognose
+      - title: Intelligentes Fahrverhalten und Kilometerstandsprognose
         image: images/undraw_Artificial_intelligence_re_enpp.svg
         content: >-
           mmmint.ai analysiert das Fahrverhalten Ihrer Werkstattkunden oder Ihres Fuhrparks und ermöglicht mit Hilfe von KI und Deep Learning Algorithmen präzise Vorhersagen.​
