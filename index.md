@@ -7,7 +7,7 @@ sections:
     image: images/logo.png
     title: MMM Intelligence
     content: >-
-      We are building smart solutions. Osnabrücker Talentschmiede für Künstliche Intelligenz und alles Digitale.
+      building smart solutions. Osnabrücker Talentschmiede für Künstliche Intelligenz und Digitales.
     actions:
       - label: Learn More
         url: /solutions
@@ -15,29 +15,29 @@ sections:
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Solutions
+    title: Smart Solutions
     subtitle: >-
-      mmmint.ai - building smart solutions
+      take a look, what mmmint.ai is offering
     featureslist:
       - title: mr fiktiv
         image: images/product_mrfiktiv.png
         content: >-
-          mr fiktiv ist eine Plattform, auf der Kunden bei der Abrechnung von Autoschäden geholfen wird.​
-          Eine digitale Schadensabrechnung nach Autounfällen – kein Werkstattbesuch, keine Reparatur und schnelles Geld. ​
+          mr fiktiv ist eine digitale Plattform für die Abrechnung von Versicherungsschäden nach einem Unfall.​
+          Eine smarte Schadensabrechnung nach dem Unfall – kein Werkstattbesuch, keine Reparatur und dank dem Einsatz von KI schnelles Geld. ​
         actions:
           - label: Learn More
             url: /solutions/mrfiktiv
       - title: Fahrzeugschein Erkennung
         image: images/product_registration_recognition.png
         content: >-
-          Digitalisierung von Fahrzeugscheinen mittels state of the art deep-learning-based Object Detection und optical character recognition (OCR). Zur automatisierten Anlage von Kunden und Versicherungsfällen.
+          Digitalisierung von Fahrzeugscheinen mittels state of-the-art Object Detection und Optical Character Recognition (OCR). Durch Machine Learning zur automatisierten Anlage von Kundenfahrzeugen und Versicherungsfällen in Ihrem DMS. mmmint.ai virtualisiert den Fahrzeugschein sowohl für den Werkstattbesuch, Flottenbetreiber als auch Fuhrparkmanager.
         actions:
           - label: Learn More
             url: /solutions/registrationrecognition
-      - title: Individuelle Lösung für Ihr Unternehmen
+      - title: Individuelle Softwarelösungen für Ihr Unternehmen
         image: images/undraw_cloud_sync_2aph.svg
         content: >-
-          Sie möchten Ihr Unternehmen digitalisieren und haben bereits konkrete Ideen? Sprechen Sie uns gerne an. [<mark>mmmint.ai - building smart solutions</mark>](/solutions)
+          Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Innovationen. Sprechen Sie uns gerne für Ihr individuelles Produkt an. [<mark>mmmint.ai - building smart solutions</mark>](/solutions)
 
         actions:
           - label: Solutions
@@ -53,8 +53,8 @@ sections:
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
-    title: Jetzt Kontakt aufnehmen!
-    subtitle: Wir sind gespannt auf Ihre Herausforderung
+    title: Get in contact!
+    subtitle: Wir sind gespannt auf Ihre Herausforderung!
     actions:
       - label: Kontakt
         url: mailto:info@mmmint.ai
