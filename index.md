@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/logo_alt.png
+    image: images/logo.png
     title: MMM Intelligence
     content: >-
       We are building smart solutions. Osnabrücker Talentschmiede für Künstliche Intelligenz und alles Digitale.
