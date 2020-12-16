@@ -24,11 +24,6 @@ sections:
         actions:
           - label: Learn More
             url: /solutions/registrationrecognition
-      - title: Intelligentes Fahrverhalten und Kilometerstandsprognose
-        image: images/undraw_Artificial_intelligence_re_enpp.svg
-        content: >-
-          mmmint.ai analysiert das Fahrverhalten Ihrer Werkstattkunden oder Ihres Fuhrparks und ermöglicht mit Hilfe von KI und Deep Learning Algorithmen präzise Vorhersagen.​
-          Planbare Serviceintervalle, sowie vorhersehbare Fahrleistungen. Nutzen Sie die modernen Gradmesser der Technologie und reduzieren Kosten auf Knopfdruck. ​
       - title: Individuelle Softwarelösungen für Ihr Unternehmen
         image: images/undraw_cloud_sync_2aph.svg
         content: >-
