@@ -6,27 +6,27 @@ sections:
     component: reviews_block.html
     type: reviewsblock
     bg: white
-    title: Co-Founders
+    title: Meet our Co-Founders
     subtitle: >-
-      What we have to say about us!
+      Take a look, what MMM has to say!
     reviews:
       - author: Mark
         avatar: images/markw.jpg
         content: >-
-          Mark ist Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein.​ Mark is mehrfach zertifizierter Cloud und Kubernetes Experte.
+          Mark ist unser CTO und Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein.​ Mark is mehrfach zertifizierter Cloud und Kubernetes Experte.
       - author: Max
         avatar: images/maxs.jpg
         content: >-
-          Max ist Geschäftsführer der Restemeier GmbH und Experte in der Unfallschadenabwicklung. Er überzeugt mit Branchenkenntnis und Netzwerk. Er ist Vorstandsmitglied bei der IDK, der größten Kfz-Innung in Norddeutschland mit ca. 600 Mitgliedsbetrieben.
+          Max ist unser CEO und unser Experte für die Automotive Industrie. Er überzeugt mit Branchenkenntnis und Unternehmergeist. Als jüngstes Vorstandsmitglied der IDK, der größten Kfz-Innung Norddeutschlands bringt er zudem fundamentales Netzwerk und wirtschaftspolitisches Kalkül mit ins Team.
       - author: Max
         avatar: images/maxl.jpg
         content: >-
-          Max ist KI-Experte und hat Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt.
+          Max ist unser COO und KI-Experte für Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend für unsere smarten Lösungen.
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
     title: Get to know us!
-    subtitle: Schicken Sie uns eine E-Mail und trete mit uns in Kontakt!
+    subtitle: Schicken Sie uns eine E-Mail und tauche mit uns ein in die Welt von KI und Digitales!
     actions:
       - label: Mail!
         url: 'mailto:info@mmmint.ai'
@@ -39,10 +39,10 @@ sections:
     faqitems:
       - question: Wann habt ihr Gegründet?
         answer: >-
-          MMM Intelligence UG (haftungsbeschränkt) wurde im August 2020 in Osnbrück gegründet.
+          Die MMM Intelligence UG (haftungsbeschränkt) wurde im August 2020 in Osnabrück gegründet.
       - question: Was sind eure Ziele?
         answer: >-
-          Die Bausteine der digitalen Schadensaufnahme werden als eigene Produkte vermarktet, z. B. die intelligente Kratzer-, Fahrzeugschein- und Nummernschild-erkennung.
+          Wir möchten uns als Talentschmiede für KI und Digitales etablieren. Dabei vertreiben wir modulare Softwarelösungen, wie z.B. die intelligente Kratzer-, Fahrzeugschein- und Nummernschild-erkennung. Mit unserem agilen Team stellen wir den Status Quo der Softwareentwicklung in Frage und erarbeiten individualisert Innovationen.
       - question: Arbeitet Ihr mit einem Startup Accelerator zusammen?
         answer: >-
           Ja, wir sind in dem Accelerator Programm des [Seedhouse Osnabrück](https://www.seedhouse.de/), siehe ["Wir sind aufgenommen worden im Seedhouse Osnabrück"](/blog/2020/11/16/mr_fiktiv_joint_das_seedhouse/)
