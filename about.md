@@ -26,7 +26,7 @@ sections:
     component: cta_block.html
     type: ctablock
     title: Get to know us!
-    subtitle: Schicken Sie uns eine E-Mail und tauche mit uns ein in die Welt von KI und Digitales!
+    subtitle: Tauchen Sie mit uns ein in die Welt von KI und digitaler Innovation!
     actions:
       - label: Mail!
         url: 'mailto:info@mmmint.ai'
@@ -35,7 +35,7 @@ sections:
     type: faqblock
     bg: gray
     title: Frequently Asked Questions
-    subtitle: Hier sind die meist gestellten Fragen
+    subtitle: You ask - we answer
     faqitems:
       - question: Wann habt ihr Gegründet?
         answer: >-
