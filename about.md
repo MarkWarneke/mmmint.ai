@@ -13,7 +13,7 @@ sections:
       - author: Mark
         avatar: images/markw.jpg
         content: >-
-          Mark ist und Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein.​ Mark is mehrfach zertifizierter Cloud und Kubernetes Experte.
+          Mark ist und Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein. Mark ist mehrfach zertifizierter Cloud und Kubernetes Experte.
       - author: Max
         avatar: images/maxs.jpg
         content: >-
