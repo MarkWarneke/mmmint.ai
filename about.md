@@ -13,15 +13,15 @@ sections:
       - author: Mark
         avatar: images/markw.jpg
         content: >-
-          Mark ist unser CTO und Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein.​ Mark is mehrfach zertifizierter Cloud und Kubernetes Experte.
+          Mark ist und Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein.​ Mark is mehrfach zertifizierter Cloud und Kubernetes Experte.
       - author: Max
         avatar: images/maxs.jpg
         content: >-
-          Max ist unser CEO und unser Experte für die Automotive Industrie. Er überzeugt mit Branchenkenntnis und Unternehmergeist. Als jüngstes Vorstandsmitglied der IDK, der größten Kfz-Innung Norddeutschlands bringt er zudem fundamentales Netzwerk und wirtschaftspolitisches Kalkül mit ins Team.
+          Max ist unser Experte für die Automotive Industrie. Er überzeugt mit Branchenkenntnis und Unternehmergeist. Als jüngstes Vorstandsmitglied der IDK, der größten Kfz-Innung Norddeutschlands bringt er zudem fundamentales Netzwerk und wirtschaftspolitisches Kalkül mit ins Team.
       - author: Max
         avatar: images/maxl.jpg
         content: >-
-          Max ist unser COO und KI-Experte für Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend für unsere smarten Lösungen.
+          Max ist unser KI-Experte für Machine Learning und Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend für unsere smarten Lösungen.
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
