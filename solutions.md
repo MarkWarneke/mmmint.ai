@@ -20,7 +20,7 @@ sections:
       - title: Fahrzeugschein Erkennung
         image: images/product_registration_recognition.png
         content: >-
-          Digitalisierung von Fahrzeugscheinen mittels state of the art object detection und optical character recognition (OCR). Durch Machine Learning zur automatisierten Anlage von Kundenfahrzeugen und Versicherungsfällen in Ihrem DMS System. mmmint.ai virtualisiert den Fahrzeugschein sowohl für den Werkstattbesuch, FLottenbetreiber und Fuhrparkmanager.
+          Digitalisierung von Fahrzeugscheinen mittels state of the art object detection und optical character recognition (OCR). Durch Machine Learning zur automatisierten Anlage von Kundenfahrzeugen und Versicherungsfällen in Ihrem DMS System. mmmint.ai virtualisiert den Fahrzeugschein sowohl für den Werkstattbesuch, Flottenbetreiber und Fuhrparkmanager.
         actions:
           - label: Learn More
             url: /solutions/registrationrecognition
