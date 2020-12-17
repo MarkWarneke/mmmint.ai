@@ -38,10 +38,16 @@ sections:
         image: images/undraw_cloud_sync_2aph.svg
         content: >-
           Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Innovationen. Sprechen Sie uns gerne für Ihr individuelles Produkt an. [<mark>mmmint.ai - building smart solutions</mark>](/solutions)
-
         actions:
           - label: Solutions
             url: /solutions
+      - title: CrashBot - Ihr virtueller Helfer nach dem Unfall
+        image: images/undraw:chat_bot_kli5.svg
+        content: >-
+          Wir bieten Werkstätten, Versicherungen, Flottenbetreibern und Fuhrparkmanagern einen auf KI trainierten Chatbot an. Die Antworten werden durch Deep Learning optimiert und geben dem Endkunden Sicherheit im Umgang mit dieser schwierigen Thematik. Unser CrashBot lernt gerade für seinen großen Auftritt - wenn Sie von Anfang dabei sein möchten, melden Sie sich gerne hier für unsere Updates an.
+         actions:
+          - label: Kontakt
+            url: mailto:info@mmmint.ai
       - title: Workshops für Ihr Unternehmen
         image: images/undraw_robotics_kep0.svg
         content: >-
