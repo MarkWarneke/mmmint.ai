@@ -42,7 +42,7 @@ sections:
           - label: Solutions
             url: /solutions
       - title: CrashBot - Ihr virtueller Helfer nach dem Unfall
-        image: images/undraw:chat_bot_kli5.svg
+        image: images/undraw_chat_bot_kli5.svg
         content: >-
           Wir bieten Werkstätten, Versicherungen, Flottenbetreibern und Fuhrparkmanagern einen auf KI trainierten Chatbot an. Die Antworten werden durch Deep Learning optimiert und geben dem Endkunden Sicherheit im Umgang mit dieser schwierigen Thematik. Unser CrashBot lernt gerade für seinen großen Auftritt - wenn Sie von Anfang dabei sein möchten, melden Sie sich gerne hier für unsere Updates an.
         actions:
