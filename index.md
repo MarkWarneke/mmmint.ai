@@ -39,8 +39,8 @@ sections:
         content: >-
           Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Innovationen. Sprechen Sie uns gerne für Ihr individuelles Produkt an. [<mark>mmmint.ai - building smart solutions</mark>](/solutions)
         actions:
-          - label: Solutions
-            url: /solutions
+          - label: Kontakt
+            url: /contact
       - title: CrashBot - Ihr virtueller Helfer nach dem Unfall
         image: images/undraw_chat_bot_kli5.svg
         content: >-
