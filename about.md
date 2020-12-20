@@ -6,14 +6,14 @@ sections:
     component: reviews_block.html
     type: reviewsblock
     bg: white
-    title: Meet our Co-Founders
+    title: Meet the Co-Founders
     subtitle: >-
-      Take a look, what MMM has to say!
+      MMM
     reviews:
       - author: Mark
         avatar: images/markw.jpg
         content: >-
-          Mark ist und Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein. Mark ist mehrfach zertifizierter Cloud und Kubernetes Experte.
+          Mark ist Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein. Mark ist mehrfach zertifizierter Cloud und Kubernetes Experte.
       - author: Max
         avatar: images/maxs.jpg
         content: >-
@@ -25,11 +25,11 @@ sections:
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
-    title: Get to know us!
+    title: Want to join us?
     subtitle: Tauchen Sie mit uns ein in die Welt von KI und digitaler Innovation!
     actions:
-      - label: Mail!
-        url: 'mailto:info@mmmint.ai'
+      - label: Carrer
+        url: /career
   - section_id: faq
     component: faq_block.html
     type: faqblock
