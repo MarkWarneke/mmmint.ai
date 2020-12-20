@@ -35,16 +35,19 @@ sections:
     type: faqblock
     bg: gray
     title: Frequently Asked Questions
-    subtitle: You ask - we answer
+    subtitle: FAQ
     faqitems:
       - question: Wann habt ihr Gegründet?
         answer: >-
           Die MMM Intelligence UG (haftungsbeschränkt) wurde im August 2020 in Osnabrück gegründet.
-      - question: Was sind eure Ziele?
+      - question: Was sind Eure Ziele?
         answer: >-
           Wir möchten uns als Talentschmiede für KI und Digitales etablieren. Dabei vertreiben wir modulare Softwarelösungen, wie z.B. die intelligente Kratzer-, Fahrzeugschein- und Nummernschild-erkennung. Mit unserem agilen Team stellen wir den Status Quo der Softwareentwicklung in Frage und erarbeiten individualisert Innovationen.
       - question: Arbeitet Ihr mit einem Startup Accelerator zusammen?
         answer: >-
           Ja, wir sind in dem Accelerator Programm des [Seedhouse Osnabrück](https://www.seedhouse.de/), siehe ["Wir sind aufgenommen worden im Seedhouse Osnabrück"](/blog/2020/11/16/mr_fiktiv_joint_das_seedhouse/)
+       - question: Sucht Ihr nach weiteren Investoren?
+         answer: >-
+          Durch Aufnahme in das Start-Up Programm des [Seedhouse Osnabrück](https://www.seedhouse.de/) ist der erste Kapitalbedarf gedeckt. Wir planen im Q2 2021 in die nächste Finanzierungsrunde zu gehen. Sie sind Business Angel oder interessiert an Private Equity? Gerne sind wir offen für einen Austausch mit Ihnen. Kontaktieren Sie uns bitte in Hinblick aller Investors Relations [hier](mailto:max.stein@mmmint.ai).
 layout: home
 ---
