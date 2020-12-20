@@ -13,7 +13,7 @@ sections:
         image: images/undraw_server_status_5pbv.svg
         content: >-
           Lernen Sie von unseren Experten wie eine moderne Multi-Cloud Strategie ihre Digitalen Transformation voran bringen kann. 
-          Durch die Nutzung einer secure in depth cloud-native Multi-Cloud Strategie wird Ihre IT Transformation nicht nur deutlich modernisiert, sondern gleichzeitig zukunftssicher und deutlich verlässlichlicher gestaltet.
+          Durch die Nutzung einer secure in depth cloud-native Multi-Cloud Strategie wird Ihre IT Transformation nicht nur deutlich modernisiert, sondern gleichzeitig zukunftssicher und verlässlichlicher gestaltet.
       - title: Machine Learning Operations Workshop
         image: images/undraw_Artificial_intelligence_re_enpp.svg
         content: >-
