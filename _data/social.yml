@@ -10,6 +10,9 @@
 - name: Twitter
   link: https://twitter.com/mmmint_ai
   class: brands fa-twitter
+- name: GitHub
+  link: https://github.com/mmmint-ai
+  class: brands fa-github
 - name: Email
   link: mailto:info@mmmint.ai
   class: solid fa-envelope
