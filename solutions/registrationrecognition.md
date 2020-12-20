@@ -10,7 +10,7 @@ sections:
       - title: Künstliche Intelligenz zur Optimierung Ihrer Prozesse
         image: images/product_registration_recognition.png
         content: >-
-          Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. 
+          Mit Hilfe unserer digitalen Fahrzeugscheinerkennung können Sie Fahrzeugscheine automatisiert auslesen und in Ihr DMS-System über eine API-Schnittstelle importieren.
           <br/><br/>
           Wir verwenden deep-learning-based Object Detection und Texterkennung um die Fahrzeugscheine zu verarbeiten. Um eine sehr hohe Genauigkeit zu erreichen, wurde unsere Künstliche Intelligenz mit mehreren Tausend Bildern angelernt. Folgende Postitionen kann unsere Künstliche Intelligenz automatisiert extrahieren:
 
@@ -25,6 +25,8 @@ sections:
           * Nächste HU und Erstzulassung
 
           * Codehersteller und Codetyp
+          
+          * Hersteller und Modell
         actions:
           - label: Go To API
             url: /solutions/fahrzeugschein.html
@@ -33,35 +35,34 @@ sections:
     component: cta_block.html
     type: ctablock
     title: Jetzt Demo anfordern!
-    subtitle: Schicken Sie uns eine E-Mail und erhalten Sie eine Teststellung zu unserer Fahrzeugschein Erkennung.
+    subtitle: Schicken Sie uns einfach eine kurze E-Mail und erhalten Sie eine Teststellung zu unserer Fahrzeugschein Erkennung. Gerne unterstützen wir Sie beratend zur Implementierung in Ihrem System. Sollte eine Schnittstellenbeschreibung Ihres DMS Systems vorhanden sein, können wir gerne in den Austausch gehen.
     actions:
-      - label: Get Started
+      - label: Get digital
         url: 'mailto:info@mmmint.ai'
   - section_id: pricing
     component: pricing_block.html
     type: pricingblock
     bg: gray
-    title: Pricing Plans
-    subtitle: Wir bieten verschiedene Preismodelle an. 
+    title: Pricing
+    subtitle: Gerne erstellen wir Ihnen ein individualisiertes Angebot. 
     pricingplans:
       - title: Basic
-        price: €300/m
+        price: 298€/month
         details: |-
-          * 1000 Bilder inklusive,
-          * dann €0.15 pro Bild
-          * Volle Fahrzeugschein Digitalisierung
-          * Bereistellung der API Spezifikation
+          * 1000 Bilder inklusive
+          * dann 0.08€ pro Bild
+          * Bereitstellung Fahrzeugschein Overlay
+          * Bereistellung API Dokumentation
+          * Bereistellung Python SDK
         actions:
           - label: Order Now
             url: mailto:info@mmmint.ai
       - title: Professional
-        price: €500/m
+        price: 498€/month
         details: |-
-          * 2000 Bilder inklusive,
-          * dann €0.08 pro Bild
-          * Support: 24 Stunden Reaktionszeit
-          * Volle Fahrzeugschein Digitalisierung
-          * Fahrzeugschein Overlay
+          * 2000 Bilder inklusive
+          * dann 0.08€ pro Bild
+          * Bereitstellung Fahrzeugschein Overlay
           * Einführung in die API Spezifikation
           * Einführung in Python SDK
         highlight: true
@@ -71,30 +72,27 @@ sections:
       - title: Enterprise
         price: individuell
         details: |-
-          * Volle Fahrzeugschein Digitalisierung
+          * Individuelle Preisgestaltung
           * Individuelle Vertragsvereinbarung
         actions:
-          - label: Order Now
+          - label: get in contact
             url: mailto:info@mmmint.ai
   - section_id: faq
     component: faq_block.html
     type: faqblock
     bg: gray
     title: Frequently Asked Questions
-    subtitle: Hier sind die meist gestellten Fragen
+    subtitle: FAQ
     faqitems:
       - question: Wie kann ich die Fahrzeugschein API benutzen? 
         answer: >-
-          For usage of the registration recognition API an APIKey (`access_token`) is required.
-          Please get in contact with us to request a test environment.
-          <br/>
-          For support reach out to [info@mmmint.ai](mailto:info@mmmint.ai). 
-      - question: Wird die DSGVO eingehalten?
+          Um einen vollumfänglichen Zugriff auf unsere API zu bekommen wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai). 
+      - question: Werden die Fahrzeugscheine DSGVO verarbeitet?
         answer: >-
-          The provided service is hosted in german datacenters. Submitted data is encrypted in transit and at rest. The submitted date can only be accessed using the used APIKey.
+          Alle bereitgestellten Services werden in deutschen Rechenzentren verarbeitet und gehosted. Übermittelte Datensätze werden Ende-zu-Ende verschlüsselt und gelagert. Ein Zugriff auf die Daten ist nur mit Hilfe des APIKey (`access_token`) möglich. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert.
       - question: Wie funktioniert die Fahrzeugschein API?
         answer: >-
-          For support reach out to [info@mmmint.ai](mailto:info@mmmint.ai). For usage of the registration recognition API an APIKey (`access_token`) is required.
+          Gerne stellen wir Ihnen eine Teststellung bereit und testen live mit Ihnen die Verarbeitung. Anbei finden Sie einen Auszug aus unserer API Dokumentation:
 
             1. In order to use the registration recognition API you start by submitting an image via file upload, or with a publicly accessible image of the registration, using a POST to `/fahrzeugschein`.
             2. The asynchronous processing of the the recognition can be checked using the `/fahrzeugschein/status/` {sessionId} resource.
