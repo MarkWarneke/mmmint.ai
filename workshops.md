@@ -7,28 +7,28 @@ sections:
     bg: gray
     title: Workshops
     subtitle: >-
-      mmmint.ai - grow with us
+      Gerne führen wir Ihr Unternehmen hin zu Künstlicher Intelligenz und Machine Learning.
     featureslist:
       - title: Multi-Cloud Strategie Workshop
         image: images/undraw_server_status_5pbv.svg
         content: >-
           Lernen Sie von unseren Experten wie eine moderne Multi-Cloud Strategie ihre Digitalen Transformation voran bringen kann. 
-          Durch die Nutzung einer secure in depth cloud-native Multi-Cloud Strategie wird Ihre IT Transformation nicht nur deutlich modernisiert sondern gleichzeitig zukunftssicher und deutlich verlässlichlicher gestaltet.
+          Durch die Nutzung einer secure in depth cloud-native Multi-Cloud Strategie wird Ihre IT Transformation nicht nur deutlich modernisiert, sondern gleichzeitig zukunftssicher und deutlich verlässlichlicher gestaltet.
       - title: Machine Learning Operations Workshop
         image: images/undraw_Artificial_intelligence_re_enpp.svg
         content: >-
-          **Data is the new oil** - diese drei wöchentliche hybride Workshop-Serie zu MLOps vermittelt Ihnen anhand von neusten Trainingsmaterial, sowie Hand-On Beratung wie Sie ihre Machine Learning Workloads in die Produktion bringen. 
+          **Data is the new oil** - diese dreiwöchige hybride Workshop-Serie zu MLOps vermittelt Ihnen anhand von neusten Trainingsmaterial, sowie Hand-On Beratung wie Sie ihre Machine Learning Workloads in die Produktion bringen. 
           Nach Abschluss des Intensivprogramms haben Sie die Fähigkiet Ihre Bereistellungsgeschwindigkeit von Machine Learning Alogrithmen in die Produktion deutlich zu erhöhen.
       - title: Individuelle Workshops für Ihr Unternehmen
         image: images/undraw_robotics_kep0.svg
         content: >-
-          Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema Digitaler Transformation.
+          Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema Digitaler Transformation. Gerne sind wir auch Ihr Ansprechpartner für die Entwicklung eines individualisierten Workshops oder IT-Projekts. 
 
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
     title: Get in contact! 
-    subtitle: mmmint.ai - grow with us. Wir sind gespannt auf Ihre Herausforderung.
+    subtitle: mmmint.ai - Wir sind gespannt auf Ihre Herausforderung.
     actions:
       - label: Kontakt
         url: mailto:info@mmmint.ai
