@@ -44,15 +44,14 @@ sections:
       - title: Individuelle Softwarelösungen für Ihr Unternehmen
         image: images/undraw_cloud_sync_2aph.svg
         content: >-
-          Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Innovationen. Sprechen Sie uns gerne für Ihr individuelles Produkt an. [<mark>mmmint.ai - building smart solutions</mark>](/solutions)
+          Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Innovationen. Sprechen Sie uns gerne für Ihr individuelles Produkt an.
         actions:
           - label: Kontakt
             url: /contact
       - title: Workshops für Ihr Unternehmen
         image: images/undraw_robotics_kep0.svg
         content: >-
-          Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema Digitaler Transformation. [<mark>mmmint.ai - creating value</mark>](/workshops)
-
+          Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema Digitaler Transformation. Von Multi-Cloud-Strategien über Machine Learning hin zur Monetarisierung Ihrer Datensätze. Sehen Sie sich unser Angebot an.
         actions:
           - label: Workshops
             url: /workshops
