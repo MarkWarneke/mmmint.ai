@@ -10,50 +10,46 @@ sections:
       - title: mr fiktiv
         image: images/product_mrfiktiv.png
         content: >-
-          Durch mrfiktiv werden Kunden und Werkstätten in einem digitalen Raum zusammengebracht. 
+          Durch mrfiktiv werden Kunden, Werkstätten und Versicherungen in einem digitalen Raum zusammengebracht. 
           <br/> <br/>
-          Dabei profitieren sowohl die Werkstätten als auch die Kunden, die fiktiv abrechnen wollen: Die Kunden können ohne Werkstattbesuch und kostengünstig die Schäden bei der Versicherung einreichen. Die Werkstatt kann mit wenig Aufwand zusätzlichen Umsatz erwirtschaften und die Mitarbeiter im Kundendienst zielgerichteter auslasten.​​
+          Durch unsere digitale Lösung profitieren alle genannten Parteien: Wir geben Endkunden die Möglichkeit ohne Werkstattbesuch und deutlich kostengünstiger ihre Fahrzeugschäden bei der Versicherung abzurechnen. Unsere Partnerwerkstätten können durch den schlankeren Prozess mit geringerem Aufwand zusätzlichen Ertrag erwirtschaften und die Mitarbeiter im Kundendienst zielgerichteter auslasten. Durch den Einsatz von Künstlicher Intelligenz und Deep-Learning Algorithmen reduzieren wir Fehlerpotenzial und helfen Werkstätten ihre Prozesse weiter zu digitalisieren.​​
         actions:
           - label: Go To App
             url: https://www.mrfiktiv.com
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
-    title: Partner Werden?
-    subtitle: Schicken Sie uns eine Nachricht wenn Sie KFZ oder Versicherungspartner für mr fiktiv werden wollen!
+    title: Sie möchten Partner werden?
+    subtitle: Sie sind Fuhrparkmanager, Inhaber einer Werkstatt oder in der Versicherungsbranche tätig? Lassen Sie uns Ihnen dabei helfen, Ihre Prozesse zielgerichteter zu monetarisieren. Kontaktieren Sie uns jetzt für einen unverbindlichen Austausch über die fiktive Abrechnung von morgen.
     actions:
-      - label: Get Started
+      - label: Get digital
         url: mailto:info@mrfiktiv.com
   - section_id: faq
     component: faq_block.html
     type: faqblock
     bg: gray
     title: Frequently Asked Questions
-    subtitle: Hier sind die meist gestellten Fragen
+    subtitle: FAQ
     faqitems:
-      - question: Wie kann ich Partner für mr fiktiv werden?
+      - question: Wie kann ich Partner für mrfiktiv.com werden?
         answer: >-
-          Schreib uns einfach eine mail an [info@mrfiktiv.com](info@mrfiktiv.com).
+          Schreib uns einfach eine E-Mail an [info@mrfiktiv.com](info@mrfiktiv.com).
       - question: Was ist mr fiktiv?
         answer: >-
-          Durch mrfiktiv werden Kunden und Werkstätten in einem digitalen Raum zusammengebracht. Dabei profitieren sowohl die Werkstätten als auch die Kunden, die fiktiv abrechnen wollen: 
+          Durch mrfiktiv werden Kunden, Werkstätten und Versicherungen in einem digitalen Raum zusammengebracht. Durch den Einsatz von Künstlicher Intelligenz und Deep-Learning Algorithmen reduzieren wir Fehlerpotenzial und helfen Werkstätten ihre Prozesse weiter zu digitalisieren: 
           
-            - Die Kunden können ohne Werkstattbesuch und kostengünstig die Schäden bei der Versicherung einreichen. 
-            - Die Werkstatt kann mit wenig Aufwand zusätzlichen Umsatz erwirtschaften und die Mitarbeiter im Kundendienst zielgerichteter auslasten.​
-      - question: Lohnt sich mr fiktiv?
+            - Die Kunden können ohne Werkstattbesuch und kostengünstig die Schäden bei der Versicherung einreichen.
+            - Versicherungen und Fuhrparkmanager bekommen digitalisiert und in einem einheitlichen Standard alle relevanten Informationen in Echtzeit bereitgestellt.
+            - Die Werkstatt kann mit wenig Aufwand zusätzlichen Ertrag erwirtschaften und die Mitarbeiter im Kundendienst zielgerichteter auslasten.​
+      - question: Für wen lohnt sich der Service von mr fiktiv?
         answer: >-
-          Die Tendenz des fiktiven Abrechnens​ in Deutschland ist steigend.​
-          2.700.000 Autounfälle und 330.000 Sturm-, Hagel- und Blitzschäden pro Jahr in Deutschland. Ca 10 % rechnen in Deutschland fiktiv ab. Tendenz steigend.​​
-      - question: Warum sollte ich Partner werden?
+          Die Tendenz des fiktiven Abrechnens​ in Deutschland ist stetig steigend.​
+          2.700.000 Autounfälle und 330.000 Sturm-, Hagel- und Blitzschäden pro Jahr in Deutschland bieten einen ausreichend großen Markt. Aktuellen Statistiken rechnen derzeit ca. 10 % in Deutschland ihren Versicherungsfall fiktiv ab. Der Prozess ist bisher für alle beteiligten Parteien mühsam und undurchsichtig. Wir bringen mit Hilfe von Künstlicher Intelligenz Transparenz und Effizienz in dieses Gebiet. Durch unsere smarte Lösung profitieren alle Beteiligten.​​
+      - question: Warum sollte ich jetzt Partner werden?
         answer: >-
-          Hoher Zeitaufwand​ zur Betreuung des Kunden vor Ort​ und Erstellung eines Kostenvoranschlages. ​
-          Ihre Mitarbeiter sind während der ​Erstellung blockiert und können sich nicht auf ertragreichere Aufträge konzentrieren.​
-          <br/> <br/>
-          Nicht im Fokus​ der Werkstätten, da die Wirtschaftlichkeit im Verhältnis zu anderen Dienstleistungen zu gering ist.​
-
-          <br/><br/>
-      - question: Wie viele Partner hat mr fiktiv?
+          Für Werkstätten reduzieren wir den Zeitaufwand zur Betreuung des Kunden vor Ort und stellen Ihnen eine Möglichkeit zur Arbeit mit Künstlicher Intelligenz zur Verfügung. Unseren Partnerwerkstätten wird eine Möglichkeit zur Akquise von Kostenvoranschlägen gegeben, die es bisher so am Markt noch nicht gibt. Der Versicherung gegenüber wird sichergestellt, dass alle benötigten Daten zur Fiktiven Abrechnung bereitgestellt werden. Unser Endkunde kann dabei bequem von zu Hause am Handy diesen Prozess durchlaufen und spart nicht nur viel Zeit sondern auch bisher hohe Kosten.
+      - question: Wie groß ist das Partnernetzwerk von mr fiktiv?
         answer: >-
-          Wir haben 7 Werkstätten in 6 Städten aus 4 Bundesländern innerhalb von einer Woche für unsere Idee gewonnen. Tendenz steigend.​
+          Als junges und digitales Start-Up aus Osnabrück sind wir gerade dabei unser Partnernetzwerk in Deutschland zu erweitern. Aktuell haben sich uns 7 Werkstätten aus 6 verschiedenen Städten angeschlossen. Bisher erstreckt sich das Netzwerk über 4 Bundesländer. Wir suchen stetig nach weiteren Partnern, achten aber auch darauf die Werkstattdichte gering zu halten, damit unseren Partnerwerkstätten eine zielgerichtete Auslastung zugesichert werden kann.​
 layout: features
 ---
