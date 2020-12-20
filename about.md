@@ -48,6 +48,6 @@ sections:
           Ja, wir sind in dem Accelerator Programm des [Seedhouse Osnabrück](https://www.seedhouse.de/), siehe ["Wir sind aufgenommen worden im Seedhouse Osnabrück"](/blog/2020/11/16/mr_fiktiv_joint_das_seedhouse/)
        - question: Sucht Ihr nach weiteren Investoren?
          answer: >-
-          Durch Aufnahme in das Start-Up Programm des [Seedhouse Osnabrück](https://www.seedhouse.de/) ist der erste Kapitalbedarf gedeckt. Wir planen im Q2 2021 in die nächste Finanzierungsrunde zu gehen. Sie sind Business Angel oder interessiert an Private Equity? Gerne sind wir offen für einen Austausch mit Ihnen. Kontaktieren Sie uns bitte in Hinblick aller Investors Relations [hier](mailto:max.stein@mmmint.ai).
+           Durch Aufnahme in das Start-Up Programm des [Seedhouse Osnabrück](https://www.seedhouse.de/) ist der erste Kapitalbedarf gedeckt. Wir planen im Q2 2021 in die nächste Finanzierungsrunde zu gehen. Sie sind Business Angel oder interessiert an Private Equity? Gerne sind wir offen für einen Austausch mit Ihnen. Kontaktieren Sie uns bitte in Hinblick aller Investors Relations [hier](mailto:max.stein@mmmint.ai).
 layout: home
 ---
