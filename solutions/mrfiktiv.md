@@ -33,7 +33,7 @@ sections:
     faqitems:
       - question: Wie kann ich Partner für mrfiktiv.com werden?
         answer: >-
-          Schreib uns einfach eine E-Mail an [info@mrfiktiv.com](info@mrfiktiv.com).
+          Egal von Versicherungsdienstleister, Werkstatt oder Fuhrparkmanager - Schreiben Sie uns einfach eine E-Mail an [info@mrfiktiv.com](info@mrfiktiv.com). Wir freuen uns auf einen spannenden und unverbindlichen Austausch mit Ihnen.
       - question: Was ist mr fiktiv?
         answer: >-
           Durch mrfiktiv werden Kunden, Werkstätten und Versicherungen in einem digitalen Raum zusammengebracht. Durch den Einsatz von Künstlicher Intelligenz und Deep-Learning Algorithmen reduzieren wir Fehlerpotenzial und helfen Werkstätten ihre Prozesse weiter zu digitalisieren: 
