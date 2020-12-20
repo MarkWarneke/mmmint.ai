@@ -1,9 +1,16 @@
-- name: Instagram
-  link: https://www.instagram.com/mmmint.ai/
-  class: brands fa-twitter
 - name: LinkedIn
   link: https://www.linkedin.com/company/mmmint-ai/
   class: brands fa-linkedin
+- name: Instagram
+  link: https://www.instagram.com/mmmint.ai/
+  class: brands fa-instagram
+- name: Facebook
+  link: https://www.facebook.com/mmmintai
+  class: brands fa-facebook
+- name: Twitter
+  link: https://twitter.com/mmmint_ai
+  class: brands fa-twitter
 - name: Email
   link: mailto:info@mmmint.ai
   class: solid fa-envelope
+  
