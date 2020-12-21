@@ -5,7 +5,7 @@ subtitle: "Ab sofort steht allen Kunden und Partnern der MMM ein neuer Webauftri
 excerpt: >-
     Ein halbes Jahr lang werden wir nun von erfahrerenen Unternehmenspartnern beraten, gecoacht und unterstützt. Das Seedhouse hilft uns außerdem mit Erfahrung im Feintuning unserer Geschäftsidee.
 date: 2020-11-16
-thumb_img_path: images/austin-distel-rxpThOwuVgE-unsplash_thumb.jpg
+thumb_img_path: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 ---
 
 > Ein halbes Jahr lang werden wir nun von erfahrerenen Unternehmenspartnern beraten, gecoacht und unterstützt. Das Seedhouse hilft uns außerdem mit Erfahrung im Feintuning unserer Geschäftsidee.
