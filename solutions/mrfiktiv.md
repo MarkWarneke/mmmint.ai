@@ -36,7 +36,7 @@ sections:
           Egal von Versicherungsdienstleister, Werkstatt oder Fuhrparkmanager - Schreiben Sie uns einfach eine E-Mail an [info@mrfiktiv.com](info@mrfiktiv.com). Wir freuen uns auf einen spannenden und unverbindlichen Austausch mit Ihnen.
       - question: Was ist mr fiktiv?
         answer: >-
-          Durch mrfiktiv werden Kunden, Werkstätten und Versicherungen in einem digitalen Raum zusammengebracht. Durch den Einsatz von Künstlicher Intelligenz und Deep-Learning Algorithmen reduzieren wir Fehlerpotenzial und helfen Werkstätten ihre Prozesse weiter zu digitalisieren: 
+          Durch mrfiktiv werden Kunden, Werkstätten und Versicherungen in einem digitalen Raum zusammengebracht. Durch den Einsatz von Künstlicher Intelligenz und Deep-Learning Algorithmen reduzieren wir Fehlerpotenzial und helfen Werkstätten, ihre Prozesse weiter zu digitalisieren: 
           
             - Die Kunden können ohne Werkstattbesuch und kostengünstig die Schäden bei der Versicherung einreichen.
             - Versicherungen und Fuhrparkmanager bekommen digitalisiert und in einem einheitlichen Standard alle relevanten Informationen in Echtzeit bereitgestellt.
@@ -47,9 +47,9 @@ sections:
           2.700.000 Autounfälle und 330.000 Sturm-, Hagel- und Blitzschäden pro Jahr in Deutschland bieten einen ausreichend großen Markt. Aktuellen Statistiken rechnen derzeit ca. 10 % in Deutschland ihren Versicherungsfall fiktiv ab. Der Prozess ist bisher für alle beteiligten Parteien mühsam und undurchsichtig. Wir bringen mit Hilfe von Künstlicher Intelligenz Transparenz und Effizienz in dieses Gebiet. Durch unsere smarte Lösung profitieren alle Beteiligten.​​
       - question: Warum sollte ich jetzt Partner werden?
         answer: >-
-          Für Werkstätten reduzieren wir den Zeitaufwand zur Betreuung des Kunden vor Ort und stellen Ihnen eine Möglichkeit zur Arbeit mit Künstlicher Intelligenz zur Verfügung. Unseren Partnerwerkstätten wird eine Möglichkeit zur Akquise von Kostenvoranschlägen gegeben, die es bisher so am Markt noch nicht gibt. Der Versicherung gegenüber wird sichergestellt, dass alle benötigten Daten zur Fiktiven Abrechnung bereitgestellt werden. Unser Endkunde kann dabei bequem von zu Hause am Handy diesen Prozess durchlaufen und spart nicht nur viel Zeit sondern auch bisher hohe Kosten.
+          Für Werkstätten reduzieren wir den Zeitaufwand zur Betreuung des Kunden vor Ort und stellen Ihnen eine Möglichkeit zur Arbeit mit Künstlicher Intelligenz zur Verfügung. Unseren Partnerwerkstätten wird eine Möglichkeit zur Akquise von Kostenvoranschlägen gegeben, die es bisher so am Markt noch nicht gibt. Der Versicherung gegenüber wird sichergestellt, dass alle benötigten Daten zur fiktiven Abrechnung bereitgestellt werden. Unser Endkunde kann dabei bequem von zu Hause am Handy diesen Prozess durchlaufen und spart nicht nur viel Zeit, sondern auch bisher hohe Kosten.
       - question: Wie groß ist das Partnernetzwerk von mr fiktiv?
         answer: >-
-          Als junges und digitales Start-Up aus Osnabrück sind wir gerade dabei unser Partnernetzwerk in Deutschland zu erweitern. Aktuell haben sich uns 7 Werkstätten aus 6 verschiedenen Städten angeschlossen. Bisher erstreckt sich das Netzwerk über 4 Bundesländer. Wir suchen stetig nach weiteren Partnern, achten aber auch darauf die Werkstattdichte gering zu halten, damit unseren Partnerwerkstätten eine zielgerichtete Auslastung zugesichert werden kann.​
+          Als junges und digitales Start-Up aus Osnabrück sind wir gerade dabei, unser Partnernetzwerk in Deutschland zu erweitern. Aktuell haben sich uns sieben Werkstätten aus sechs verschiedenen Städten angeschlossen. Bisher erstreckt sich das Netzwerk über vier Bundesländer. Wir suchen stetig nach weiteren Partnern, achten aber auch darauf, die Werkstattdichte gering zu halten, damit unseren Partnerwerkstätten eine zielgerichtete Auslastung zugesichert werden kann.​
 layout: features
 ---
