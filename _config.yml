@@ -41,7 +41,7 @@ footer:
 
   has_subscribe: true
   subscribe_title: "Subscribe"
-  subscribe_content: "Melde Dich jetzt bei unserem Newsletter an und bleibe immer auf dem neusten Stand. Wir berichten als Start-Up rund um KI & Digitales."
+  subscribe_content: "Melde dich jetzt bei unserem Newsletter an und bleibe immer auf dem neuesten Stand. Wir berichten als Start-Up rund um KI & Digitales."
 
 sass:
   indentWidth: 4
