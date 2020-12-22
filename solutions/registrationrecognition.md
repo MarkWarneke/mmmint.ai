@@ -12,7 +12,7 @@ sections:
         content: >-
           Mit Hilfe unserer digitalen Fahrzeugscheinerkennung können Sie Fahrzeugscheine automatisiert auslesen und in Ihr DMS-System über eine API-Schnittstelle importieren.
           <br/><br/>
-          Wir verwenden deep-learning-based Object Detection und Texterkennung um die Fahrzeugscheine zu verarbeiten. Um eine sehr hohe Genauigkeit zu erreichen, wurde unsere Künstliche Intelligenz mit mehreren Tausend Bildern angelernt. Folgende Postitionen kann unsere Künstliche Intelligenz automatisiert extrahieren:
+          Wir verwenden deep-learning-based Object Detection und Texterkennung um die Fahrzeugscheine zu verarbeiten. Um eine sehr hohe Genauigkeit zu erreichen, wurde unsere Künstliche Intelligenz mit mehreren tausend Bildern angelernt. Folgende Postitionen kann unsere Künstliche Intelligenz automatisiert extrahieren:
 
           * Vorname und Nachname
 
@@ -35,7 +35,7 @@ sections:
     component: cta_block.html
     type: ctablock
     title: Jetzt Demo anfordern!
-    subtitle: Schicken Sie uns einfach eine kurze E-Mail und erhalten Sie eine Teststellung zu unserer Fahrzeugschein Erkennung. Gerne unterstützen wir Sie beratend zur Implementierung in Ihrem System. Sollte eine Schnittstellenbeschreibung Ihres DMS Systems vorhanden sein, können wir gerne in den Austausch gehen.
+    subtitle: Schicken Sie uns einfach eine kurze E-Mail und erhalten Sie eine Teststellung zu unserer Fahrzeugscheinerkennung. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihrem System. Sollte eine Schnittstellenbeschreibung Ihres DMS Systems vorhanden sein, können wir gerne in den Austausch gehen.
     actions:
       - label: Get digital
         url: 'mailto:info@mmmint.ai'
@@ -86,8 +86,8 @@ sections:
     faqitems:
       - question: Wie kann ich die Fahrzeugschein API benutzen? 
         answer: >-
-          Um einen vollumfänglichen Zugriff auf unsere API zu bekommen wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai). 
-      - question: Werden die Fahrzeugscheine DSGVO verarbeitet?
+          Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai). 
+      - question: Werden die Fahrzeugscheine gemäß der DSGVO verarbeitet?
         answer: >-
           Alle bereitgestellten Services werden in deutschen Rechenzentren verarbeitet und gehosted. Übermittelte Datensätze werden Ende-zu-Ende verschlüsselt und gelagert. Ein Zugriff auf die Daten ist nur mit Hilfe des APIKey (`access_token`) möglich. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert.
       - question: Wie funktioniert die Fahrzeugschein API?
