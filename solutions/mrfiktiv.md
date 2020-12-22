@@ -12,7 +12,7 @@ sections:
         content: >-
           Durch mrfiktiv werden Kunden, Werkstätten und Versicherungen in einem digitalen Raum zusammengebracht. 
           <br/> <br/>
-          Durch unsere digitale Lösung profitieren alle genannten Parteien: Wir geben Endkunden die Möglichkeit ohne Werkstattbesuch und deutlich kostengünstiger ihre Fahrzeugschäden bei der Versicherung abzurechnen. Unsere Partnerwerkstätten können durch den schlankeren Prozess mit geringerem Aufwand zusätzlichen Ertrag erwirtschaften und die Mitarbeiter im Kundendienst zielgerichteter auslasten. Durch den Einsatz von Künstlicher Intelligenz und Deep-Learning Algorithmen reduzieren wir Fehlerpotenzial und helfen Werkstätten ihre Prozesse weiter zu digitalisieren.​​
+          Durch unsere digitale Lösung profitieren alle genannten Parteien: Wir geben Endkunden die Möglichkeit, ohne Werkstattbesuch und deutlich kostengünstiger ihre Fahrzeugschäden bei der Versicherung abzurechnen. Unsere Partnerwerkstätten können durch den schlankeren Prozess mit geringerem Aufwand zusätzlichen Ertrag erwirtschaften und die Mitarbeiter im Kundendienst zielgerichteter auslasten. Durch den Einsatz von Künstlicher Intelligenz und Deep-Learning Algorithmen reduzieren wir Fehlerpotenzial und helfen Werkstätten, ihre Prozesse weiter zu digitalisieren.​​
         actions:
           - label: Go To App
             url: https://www.mrfiktiv.com
