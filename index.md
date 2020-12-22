@@ -51,7 +51,7 @@ sections:
       - title: Workshops für Ihr Unternehmen
         image: images/undraw_robotics_kep0.svg
         content: >-
-          Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema Digitaler Transformation. Von Multi-Cloud-Strategien über Machine Learning hin zur Monetarisierung Ihrer Datensätze. Sehen Sie sich unser Angebot an.
+          Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema digitaler Transformation. Von Multi-Cloud-Strategien über Machine Learning hin zur Monetarisierung Ihrer Datensätze. Sehen Sie sich unser Angebot an.
         actions:
           - label: Workshops
             url: /workshops
