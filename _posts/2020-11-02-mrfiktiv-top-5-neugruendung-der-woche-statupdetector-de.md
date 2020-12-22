@@ -30,7 +30,7 @@ Mit den Schlagworten `Versicherung`, `Abrechnung`, `Schaden`, `Automobil`, `Foto
 ## Unseren nächsten Meilensteine
 
 Auch bei uns geht es weiter. 
-Wir haben uns bei einem Startup-Accelerator - dem [Seedhouse](https://www.seedhouse.de/) aus Osnabrúck - beworben.
+Wir haben uns bei einem Startup-Accelerator - dem [Seedhouse](https://www.seedhouse.de/) aus Osnabrück - beworben.
 Die Bewertung unserer Idee wurde von einem Expertenrat unter die Top 11 von 53 Bewerbungen gewählt.
 Wir von mrfiktiv freuen uns darauf, nächste Woche bei dem seedhouse unsere Idee vor dem Expertengremium zu präsentieren.
 Unser Team arbeitet daher mit Hochdruck an der Fertigstellung der Präsentation.
