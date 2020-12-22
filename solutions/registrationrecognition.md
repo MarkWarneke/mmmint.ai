@@ -1,5 +1,5 @@
 ---
-title: Fahrzeugschein Erkennung
+title: Fahrzeugscheinerkennung
 subtitle: Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. 
 sections:
   - section_id: registrationrecognition
