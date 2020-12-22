@@ -13,7 +13,7 @@ layout: post
 
 > Autounfall und keine Lust auf einen lästigen Werkstattbesuch?
 
-Immer mehr Autobesitzer lassen nach einem Autounfall den Schaden an Ihrem Fahrzeug nicht reparieren. Stattdessen lassen sie sich das Geld von Ihrer Versicherung auszahlen. Das mit gutem Grund – **im Schnitt lag die Auszahlungssumme im Jahr 2019 bei 1900€** bei der sog. fiktiven Abrechnung. Allerdings ist der Weg zum Geld aufwendig: Werkstattbesuch, teuren Kostenvoranschlag erstellen lassen, mit der Versicherung kommunizieren; die Liste ist lang.
+Immer mehr Autobesitzer lassen nach einem Autounfall den Schaden an ihrem Fahrzeug nicht reparieren. Stattdessen lassen sie sich das Geld von ihrer Versicherung auszahlen. Das aus gutem Grund – **im Schnitt lag die Auszahlungssumme im Jahr 2019 bei 1900€** bei der sogenannten fiktiven Abrechnung. Allerdings ist der Weg zum Geld aufwendig: Werkstattbesuch, teuren Kostenvoranschlag erstellen lassen, mit der Versicherung kommunizieren; die Liste ist lang.
 
 Doch ist ein Werkstattbesuch überhaupt noch notwendig und sind die hohen Kosten für einen Kostenvoranschlag gerechtfertigt? Diese Frage haben sich die drei Osnabrücker Gründer Max, Max & Mark auch gestellt. mrfiktiv liefert die Antwort.
 
@@ -23,10 +23,10 @@ Durch mrfiktiv werden Kunden und Werkstätten in einem digitalen Raum zusammenge
 
 > Eine digitale Schadensabrechnung nach Autounfällen – kein Werkstattbesuch, keine Reparatur und schnelles Geld.
 
-- **Von überall & jeder Zeit** einen Versicherungsschaden nach einem Autounfall in nur 5 Minuten abrechnen.
-- **50 % günstiger** für dich, da wir den Service deutlich effizienter als die Werkstätten vor Ort abbilden.
+- **Von überall & jederzeit** einen Versicherungsschaden nach einem Autounfall in nur fünf Minuten abrechnen.
+- **50% günstiger** für dich, da wir den Service deutlich effizienter als die Werkstätten vor Ort abbilden.
 
-## In nur wenigen Schritten zum Kostenvoranschlag – unter 5 Minuten.
+## In nur wenigen Schritten zum Kostenvoranschlag – unter fünf Minuten.
 
 ![screenshot von mrfiktiv fahrzeugschein hochladen](/images/posts/2020-10-11-mrfiktiv-wir-revolutionieren-den-fiktiven-abrechnugnsprozess/screenshot_2.jpg)
 
