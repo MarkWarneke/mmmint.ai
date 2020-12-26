@@ -8,26 +8,25 @@ date: 2020-12-26
 thumb_img_path: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 ---
 
-> Ein halbes Jahr lang werden wir nun von erfahrerenen Unternehmenspartnern beraten, gecoacht und unterstützt. Das Seedhouse hilft uns außerdem mit Erfahrung im Feintuning unserer Geschäftsidee.
+> Wenn man unser junges Team aus Osnabrück vor knapp einem Jahr gefragt hätte, was das Christkind denn zu Weihnachten bringen darf, hätte man sicherlich alle Antworten bekommen - nur nicht diese. Daher haben wir uns diesen Wunsch selber erfüllt. Die Talentschmiede für Künstliche Intelligenz und Digitales erscheint in einem Glanz.
 
-# Proud to be a part of Batch 6 im Seedhouse
+# Ein Chatbot für die Unfallschadenabwicklung & die neuen Workshopreihen zu Cloudcomputing finden Einzug auf die Website
 
-Das <strong>Seedhouse</strong> mit Sitz in Osnabrück hilft Start-Ups in seinem **ACCELERATOR PROGRAMM** in wenigen Monaten von der Business-Idee zur Marktreife. Die Unterstützung besteht aus unterschiedlichen Hilfestellungen. Von der Bereitstellung kostenloser Büroinfrastruktur, individuellem Coaching und Mentoring sowie dem Zugang zu einem breiten Netzwerk aus potenziellen Kunden, Investoren und Partnern aus dem erweiterten Wirtschaftsraum Osnabrück. Wir freuen uns bereits auf die vielen Workshops, Trainings und Masterclasses, die das Seedhouse anbietet. 
+Wer <strong>mmmint.ai</strong> seit der Gründung des Start-Ups online verfolgt hat, findet nun einen tieferen Einblick in unser [Portfolio](https://www.mmmint.ai/solutions/). Neben dem digitalen Fahrzeugscheinscanner, welcher es werkstätten, Versicherungen und Flottenbetreibern ermöglicht die Zulassungsbescheinigung zu digitalisieren, entwickelt das Start-Up aus Osnabrück nun einen **Chatbot für die Unfallschadenabwicklung**. Der CrashBot arbeitet dabei als smarter Helfer direkt nach Unfall als auch unterstützend für widerkehrende Fragen an Versicherungen. In Werkstätten wird der CrashBot derzeit als Pilotprojekt eingesetzt, um in Themen wie fiktive Abrechnung mit der Versicherung oder Anlernen von Auszubildenden für das Unfallschadengeschäft zu unterstützen. Die digitale Lösung basiert auf Deep Learning Algorithmen und hilft den Beteiligten ihre bisherigen Datensätze zielführender einzusetzen. Ein weiteres Päckchen unter dem Weihnachtsbaum war die Veröffentlichung unserer [Workshops](https://www.mmmint.ai/workshops/). Von **Multi-Cloud Strategie** Workshops über **Machine Learning** hin zu individualisierten Projekten unterstütz das Team der mmmint.ai fortan Unternehmen in ganz Europa. 
 
-[![logo seedhouse](/images/posts/2020-11-16-mr_fiktiv_joint_das_seedhouse/seedhouse.png)](https://www.seedhouse.de/)
+[![logo_crashbot](images/undraw_robotics_kep0.svg)](https://www.mmmint.ai/solutions/)
 
-Besonders spannend ist für unser Team von <strong>mr fiktiv</strong> der Zugriff auf das Netzwerk. Die Partner des Seedhouse sind aktuell: die Hochschule Osnabrück, die Universität Osnabrück, die WIGOS Wirtschaftsförderung Osnabrücker Land mbH, die WFO Wirtschaftsförderung Osnabrück GmbH, sowie verschiedene externe Berater, Institute, Unternehmensnetzwerke und andere Acceleratoren.  Das Seedhouse überzeugt außerden durch ein breit aufgestelltes Mentorennetzwerk.
+## 2021 werden wir wachsen
 
-## Mitarbeiter gesucht
-
-Wir von mr fiktiv sind nicht nur durch den Einstieg in dem Seedhouse auf der Suche nach Mitarbeitern die uns dabei helfen den Abrechnungsprozesses nach Autoschäden mit Versicherungen zu revolutionieren.
-Mithilfe unserer Erfahrungen in den Bereichen Künstliche Intelligenz, Software-Entwicklung sowie dem Know-How innerhalb des Kfz-Markts versuchen wir in den nächsten Wochen den Markteintritt zu realisieren. Sei dabei und bau mit uns das Startup in dieser spannenden Phase gemeinsam auf!
+Als Talentschmiede für Künstliche Intelligenz und Digitales werden wir im Jahr 2021 viele spannende Projekte umsetzen. In der Hoffnung dass aus der digitalen Weihnachtsfeier 2020 im kommenden Jahr wieder ein persönliches Zusammenkommen möglich wird, freuen wir uns alle geplanten Projekte. Wir wünschen allen Kunden, Partnern und Investoren einen guten Start in das neue Jahr.
+Wenn auch Du Interesse daran hast in den Bereichen Künstliche Intelligenz, Machine Learning, sowie agile Software-Entwicklung zu wachsen, dann bewirb Dich jetzt bei uns. 
 
 <a href="/career" class="button">Karriere - Werde ein Teil des Teams, klick hier!</a>
 
-## Folgt uns jetzt auf dieser spannenden Reise mit unserem neuen Partner an der Seite
+## Begleite uns ab sofort digital auf der spannenden Reise durch die Welt der KI und das innovative Start-Up-Life
 
-1. [Facebook](https://www.facebook.com/mrfiktiv/)
-2. [Instagram](https://instagram.com/mrfiktiv)
-3. [Twitter](https://twitter.com/mr_fiktiv)
-4. [Linkedin](https://linkedin.com/company/mrfiktiv)
+1. [Facebook](https://www.facebook.com/mmmintai/)
+2. [Instagram](https://instagram.com/mmmint.ai/)
+3. [Twitter](https://twitter.com/mmmint_ai/)
+4. [Linkedin](https://linkedin.com/company/mmmint-ai/)
+5. [GitHub](https://github.com/mmmint-ai/)
