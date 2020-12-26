@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Wir haben unsere Website überarbeitet"
-subtitle: "Ab sofort steht allen Kunden und Partnern der MMM ein neuer Webauftritt zur Verfügung."
+title:  "Unser Geschenk zu Weihnachten? Ein neuer Webauftritt"
+subtitle: "Für das Team der mmmint.ai lag dieses Jahr eine neue Website unter dem Weihnachtsbaum."
 excerpt: >-
-    Ein halbes Jahr lang werden wir nun von erfahrerenen Unternehmenspartnern beraten, gecoacht und unterstützt. Das Seedhouse hilft uns außerdem mit Erfahrung im Feintuning unserer Geschäftsidee.
-date: 2020-11-16
+    Wenn man unser junges Team aus Osnabrück vor knapp einem Jahr gefragt hätte, was das Christkind denn zu Weihnachten bringen darf, hätte man sicherlich alle Antworten bekommen - nur nicht diese. Daher haben wir uns diesen Wunsch selber erfüllt. Die Talentschmiede für Künstliche Intelligenz und Digitales erscheint in einem Glanz.
+date: 2020-12-26
 thumb_img_path: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 ---
 
