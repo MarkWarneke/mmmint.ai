@@ -14,7 +14,7 @@ thumb_img_path: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 
 Wer <strong>mmmint.ai</strong> seit der Gründung des Start-Ups online verfolgt hat, findet nun einen tieferen Einblick in unser [Portfolio](https://www.mmmint.ai/solutions/). Neben dem digitalen Fahrzeugscheinscanner, welcher es Werkstätten, Versicherungen und Flottenbetreibern ermöglicht, die Zulassungsbescheinigung zu digitalisieren, entwickelt das Start-Up aus Osnabrück nun einen **Chatbot für die Unfallschadenabwicklung**. Der CrashBot arbeitet dabei als smarter Helfer direkt nach dem Unfall sowie unterstützend für wiederkehrende Fragen an Versicherungen. In Werkstätten wird der CrashBot derzeit als Pilotprojekt eingesetzt, um bei Themen wie fiktiver Abrechnung mit der Versicherung oder Anlernen von Auszubildenden für das Unfallschadengeschäft zu unterstützen. Die digitale Lösung basiert auf Deep Learning Algorithmen und hilft den Beteiligten, ihre bisherigen Datensätze zielführender einzusetzen. Ein weiteres Päckchen unter dem Weihnachtsbaum war die Veröffentlichung unserer [Workshops](https://www.mmmint.ai/workshops/). Von **Multi-Cloud Strategie** Workshops über **Machine Learning** hin zu individualisierten Projekten unterstützt das Team der mmmint.ai fortan Unternehmen in ganz Europa. 
 
-[![logo_crashbot](images/undraw_robotics_kep0.svg)](https://www.mmmint.ai/solutions/)
+[![logo_crashbot](/images/undraw_robotics_kep0.svg)](https://www.mmmint.ai/solutions/)
 
 ## 2021 wächst unser Team
 
