@@ -28,7 +28,7 @@ sections:
     title: Want to join us?
     subtitle: Tauchen Sie mit uns ein in die Welt von KI und digitaler Innovation!
     actions:
-      - label: Carrer
+      - label: Career
         url: /career
   - section_id: faq
     component: faq_block.html
