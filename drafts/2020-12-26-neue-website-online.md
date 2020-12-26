@@ -8,22 +8,22 @@ date: 2020-12-26
 thumb_img_path: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 ---
 
-> Wenn man unser junges Team aus Osnabrück vor knapp einem Jahr gefragt hätte, was das Christkind denn zu Weihnachten bringen darf, hätte man sicherlich alle Antworten bekommen - nur nicht diese. Daher haben wir uns diesen Wunsch selber erfüllt. Die Talentschmiede für Künstliche Intelligenz und Digitales erscheint in einem Glanz.
+> Wenn man unser junges Team aus Osnabrück vor knapp einem Jahr gefragt hätte, was das Christkind denn zu Weihnachten bringen darf, hätte man sicherlich alle Antworten bekommen - nur nicht diese. Daher haben wir uns diesen Wunsch selber erfüllt. Die Talentschmiede für Künstliche Intelligenz und Digitales erscheint in einem neuen Glanz.
 
-# Ein Chatbot für die Unfallschadenabwicklung & die neuen Workshopreihen zu Cloudcomputing finden Einzug auf die Website
+# Ein Chatbot für die Unfallschadenabwicklung & die neuen Workshopreihen zu Cloudcomputing finden Einzug auf die Website.
 
-Wer <strong>mmmint.ai</strong> seit der Gründung des Start-Ups online verfolgt hat, findet nun einen tieferen Einblick in unser [Portfolio](https://www.mmmint.ai/solutions/). Neben dem digitalen Fahrzeugscheinscanner, welcher es werkstätten, Versicherungen und Flottenbetreibern ermöglicht die Zulassungsbescheinigung zu digitalisieren, entwickelt das Start-Up aus Osnabrück nun einen **Chatbot für die Unfallschadenabwicklung**. Der CrashBot arbeitet dabei als smarter Helfer direkt nach Unfall als auch unterstützend für widerkehrende Fragen an Versicherungen. In Werkstätten wird der CrashBot derzeit als Pilotprojekt eingesetzt, um in Themen wie fiktive Abrechnung mit der Versicherung oder Anlernen von Auszubildenden für das Unfallschadengeschäft zu unterstützen. Die digitale Lösung basiert auf Deep Learning Algorithmen und hilft den Beteiligten ihre bisherigen Datensätze zielführender einzusetzen. Ein weiteres Päckchen unter dem Weihnachtsbaum war die Veröffentlichung unserer [Workshops](https://www.mmmint.ai/workshops/). Von **Multi-Cloud Strategie** Workshops über **Machine Learning** hin zu individualisierten Projekten unterstütz das Team der mmmint.ai fortan Unternehmen in ganz Europa. 
+Wer <strong>mmmint.ai</strong> seit der Gründung des Start-Ups online verfolgt hat, findet nun einen tieferen Einblick in unser [Portfolio](https://www.mmmint.ai/solutions/). Neben dem digitalen Fahrzeugscheinscanner, welcher es Werkstätten, Versicherungen und Flottenbetreibern ermöglicht die Zulassungsbescheinigung zu digitalisieren, entwickelt das Start-Up aus Osnabrück nun einen **Chatbot für die Unfallschadenabwicklung**. Der CrashBot arbeitet dabei als smarter Helfer direkt nach Unfall sowie unterstützend für widerkehrende Fragen an Versicherungen. In Werkstätten wird der CrashBot derzeit als Pilotprojekt eingesetzt, um in Themen wie fiktive Abrechnung mit der Versicherung oder Anlernen von Auszubildenden für das Unfallschadengeschäft zu unterstützen. Die digitale Lösung basiert auf Deep Learning Algorithmen und hilft den Beteiligten ihre bisherigen Datensätze zielführender einzusetzen. Ein weiteres Päckchen unter dem Weihnachtsbaum war die Veröffentlichung unserer [Workshops](https://www.mmmint.ai/workshops/). Von **Multi-Cloud Strategie** Workshops über **Machine Learning** hin zu individualisierten Projekten unterstütz das Team der mmmint.ai fortan Unternehmen in ganz Europa. 
 
 [![logo_crashbot](images/undraw_robotics_kep0.svg)](https://www.mmmint.ai/solutions/)
 
-## 2021 werden wir wachsen
+## 2021 wächst unser Team
 
 Als Talentschmiede für Künstliche Intelligenz und Digitales werden wir im Jahr 2021 viele spannende Projekte umsetzen. In der Hoffnung dass aus der digitalen Weihnachtsfeier 2020 im kommenden Jahr wieder ein persönliches Zusammenkommen möglich wird, freuen wir uns alle geplanten Projekte. Wir wünschen allen Kunden, Partnern und Investoren einen guten Start in das neue Jahr.
 Wenn auch Du Interesse daran hast in den Bereichen Künstliche Intelligenz, Machine Learning, sowie agile Software-Entwicklung zu wachsen, dann bewirb Dich jetzt bei uns. 
 
 <a href="/career" class="button">Karriere - Werde ein Teil des Teams, klick hier!</a>
 
-## Begleite uns ab sofort digital auf der spannenden Reise durch die Welt der KI und das innovative Start-Up-Life
+## Begleite uns ab sofort digital auf der spannenden Reise durch die Welt der KI und das innovative Start-Up-Life!
 
 1. [Facebook](https://www.facebook.com/mmmintai/)
 2. [Instagram](https://instagram.com/mmmint.ai/)
