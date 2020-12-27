@@ -1,6 +1,7 @@
 ---
 title: About Us
 subtitle: Osnabrücker Talentschmiede für KI und Digitales
+share-img: images/logo.png
 sections:
   - section_id: reviews
     component: reviews_block.html

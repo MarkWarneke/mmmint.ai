@@ -1,5 +1,9 @@
 ---
 title: Workshops
+share-img: images/undraw_robotics_kep0.svg.png
+subtitle: >-
+  mmmint.ai ist die Osnabrücker Talentschmiede für Künstliche Intelligenz und Digitales.
+  Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema digitaler Transformation. Gerne sind wir auch Ihr Ansprechpartner für die Entwicklung eines individualisierten Workshops oder IT-Projekts. 
 sections:
   - section_id: workshops
     component: features_block.html
