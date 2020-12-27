@@ -31,7 +31,7 @@ sections:
         actions:
           - label: Kontakt
             url: /contact
-      - title: Individuelle Softwarelösungen für Ihr Unternehmen
+      - title: Individuelle Software für Ihr Unternehmen
         image: images/undraw_cloud_sync_2aph.svg
         content: >-
           Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Lösungen mit modernster Technologie. Die Projekte werden gemeinsam erarbeitet. Sprechen Sie uns gerne an.

@@ -27,7 +27,7 @@ sections:
         actions:
           - label: Learn More
             url: /solutions/mrfiktiv
-      - title: Fahrzeugscheinerkennung
+      - title: Fahrzeugschein Erkennung
         image: images/product_registration_recognition.png
         content: >-
           Digitalisierung von Fahrzeugscheinen mittels state of-the-art Object Detection und Optical Character Recognition (OCR). Durch Machine Learning zur automatisierten Anlage von Kundenfahrzeugen und Versicherungsfällen in Ihrem DMS. mmmint.ai virtualisiert den Fahrzeugschein sowohl für den Werkstattbesuch, Flottenbetreiber als auch Fuhrparkmanager.
@@ -41,7 +41,7 @@ sections:
         actions:
           - label: Kontakt
             url: /contact
-      - title: Individuelle Softwarelösungen für Ihr Unternehmen
+      - title: Individuelle Software für Ihr Unternehmen
         image: images/undraw_cloud_sync_2aph.svg
         content: >-
           Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Innovationen. Sprechen Sie uns gerne für Ihr individuelles Produkt an.
