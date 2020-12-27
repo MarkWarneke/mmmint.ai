@@ -1,5 +1,8 @@
 ---
 title: Home
+subtitle: >-
+  building smart solutions. Osnabrücker Talentschmiede für Künstliche Intelligenz und Digitales.
+  Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Innovationen. Sprechen Sie uns gerne für Ihr individuelles Produkt an.
 share-image: images/logo.png
 sections:
   - section_id: hero
