@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 img_path: images/undraw_contact_us_15o2.svg
-share-image: images/logo.png
+share-img: images/undraw_contact_us_15o2.svg.png
 
 layout: page
 ---
