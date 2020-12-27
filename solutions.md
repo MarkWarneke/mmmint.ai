@@ -3,7 +3,7 @@ title: Solutions
 subtitle: >-
   mmmint.ai ist die Osnabrücker Talentschmiede für Künstliche Intelligenz und Digitales.
   Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Lösungen mit modernster Technologie. Die Projekte werden gemeinsam erarbeitet. Sprechen Sie uns gerne an.
-share-image: images/undraw_cloud_sync_2aph.svg
+share-image: images/undraw_cloud_sync_2aph.svg.png
 sections:
   - section_id: mrfiktiv
     component: features_block.html
