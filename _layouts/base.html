@@ -44,7 +44,7 @@
     {% elsif page.subtitle %}
     <meta property="og:description" content="{{ page.subtitle }}" />
     {% else %}
-    <meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}" />
+    <meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 100 }}" />
     {% endif %}
     
     <meta property="og:type" content="website" />
@@ -76,7 +76,7 @@
     {% elsif page.subtitle %}
     <meta name="twitter:description" content="{{ page.subtitle }}" />
     {% else %}
-    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}" />
+    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 100 }}" />
     {% endif %} {% if page.share-img %}
     <meta name="twitter:image" content="{{ page.share-img | absolute_url }}" />
     {% endif %}
