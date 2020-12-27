@@ -1,6 +1,9 @@
 ---
 title: mr fiktiv
-subtitle: mr fiktiv revolutioniert den Abrechnungsprozess von Fahrzeugschäden mit Ihrer Versicherung.
+subtitle: >-
+  mr fiktiv revolutioniert den Abrechnungsprozess von Fahrzeugschäden mit Ihrer Versicherung.
+  Durch mr fiktiv werden Kunden, Werkstätten und Versicherungen in einem digitalen Raum zusammengebracht. 
+  Durch unsere digitale Lösung profitieren alle genannten Parteien: Wir geben Endkunden die Möglichkeit, ohne Werkstattbesuch und deutlich kostengünstiger ihre Fahrzeugschäden bei der Versicherung abzurechnen. Unsere Partnerwerkstätten können durch den schlankeren Prozess mit geringerem Aufwand zusätzlichen Ertrag erwirtschaften und die Mitarbeiter im Kundendienst zielgerichteter auslasten. Durch den Einsatz von Künstlicher Intelligenz und Deep-Learning Algorithmen reduzieren wir Fehlerpotenzial und helfen Werkstätten, ihre Prozesse weiter zu digitalisieren.​​
 share-img: images/product_mrfiktiv.png
 sections:
   - section_id: mrfiktiv
@@ -11,7 +14,7 @@ sections:
       - title: mr fiktiv
         image: images/product_mrfiktiv.png
         content: >-
-          Durch mrfiktiv werden Kunden, Werkstätten und Versicherungen in einem digitalen Raum zusammengebracht. 
+          Durch <mark>mr fiktiv</mark> werden Kunden, Werkstätten und Versicherungen in einem digitalen Raum zusammengebracht. 
           <br/> <br/>
           Durch unsere digitale Lösung profitieren alle genannten Parteien: Wir geben Endkunden die Möglichkeit, ohne Werkstattbesuch und deutlich kostengünstiger ihre Fahrzeugschäden bei der Versicherung abzurechnen. Unsere Partnerwerkstätten können durch den schlankeren Prozess mit geringerem Aufwand zusätzlichen Ertrag erwirtschaften und die Mitarbeiter im Kundendienst zielgerichteter auslasten. Durch den Einsatz von Künstlicher Intelligenz und Deep-Learning Algorithmen reduzieren wir Fehlerpotenzial und helfen Werkstätten, ihre Prozesse weiter zu digitalisieren.​​
         actions:
