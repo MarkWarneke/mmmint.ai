@@ -1,5 +1,6 @@
 ---
 title: Workshops
+share-images: images/undraw_robotics_kep0.svg
 sections:
   - section_id: workshops
     component: features_block.html

@@ -1,5 +1,6 @@
 ---
 title: Solutions
+share-image: images/undraw_cloud_sync_2aph.svg
 sections:
   - section_id: mrfiktiv
     component: features_block.html

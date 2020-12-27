@@ -1,6 +1,7 @@
 ---
 title: mr fiktiv
 subtitle: mr fiktiv revolutioniert den Abrechnungsprozess von Fahrzeugschäden mit Ihrer Versicherung.
+share-img: images/product_mrfiktiv.png
 sections:
   - section_id: mrfiktiv
     component: features_block.html

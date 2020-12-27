@@ -1,6 +1,7 @@
 ---
 title: Fahrzeugscheinerkennung
-subtitle: Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen. 
+subtitle: Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen.
+share-img: images/product_registration_recognition.png
 sections:
   - section_id: registrationrecognition
     component: features_block.html
