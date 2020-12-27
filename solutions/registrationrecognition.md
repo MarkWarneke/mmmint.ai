@@ -1,6 +1,8 @@
 ---
 title: Fahrzeugscheinerkennung
-subtitle: Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen.
+subtitle: >-
+  Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen.
+  Wir verwenden deep-learning-based Object Detection und Texterkennung um die Fahrzeugscheine zu verarbeiten. Um eine sehr hohe Genauigkeit zu erreichen, wurde unsere Künstliche Intelligenz mit mehreren tausend Bildern angelernt. Folgende Postitionen kann unsere Künstliche Intelligenz automatisiert extrahieren: Vorname und Nachname, Anschrift, Kennzeichen, Fahrzeugidentifikationsnummer (FIN), Nächste HU und Erstzulassung, Hersteller-Code und Codetyp, Hersteller und Modell
 share-img: images/product_registration_recognition.png
 sections:
   - section_id: registrationrecognition
@@ -21,7 +23,7 @@ sections:
 
           * Kennzeichen
 
-          * FIN
+          * Fahrzeugidentifikationsnummer (FIN)
 
           * Nächste HU und Erstzulassung
 
