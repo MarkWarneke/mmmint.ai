@@ -6,6 +6,7 @@ excerpt: >-
     Wenn man unser junges Team aus Osnabrück vor knapp einem Jahr gefragt hätte, was das Christkind denn zu Weihnachten bringen darf, hätte man sicherlich alle Antworten bekommen - nur nicht diese. Daher haben wir uns diesen Wunsch selber erfüllt. Die Talentschmiede für Künstliche Intelligenz und Digitales erscheint in einem Glanz.
 date: 2020-12-26
 thumb_img_path: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
+share-image: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 ---
 
 > Wenn man unser junges Team aus Osnabrück vor knapp einem Jahr gefragt hätte, was das Christkind denn zu Weihnachten bringen darf, hätte man sicherlich alle Antworten bekommen - nur nicht diese. Daher haben wir uns diesen Wunsch selber erfüllt. Die Talentschmiede für Künstliche Intelligenz und Digitales erscheint in einem neuen Glanz.
