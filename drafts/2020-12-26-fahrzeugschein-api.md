@@ -9,22 +9,59 @@ date: 2020-12-26
 thumb_img_path: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 ---
 
-Ob in der Autowerkstatt oder in der Versicherung: Täglich werden in Deutschland tausende von Fahrzeugscheinen erfasst und digitalisiert. Dieser Prozess ist aufwendig und birgt Fehlerpotenzial. Digitalisierung stellt an dieser Stelle eine Lösung dar. Allerdings ist die Erfassung eines Fahrzeugscheines mitteles herkömmlicher Texterkennung eine Herausforderung. In diesem Blogbeitrag stellen wir am Beispiel der Fahrzeugscheinerkennung einen Ansatz vor, wie komplexe Texterkennungsaufgaben bei strukturierten Dokumenten mittels Künstlicher Intelligenz gelöst werden können.
+Ob in der Autowerkstatt oder in der Versicherung: Täglich werden in Deutschland tausende von Fahrzeugscheinen erfasst und digitalisiert. Dieser Prozess ist aufwendig und birgt Fehlerpotenzial. Digitalisierung stellt an dieser Stelle eine Lösung dar. Allerdings ist die Erfassung eines Fahrzeugscheines mitteles herkömmlicher Texterkennung eine Herausforderung. In diesem Blogbeitrag stellen wir am Beispiel der Fahrzeugscheinerkennung einen Ansatz vor, wie komplexe Texterkennungsaufgaben bei strukturierten Dokumenten mittels Künstlicher Intelligenz gelöst und bereitgestellt werden können.
 
 # Dreistufiger Erkennungsansatz für optimales Auslesen von Fahrzeugscheinen.
 
 Der Mensch kann den Fahrzeugschein (wenn er diesen zuvor studiert hat oder dieser bekannt ist) einfach erfassen. Woran liegt das? Der Fahrzeugschein ist ein strukturiertes Dokument. Jede Angabe hat seinen festen Platz. Beispielsweise ist für das Kennzeichen ein Feld vorgegeben. Dieses befindet sich relativ gesehen immer an derselben Stelle auf dem Fahrzeugschein. Zudem weist ein Kennzeichen eine semantische Struktur auf. Diese Tatsachen haben wir uns bei der Entwicklung der Künstlichen Intelligenz zum Vorteil gemacht und einen mehrstufigen Erkennungs- und Analyseprozess implementiert.
 
-1. **Lokalisierung relevanter Positionen** Mithilfe eines deep-learning Object Detection Modells werden relevante Positionen ermittelt. Object Detection ist eine Methode aus dem Gebiet Computer Vision. Mithilfe von Object Detection lassen sich Objekte auf Bildern lokalisieren und mittels eine Begrenzungsrahmen markieren. In unserem speziellen Fall sind die "Objekte" die auszulesenden Felder auf dem Fahrzeugschein. Das Modell ist dabei in einem Transferleaning Ansatz auf synthetisch erzeugten Bildern trainiert worden, die zuvor manuell gelabelt wurden. Labeln bedeutet, dass manuell ein Trainingsdatensatz erzeugt werden muss, auf dem die Positionen der Objekte markiert sind. Nach Abschluss des Trainingsprozesses wurde das Object Detection Modell auf einem unabhängigen Testdatensatz evaluiert. Die Lokalisierungsaufgabe konnte dabei vom Modell extrem gut gelernt werden. Auf real-world Bildern generalisiert das Modell bei Fahrzeugscheinen sehr gut (Accuracy der Lokalisierungsaufgabe von über 98,5 %).
+1. **Lokalisierung relevanter Positionen** Mithilfe eines deep-learning Object Detection Modells werden relevante Positionen ermittelt. Object Detection ist eine Methode aus dem Gebiet Computer Vision. Mithilfe von Object Detection lassen sich Objekte auf Bildern lokalisieren und mittels eines Begrenzungsrahmen markieren. In unserem speziellen Fall sind die "Objekte" die auszulesenden Felder auf dem Fahrzeugschein. Das Modell ist dabei in einem Transferleaning Ansatz auf synthetisch erzeugten Bildern trainiert worden, die zuvor manuell gelabelt wurden. Labeln bedeutet, dass manuell ein Trainingsdatensatz erzeugt werden muss, auf dem die Positionen der Objekte markiert sind. Nach Abschluss des Trainingsprozesses wurde das Object Detection Modell auf einem unabhängigen Testdatensatz evaluiert. Die Lokalisierungsaufgabe konnte dabei vom Modell extrem gut gelernt werden. Auf real-world Bildern generalisiert das Modell bei Fahrzeugscheinen sehr gut (Accuracy der Lokalisierungsaufgabe von über 98,5 %). In der aktuellen Entwicklungsstufe können von unserer Künstlichen Intelligenz neun Felder vom Fahrzeugschein ausgelesen werden. Eine Erweiterung ist problemlos möglich.
 
-2. **Auslesen der relevanten Positionen** Auf Basis der lokalisierten Positionen werden speziell die erkannten Bildbereiche durch eine Texterkennung digitalisiert. Dadurch enstehen zwei Vorteile: 1. Je auzulesendem Feld wird nur der Text ausgelesen, der auch zur entsprechenden Position gehört. 2. Aufgrund Lokalisierung muss nicht der gesamte Fahrzeugschein ausgelesen werden, sondern nur die zugeschnittenen Bereiche, wodurch eine effiziente Auslesung gewährleistet werden kann.
+2. **Auslesen der relevanten Positionen** Auf Basis der lokalisierten Positionen werden im zweiten Schritt die identifizierten Bildbereiche zugeschnitten und durch eine OCR-Erkennung digitalisiert. Dadurch enstehen zwei Vorteile: 1. Je auzulesendem Feld wird nur der Text ausgelesen, der auch zur entsprechenden Position gehört. 2. Aufgrund Lokalisierung muss nicht der gesamte Fahrzeugschein ausgelesen werden, sondern nur die zugeschnittenen Bereiche, wodurch eine effiziente Auslesung gewährleistet werden kann. 
 
-3. **Semantische Analyse und Verrifikation** Die ausgelesenen Texte werden weiter regelbaisert ausgewertet. Beispielsweise erfolgt beim Auslesen der Anschrift ein Abgleich mit einer Datenbank mit Postleitzahlen oder bei der Fahrzeugidentifizierungsnummer erfolgt ein Quercheck zum Feld des Herstellers. Durch die semantische Analyse und Verrifikation wird sichergestellt, dass keine falschen Ergebnisse von der Künstlichen Intelligenz zurückgeliefert werden.
+3. **Semantische Analyse und Verrifikation** Die ausgelesenen Texte werden im dritten Schritt regelbaisert ausgewertet. Beispielsweise erfolgt beim Auslesen der Anschrift ein Abgleich mit einer Datenbank mit Postleitzahlen oder bei der Fahrzeugidentifizierungsnummer erfolgt ein Quercheck zum Feld des Herstellers. Durch die semantische Analyse und Verrifikation wird sichergestellt, dass keine falschen Ergebnisse von der Künstlichen Intelligenz zurückgeliefert werden.
 
 # Bereitstellung mithilfe von Fast-API und Kubernetes.
-Die Bereitstellung der Künstlichen Intelligenz erfolgt über eine REST-Schnittstelle. Dafür wurde das Python-Modul Fast-API verwendet. Fast-API bietet den Vorteil, das eine Automatisierte Dokumentation erstellt wird. Die Dokumentation unserer Fahrzeugscheinerkennung können sie [hier](https://api.mmmint.ai/fahrzeugschein/v1/docs) einsehen. ... Kubernetes ...
 
+Die Bereitstellung des Künstlichen Intelligenz Modells erfolgt über eine REST-Schnittstelle. Dafür verwendet dass mmmint.ai Team das Framework [FastAPI](https://fastapi.tiangolo.com/). FastAPI bietet den Vorteil, dass eine automatisierte Dokumentation auf Basis von OpenAPI erstellt wird. Unsere Dokumentation der Fahrzeugschein Erkennung können sie unter der [api.mmint.ai](https://api.mmmint.ai/fahrzeugschein/v1/docs) einsehen.
 
+Die FastAPI wurde von uns dabei über einen Container bereit gestellt. FastAPI bietet hierzu eine hervorragende Dokumentation zur [Bereitstellung mit Docker](https://fastapi.tiangolo.com/deployment/docker/?h=+docker).
+
+```dockerfile
+FROM tiangolo/uvicorn-gunicorn:python3.8-slim
+
+RUN apt update -y
+RUN apt install gcc -y
+
+# https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#user
+RUN adduser --disabled-password --gecos '' rr
+USER rr
+
+COPY --chown=rr:rr requirements.txt .
+RUN pip install -r requirements.txt --no-cache-dir --user
+
+ENV PATH="/home/rr/.local/bin:${PATH}"
+
+COPY --chown=rr:rr src/ /app
+WORKDIR /app
+
+EXPOSE 8080
+
+# --root-path is used as Uvicorn is hosted behind an NGNIX reverse proxy in K8S and OpenAPI struggels
+CMD ["uvicorn", "app:app", "--reload", "--host", "0.0.0.0", "--port", "8080", "--log-level", "warning", "--use-colors" ,"--root-path", "/fahrzeugschein/v1"]
+```
+
+Das Team hat dabei die [twelve-factor app](https://12factor.net/) Methoden zur Entwicklung von Software-as-a-Service Applikationen beachtet und alle Konfigurationen z.B. über Umgebungsvariablen ausgelagert. Zur Skalierung der Applikation wenden wir dabei eine Event basierte Programmlogik an. Die aufwendige Analyse und Berechnung der Fahrzeugscheine erfolgt dabei im Hintergrund, während die Schnittstelle sofort wieder ereichbar ist. Um die Gewährleistung des Betriebes zu leisten und dabei eine hohe Verfügbarkeit bei geringen Kosten zu erziehlen setzt das Team auf Kubernetes und Cloud-Anbieter.
+
+Das mmmint.ai Team setzte von Anbeginn auf eine gehostete [Kubernetes](https://kubernetes.io/) Umgebung. Kubernetes ist ein Open-Source System für die automatisiere Bereitstellung, Skalierung und dem Management von containerisierte Applikationen. Da mmmint.ai mehrere auf Micro-Service Architektur basierte Applikationen anbietet, konnte die Registrationrecognition FastAPI somit einfach in die Server-Landschaft integriert werden.
+
+Cloud Anbieter wie z.B. Microsoft Azure oder Amazon Web Services bieten mit Ihren Angeboten zu [AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/) respektive [EKS](https://aws.amazon.com/eks/) serverless Kubernetes Umgebungen. Das mmmint.ai Team setzt dabei auf die spitzen Cloud-Anbieter um sich zukunfstssicher im Cloud Umfeld aufzustellen. Wir wählen dabei bewusst die deutschen Rechenzentren für unsere Produktivumgebungen aus. Die Daten werden dabei in-transit als auch at-rest zu jeder Zeit verschlüsselt und sind ausschließlich durch einen sicheren APIKey von unseren Kunden abrufbar.
+
+Die Entwicklung der Software Lösung erfolgt dabei über unser [Github Account mmmint-ai](https://github.com/mmmint-ai). Github Actions werden verwendet um eine Reihe von Pythons statischen Analyse Tools (`flake8`, `autopep8`, `pylint`), sowie Unit-Tests auf Basis von `pytest` auszuführen. Das Team benutzt ein sematisches Versionierungsverfahren um Applikationen über Git-Tags zu versionieren. Pro commit in den `main` branch und GitTag wird ein neuer Cotainer erstellt. 
+
+Diese Container Versionen werden anschließend über einen GitOps Ansatz in dem Kubernetes automatisiert bereitgestellt. Mehrer Versionen können parallel zur Verfügung gestellt werden bzw. die Bereitstellungen erfolgen ohne Downtime voll automatisiert. Bei einer fehlerhaften Bereitstellung schlagen unsere Monitoring Lösungungen sofort Alarm. Das Team ist somit in der Lage bei einem Fehler das Release sofort wieder zurück zu rollen.  
+
+Für mehr informationen zu unserem MLOps sowie Cloud-Computing Angebot besucht unsere [Workshop Serie](/workshops).
 # More about mmmint
 
 Analog zur Auslesung von Fahrzeugscheinen kann unsere Methodik auch zur digitalen Erfassen von anderen sturkturierten Dokumenten verwendet werden, wenn extrem hohe Genauigkeiten gefordert sind. Sie müssen Dokumente strukturiert erfassen? Sprechen Sie uns gerne an.
