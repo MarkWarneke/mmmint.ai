@@ -22,7 +22,7 @@ sections:
       - author: Mattis
         avatar: images/mattiss.jpg
         content: >-
-          Mattis arbeitet als Full Stack Developer. Sein beruflicher Schwerpunkt liegt derzeit in der internationalen Logistik. Durch seine Erfahrungen in den Bereichen UI/UX ergänzt er das Team perfekt.
+          Mattis arbeitet als Full Stack Developer. Sein beruflicher Schwerpunkt liegt derzeit in der internationalen Logistik. Mit seiner Expertise bildet er die perfekte Schnittstelle zwischen State of the Art Entwicklung und praxisnaher Umsetzung. Durch seine Erfahrungen in den Bereichen UI/UX ergänzt er das Team perfekt.
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
