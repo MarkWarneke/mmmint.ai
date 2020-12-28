@@ -14,6 +14,7 @@ header:
     Blog: "blog"
     Solutions: "solutions"
     Workshops: "workshops"
+    Team: "about"
   palette: blue
   menu:
     actions:
