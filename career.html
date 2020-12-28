@@ -23,6 +23,7 @@ subtitle: Werde Teil der Osnabrücker Talentschmiede für Künstliche Intelligen
       <footer></footer>
     </section>
   </div>
+
   <div class="col-8 col-12-medium imp-medium">
     <!-- Content -->
     <article class="box post">
@@ -30,6 +31,11 @@ subtitle: Werde Teil der Osnabrücker Talentschmiede für Künstliche Intelligen
       <section>
         <h4 id="{{forloop.index}}">{{ career.title }}</h4>
         <p>{{ career.text }}</p>
+        {% if career.action %}
+        <p class="block-buttons">
+          <a href="{{ career.action.url | relative_url }}" class="button secondary">{{ career.action.label }}</a>
+        </p>
+        {% endif %}
       </section>
       {% endfor %}
 

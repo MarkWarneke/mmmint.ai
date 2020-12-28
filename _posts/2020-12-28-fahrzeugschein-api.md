@@ -29,9 +29,6 @@ Der Mensch kann den Fahrzeugschein (wenn er diesen zuvor studiert hat oder diese
     <div class="grid">
       <div class="cell block-content">
         <h2 class="block-title">Jetzt Demo anfordern!</h2>
-        <p class="block-subtitle">
-          Schicken Sie uns einfach eine kurze E-Mail und erhalten Sie eine Teststellung zu unserer Fahrzeugscheinerkennung. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihrem System. Sollte eine Schnittstellenbeschreibung Ihres DMS Systems vorhanden sein, können wir gerne in den Austausch gehen.
-        </p>
       </div><!-- .block-content -->
       <div class="cell block-buttons">
         <a href="mailto:info@mmmint.ai" class="button white large">Get digital</a>
@@ -56,9 +53,3 @@ Für mehr informationen zu unserem MLOps sowie Cloud-Computing Angebot besucht u
 # More about mmmint.ai
 
 Analog zur Auslesung von Fahrzeugscheinen kann unsere Methodik auch zur digitalen Erfassen von anderen sturkturierten Dokumenten verwendet werden, wenn extrem hohe Genauigkeiten gefordert sind. Sie müssen Dokumente strukturiert erfassen? Sprechen Sie uns gerne an.
-
-1. [Facebook](https://www.facebook.com/mmmintai/)
-2. [Instagram](https://instagram.com/mmmint.ai/)
-3. [Twitter](https://twitter.com/mmmint_ai/)
-4. [Linkedin](https://linkedin.com/company/mmmint-ai/)
-5. [GitHub](https://github.com/mmmint-ai/)
