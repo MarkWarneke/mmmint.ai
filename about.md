@@ -18,11 +18,11 @@ sections:
       - author: Max
         avatar: images/maxs.jpg
         content: >-
-		  Max ist unser Experte für die Automotive Industrie. Er überzeugt mit Branchenkenntnis und Unternehmergeist. Als jüngstes Vorstandsmitglied der IDK, der größten Kfz-Innung Norddeutschlands, bringt er zudem fundamentales Netzwerk und wirtschaftspolitisches Kalkül mit ins Team.
+	  Max ist unser Experte für die Automotive Industrie. Er überzeugt mit Branchenkenntnis und Unternehmergeist. Als jüngstes Vorstandsmitglied der IDK, der größten Kfz-Innung Norddeutschlands, bringt er zudem fundamentales Netzwerk und wirtschaftspolitisches Kalkül mit ins Team.
       - author: Mattis
-		avatar: images/mattiss.jpg
-		content: >-
-		  Mattis arbeitet als Full Stack Developer. Sein beruflicher Schwerpunkt liegt derzeit in der internationalen Logistik. Durch seine Erfahrungen in den Bereichen UI/UX ergänzt er das Team perfekt.
+	avatar: images/mattiss.jpg
+	content: >-
+	  Mattis arbeitet als Full Stack Developer. Sein beruflicher Schwerpunkt liegt derzeit in der internationalen Logistik. Durch seine Erfahrungen in den Bereichen UI/UX ergänzt er das Team perfekt.
 
   - section_id: call-to-action
     component: cta_block.html
