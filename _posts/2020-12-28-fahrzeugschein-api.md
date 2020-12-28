@@ -24,6 +24,22 @@ Der Mensch kann den Fahrzeugschein (wenn er diesen zuvor studiert hat oder diese
 
 3. **Semantische Analyse und Verrifikation** Die ausgelesenen Texte werden im dritten Schritt regelbaisert ausgewertet. Beispielsweise erfolgt beim Auslesen der Anschrift ein Abgleich mit einer Datenbank mit Postleitzahlen oder bei der Fahrzeugidentifizierungsnummer erfolgt ein Quercheck zum Feld des Herstellers. Durch die semantische Analyse und Verrifikation wird sichergestellt, dass keine falschen Ergebnisse von der Künstlichen Intelligenz zurückgeliefert werden.
 
+<section id="call-to-action" class="block cta-block bg-accent outer">
+  <div class="inner-large">
+    <div class="grid">
+      <div class="cell block-content">
+        <h2 class="block-title">Jetzt Demo anfordern!</h2>
+        <p class="block-subtitle">
+          Schicken Sie uns einfach eine kurze E-Mail und erhalten Sie eine Teststellung zu unserer Fahrzeugscheinerkennung. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihrem System. Sollte eine Schnittstellenbeschreibung Ihres DMS Systems vorhanden sein, können wir gerne in den Austausch gehen.
+        </p>
+      </div><!-- .block-content -->
+      <div class="cell block-buttons">
+        <a href="mailto:info@mmmint.ai" class="button white large">Get digital</a>
+      </div><!-- .block-buttons -->
+    </div><!-- .grid -->
+  </div><!-- .inner -->
+</section>
+
 # Bereitstellung mithilfe von Fast-API und Kubernetes.
 
 Die Bereitstellung des Künstlichen Intelligenz Modells erfolgt über eine REST-Schnittstelle. Dafür verwendet dass mmmint.ai Team das Framework [FastAPI](https://fastapi.tiangolo.com/). FastAPI bietet den Vorteil, dass eine automatisierte Dokumentation auf Basis von OpenAPI erstellt wird. Unsere Dokumentation der Fahrzeugschein Erkennung können sie unter der [api.mmint.ai](https://api.mmmint.ai/fahrzeugschein/v1/docs) einsehen. Die FastAPI wurde von uns dabei über einen Container bereit gestellt. FastAPI bietet hierzu eine hervorragende Dokumentation zur [Bereitstellung mit Docker](https://fastapi.tiangolo.com/deployment/docker/?h=+docker).
