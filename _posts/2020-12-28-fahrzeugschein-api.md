@@ -40,7 +40,7 @@ Der Mensch kann den Fahrzeugschein (wenn er diesen zuvor studiert hat oder diese
   </div><!-- .inner -->
 </section>
 
-# Bereitstellung mithilfe von Fast-API und Kubernetes.
+# Bereitstellung mithilfe von FastAPI und Kubernetes.
 
 Die Bereitstellung des Künstlichen Intelligenz Modells erfolgt über eine REST-Schnittstelle. Dafür verwendet dass mmmint.ai Team das Framework [FastAPI](https://fastapi.tiangolo.com/). FastAPI bietet den Vorteil, dass eine automatisierte Dokumentation auf Basis von OpenAPI erstellt wird. Unsere Dokumentation der Fahrzeugschein Erkennung können sie unter der [api.mmint.ai](https://api.mmmint.ai/fahrzeugschein/v1/docs) einsehen. Die FastAPI wurde von uns dabei über einen Container bereit gestellt. FastAPI bietet hierzu eine hervorragende Dokumentation zur [Bereitstellung mit Docker](https://fastapi.tiangolo.com/deployment/docker/?h=+docker).
 
@@ -53,7 +53,7 @@ Cloud Anbieter wie z.B. Microsoft Azure oder Amazon Web Services bieten mit [AKS
 Die Entwicklung der Software-Lösung erfolgt dabei über unser [Github Account mmmint-ai](https://github.com/mmmint-ai). Github Actions werden verwendet, um eine Reihe von Pythons statischen Analyse Tools (`flake8`, `autopep8`, `pylint`) sowie Unit-Tests auf Basis von `pytest` auszuführen. Das Team benutzt ein sematisches Versionierungsverfahren um Applikationen über Git-Tags zu versionieren. Pro commit in den `main` branch und GitTag wird ein neuer Cotainer erstellt. Diese Container Versionen werden anschließend über einen GitOps Ansatz in dem Kubernetes automatisiert bereitgestellt. Mehrer Versionen können parallel zur Verfügung gestellt werden bzw. die Bereitstellungen erfolgen ohne Downtime voll automatisiert. Bei einer fehlerhaften Bereitstellung schlagen unsere Monitoring-Systeme Alarm und wir können innerhalb kurzer Zeit reagieren, sodass eine extrem hohe Verfügbarkeit der Schnittstelle gewährleistet werden kann.
 
 Für mehr informationen zu unserem MLOps sowie Cloud-Computing Angebot besucht unsere [Workshop Serie](/workshops).
-# More about mmmint
+# More about mmmint.ai
 
 Analog zur Auslesung von Fahrzeugscheinen kann unsere Methodik auch zur digitalen Erfassen von anderen sturkturierten Dokumenten verwendet werden, wenn extrem hohe Genauigkeiten gefordert sind. Sie müssen Dokumente strukturiert erfassen? Sprechen Sie uns gerne an.
 
