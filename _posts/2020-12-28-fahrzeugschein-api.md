@@ -26,33 +26,7 @@ Der Mensch kann den Fahrzeugschein (wenn er diesen zuvor studiert hat oder diese
 
 # Bereitstellung mithilfe von Fast-API und Kubernetes.
 
-Die Bereitstellung des Künstlichen Intelligenz Modells erfolgt über eine REST-Schnittstelle. Dafür verwendet dass mmmint.ai Team das Framework [FastAPI](https://fastapi.tiangolo.com/). FastAPI bietet den Vorteil, dass eine automatisierte Dokumentation auf Basis von OpenAPI erstellt wird. Unsere Dokumentation der Fahrzeugschein Erkennung können sie unter der [api.mmint.ai](https://api.mmmint.ai/fahrzeugschein/v1/docs) einsehen.
-
-Die FastAPI wurde von uns dabei über einen Container bereit gestellt. FastAPI bietet hierzu eine hervorragende Dokumentation zur [Bereitstellung mit Docker](https://fastapi.tiangolo.com/deployment/docker/?h=+docker).
-
-```dockerfile
-FROM tiangolo/uvicorn-gunicorn:python3.8-slim
-
-RUN apt update -y
-RUN apt install gcc -y
-
-# https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#user
-RUN adduser --disabled-password --gecos '' rr
-USER rr
-
-COPY --chown=rr:rr requirements.txt .
-RUN pip install -r requirements.txt --no-cache-dir --user
-
-ENV PATH="/home/rr/.local/bin:${PATH}"
-
-COPY --chown=rr:rr src/ /app
-WORKDIR /app
-
-EXPOSE 8080
-
-# --root-path is used as Uvicorn is hosted behind an NGNIX reverse proxy in K8S and OpenAPI struggels
-CMD ["uvicorn", "app:app", "--reload", "--host", "0.0.0.0", "--port", "8080", "--log-level", "warning", "--use-colors" ,"--root-path", "/fahrzeugschein/v1"]
-```
+Die Bereitstellung des Künstlichen Intelligenz Modells erfolgt über eine REST-Schnittstelle. Dafür verwendet dass mmmint.ai Team das Framework [FastAPI](https://fastapi.tiangolo.com/). FastAPI bietet den Vorteil, dass eine automatisierte Dokumentation auf Basis von OpenAPI erstellt wird. Unsere Dokumentation der Fahrzeugschein Erkennung können sie unter der [api.mmint.ai](https://api.mmmint.ai/fahrzeugschein/v1/docs) einsehen. Die FastAPI wurde von uns dabei über einen Container bereit gestellt. FastAPI bietet hierzu eine hervorragende Dokumentation zur [Bereitstellung mit Docker](https://fastapi.tiangolo.com/deployment/docker/?h=+docker).
 
 Das Team hat dabei die [twelve-factor app](https://12factor.net/) Methoden zur Entwicklung von Software-as-a-Service Applikationen beachtet und alle Konfigurationen z.B. über Umgebungsvariablen ausgelagert. Zur Skalierung der Applikation wenden wir dabei eine event-basierte Programmlogik an. Die aufwendige Analyse und Berechnung der Fahrzeugscheine erfolgt dabei im Hintergrund, während die Schnittstelle sofort wieder ereichbar ist. Um die Gewährleistung des Betriebes zu leisten und dabei eine hohe Verfügbarkeit bei geringen Kosten zu erzielen setzt das Team auf Kubernetes und Cloud-Anbieter.
 
