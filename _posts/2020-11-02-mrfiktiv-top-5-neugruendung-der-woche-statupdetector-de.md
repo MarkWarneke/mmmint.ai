@@ -3,6 +3,7 @@ layout: post
 title:  "Top 5 Neugründungen der Woche - laut startupdetector weekly"
 subtitle:  "Nächster Meilenstein Seedhouse Osnabrück"
 date:   2020-11-02
+time: 1 Minute
 thumb_img_path: images/danielle-macinnes-IuLgi9PWETU-unsplash_thumb.jpg
 share-img: images/danielle-macinnes-IuLgi9PWETU-unsplash_thumb.jpg
 ---

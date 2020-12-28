@@ -5,6 +5,7 @@ subtitle: "Für das Team der mmmint.ai lag dieses Jahr eine neue Website unter d
 excerpt: >-
     Wenn man unser junges Team aus Osnabrück vor knapp einem Jahr gefragt hätte, was das Christkind denn zu Weihnachten bringen darf, hätte man sicherlich alle Antworten bekommen - nur nicht diese. Daher haben wir uns diesen Wunsch selber erfüllt. Die Talentschmiede für Künstliche Intelligenz und Digitales erscheint in einem Glanz.
 date: 2020-12-26
+time: 1 Minute
 thumb_img_path: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 share-img: images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 ---

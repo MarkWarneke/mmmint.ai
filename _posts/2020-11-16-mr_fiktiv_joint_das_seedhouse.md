@@ -5,6 +5,7 @@ subtitle: "Mit Aufnahme in diesem Start-Up Accelerator bekommt unsere Gründung 
 excerpt: >-
     Ein halbes Jahr lang werden wir nun von erfahrerenen Unternehmenspartnern beraten, gecoacht und unterstützt. Das Seedhouse hilft uns außerdem mit Erfahrung im Feintuning unserer Geschäftsidee.
 date: 2020-11-16
+time: 1 Minute
 thumb_img_path: images/austin-distel-rxpThOwuVgE-unsplash_thumb.jpg
 share-img: images/austin-distel-rxpThOwuVgE-unsplash_thumb.jpg
 ---
