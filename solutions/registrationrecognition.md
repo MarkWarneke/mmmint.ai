@@ -50,10 +50,10 @@ sections:
     subtitle: Gerne erstellen wir Ihnen ein individualisiertes Angebot. 
     pricingplans:
       - title: Basic
-        price: 298€/month
+        price: 99€/month
         details: |-
-          * 1000 Bilder inklusive
-          * dann 0.08€ pro Bild
+          * 150 Bilder inklusive
+          * dann 0.15€ pro Bild
           * Bereitstellung Fahrzeugschein Overlay
           * Bereistellung API Dokumentation
           * Bereistellung Python SDK
