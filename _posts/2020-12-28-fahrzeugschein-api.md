@@ -11,7 +11,7 @@ thumb_img_path: images/posts/2020-12-28-fahrzeugschein-api/yancy-min-842ofHC6MaI
 share-img: images/posts/2020-12-28-fahrzeugschein-api/yancy-min-842ofHC6MaI-unsplash.jpg
 ---
 
-Ob in der Autowerkstatt oder in der Versicherung: Täglich werden in Deutschland tausende von Fahrzeugscheinen erfasst und digitalisiert. Dieser Prozess ist aufwendig und birgt Fehlerpotenzial. Digitalisierung stellt an dieser Stelle eine Lösung dar. Allerdings ist die Erfassung eines Fahrzeugscheines mittels herkömmlicher Texterkennung eine Herausforderung. In diesem Blogbeitrag stellen wir am Beispiel der Fahrzeugscheinerkennung einen Ansatz vor, wie komplexe Texterkennungsaufgaben bei strukturierten Dokumenten mittels Künstlicher Intelligenz gelöst und bereitgestellt werden können.
+Ob in der Autowerkstatt, in Ihrem Fuhrpark oder im Versicherungsbüro: Täglich werden in Deutschland tausende von Fahrzeugscheinen erfasst und digitalisiert. Dieser Prozess ist aufwendig und birgt Fehlerpotenzial. Digitalisierung stellt an dieser Stelle eine Lösung dar. Allerdings ist die Erfassung eines Fahrzeugscheines mittels herkömmlicher Texterkennung eine Herausforderung. In diesem Blogbeitrag stellen wir am Beispiel der Fahrzeugscheinerkennung einen Ansatz vor, wie komplexe Texterkennungsaufgaben bei strukturierten Dokumenten mittels Künstlicher Intelligenz gelöst und bereitgestellt werden können.
 
 # Dreistufiger Erkennungsansatz für optimales Auslesen von Fahrzeugscheinen.
 
@@ -50,7 +50,7 @@ Cloud Anbieter wie z.B. Microsoft Azure oder Amazon Web Services bieten mit [AKS
 
 Die Entwicklung der Software-Lösung erfolgt dabei über unser [Github Account mmmint-ai](https://github.com/mmmint-ai). Github Actions werden verwendet, um eine Reihe von Pythons statischen Analyse Tools (`flake8`, `autopep8`, `pylint`) sowie Unit-Tests auf Basis von `pytest` auszuführen. Das Team benutzt ein sematisches Versionierungsverfahren um Applikationen über Git-Tags zu versionieren. Pro commit in den `main` branch und GitTag wird ein neuer Cotainer erstellt. Diese Container Versionen werden anschließend über einen GitOps Ansatz in dem Kubernetes automatisiert bereitgestellt. Mehrer Versionen können parallel zur Verfügung gestellt werden bzw. die Bereitstellungen erfolgen ohne Downtime voll automatisiert. Bei einer fehlerhaften Bereitstellung schlagen unsere Monitoring-Systeme Alarm und wir können innerhalb kurzer Zeit reagieren, sodass eine extrem hohe Verfügbarkeit der Schnittstelle gewährleistet werden kann.
 
-Für mehr informationen zu unserem MLOps sowie Cloud-Computing Angebot besucht unsere [Workshop Serie](/workshops).
+Für mehr Informationen zu unserem MLOps sowie Cloud-Computing Angebot besucht unsere [Workshop Serie](/workshops).
 # More about mmmint.ai
 
-Analog zur Auslesung von Fahrzeugscheinen kann unsere Methodik auch zur digitalen Erfassen von anderen sturkturierten Dokumenten verwendet werden, wenn extrem hohe Genauigkeiten gefordert sind. Sie müssen Dokumente strukturiert erfassen? Sprechen Sie uns gerne an.
+Analog zur Auslese von Fahrzeugscheinen kann unsere Methodik auch zur digitalen Erfassen von anderen sturkturierten Dokumenten verwendet werden, wenn extrem hohe Genauigkeiten gefordert sind. Sie müssen Dokumente strukturiert erfassen? Sprechen Sie uns gerne an. Sie sind Mitarbeiter einer Werkstatt, eines Fuhrparkunternehmens oder arbeiten gar direkt für eine Versicherung für PKW-Policen. Wir helfen Ihnen gerne Ihre Prozesse zu verschlanken!
