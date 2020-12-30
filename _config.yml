@@ -43,6 +43,13 @@ footer:
   subscribe_title: "Subscribe"
   subscribe_content: "Melde dich jetzt bei unserem Newsletter an und bleibe immer auf dem neuesten Stand. Wir berichten als Start-Up rund um KI & Digitales."
 
+defaults:
+  -
+    scope:
+      path:            "drafts/**"
+    values:
+      sitemap:         false
+
 sass:
   indentWidth: 4
   style: nested
