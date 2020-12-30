@@ -52,3 +52,12 @@ sections:
           Durch Aufnahme in das Start-Up Programm des [Seedhouse Osnabrück](https://www.seedhouse.de/) ist der erste Kapitalbedarf gedeckt. Wir planen im Q2 2021 in die nächste Finanzierungsrunde zu gehen. Sie sind Business Angel oder interessiert an Private Equity? Gerne sind wir offen für einen Austausch mit Ihnen. Kontaktieren Sie uns bitte im Hinblick aller Investors Relations [hier](mailto:max.stein@mmmint.ai).
 layout: home
 ---
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "http://www.mmmint.ai",
+    "logo": "http://www.mmmint.ai/images/logo.png"
+  }
+</script>
