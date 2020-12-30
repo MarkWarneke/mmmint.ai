@@ -8,9 +8,7 @@ layout: body
   "@type": "BlogPosting",
   "headline": "{{ page.title }}",
   "image": [
-  {% if page.share-img | is_not_empty %}
-    "{{ page.share-img | relative_url }}",
-  {% endif %}
+  {% if page.share-img | is_not_empty %} "{{ page.share-img | relative_url }}" {% endif %}
   ],
   "datePublished": "{{ page.date | date_to_xmlschema }}"
 }
