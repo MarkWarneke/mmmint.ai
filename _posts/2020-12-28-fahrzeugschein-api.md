@@ -4,7 +4,7 @@ title:  "Fahrzeugschein auslesen mittels Künstlicher Intelligenz"
 subtitle: "Unsere Künstliche Intelligenz digitalisiert Fahrzeugscheine und optimiert Ihre Prozesse."
 excerpt: >-
     Unsere Künstlicher Intelligenz digitalisiert Fahrzeugscheine innerhalb weniger Sekunden. Durch
-    einen dreistufigen Ansatz erreichen werden dabei Genauigkeiten, die die Ergebnisse einer herkömmlicher Texterkennung deutlich übersteigen.
+    einen dreistufigen Ansatz werden dabei Genauigkeiten erreicht, die die Ergebnisse einer herkömmlicher Texterkennung deutlich übersteigen.
 date: 2020-12-28
 time: 4 Minuten
 thumb_img_path: images/posts/2020-12-28-fahrzeugschein-api/yancy-min-842ofHC6MaI-unsplash.jpg
