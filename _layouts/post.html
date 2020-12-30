@@ -2,6 +2,20 @@
 layout: body
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title }}",
+  "image": [
+  {% if content_img_path_is_not_empty %}
+    "{{ page.content_img_path | relative_url }}",
+  {% endif %}
+  ],
+  "datePublished": "{{ page.date | date_to_xmlschema }}"
+}
+</script>
+
 <div class="outer">
   <div class="inner-medium">
 
