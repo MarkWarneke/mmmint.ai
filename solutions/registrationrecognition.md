@@ -28,7 +28,7 @@ sections:
           * Nächste HU und Erstzulassung
 
           * Codehersteller und Codetyp
-          
+
           * Hersteller und Modell
         actions:
           - label: Go To API
@@ -41,13 +41,13 @@ sections:
     subtitle: Schicken Sie uns einfach eine kurze E-Mail und erhalten Sie eine Teststellung zu unserer Fahrzeugscheinerkennung. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihrem System. Sollte eine Schnittstellenbeschreibung Ihres DMS Systems vorhanden sein, können wir gerne in den Austausch gehen.
     actions:
       - label: Get digital
-        url: 'mailto:info@mmmint.ai'
+        url: "mailto:info@mmmint.ai"
   - section_id: pricing
     component: pricing_block.html
     type: pricingblock
     bg: gray
     title: Pricing
-    subtitle: Gerne erstellen wir Ihnen ein individualisiertes Angebot. 
+    subtitle: Gerne erstellen wir Ihnen ein individualisiertes Angebot.
     pricingplans:
       - title: Basic
         price: 99€/month
@@ -87,9 +87,9 @@ sections:
     title: Frequently Asked Questions
     subtitle: FAQ
     faqitems:
-      - question: Wie kann ich die Fahrzeugschein API benutzen? 
+      - question: Wie kann ich die Fahrzeugschein API benutzen?
         answer: >-
-          Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai). 
+          Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
       - question: Werden die Fahrzeugscheine gemäß der DSGVO verarbeitet?
         answer: >-
           Alle bereitgestellten Services werden in deutschen Rechenzentren verarbeitet und gehosted. Übermittelte Datensätze werden Ende-zu-Ende verschlüsselt und gelagert. Ein Zugriff auf die Daten ist nur mit Hilfe des APIKey (`access_token`) möglich. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert.
@@ -105,3 +105,37 @@ sections:
 
 layout: features
 ---
+
+<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "FAQPage",
+	  "mainEntity": [{
+		"@type": "Question",
+		"name": "Wie kann ich die Fahrzeugschein API benutzen?",
+		"acceptedAnswer": {
+		  "@type": "Answer",
+		  "text": "Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an info@mmmint.ai. "
+		}
+	  }, {
+		"@type": "Question",
+		"name": "Werden die Fahrzeugscheine gemäß der DSGVO verarbeitet?",
+		"acceptedAnswer": {
+		  "@type": "Answer",
+		  "text": "Alle bereitgestellten Services werden in deutschen Rechenzentren verarbeitet und gehosted. Übermittelte Datensätze werden Ende-zu-Ende verschlüsselt und gelagert. Ein Zugriff auf die Daten ist nur mit Hilfe des APIKey (`access_token`) möglich. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert."
+		}}, {
+		"@type": "Question",
+		"name": "Wie funktioniert die Fahrzeugschein API?",
+		"acceptedAnswer": {
+		  "@type": "Answer",
+		  "text": "Gerne stellen wir Ihnen eine Teststellung bereit und testen live mit Ihnen die Verarbeitung. Anbei finden Sie einen Auszug aus unserer API Dokumentation:
+
+		   <p> 1. In order to use the registration recognition API you start by submitting an image via file upload, or with a publicly accessible image of the registration, using a POST to `/fahrzeugschein`. </p>
+		   <p> 2. The asynchronous processing of the the recognition can be checked using the `/fahrzeugschein/status/` {sessionId} resource. </p>
+		   <p> 3. After the status is finished, the recognized data can be retrieved using `/fahrzeugschein/{id}` resource. </p>
+		   <p> 4. The bounding boxes and associated cropped images can be retrieved using the `/detection` resources. </p>
+		   <p> 5. To retrieve all sessions for the submitted registration use the `/session` resource. The sessions will also indicate the status of all submissions.</p>"
+		}
+	  }]
+	}
+</script>
