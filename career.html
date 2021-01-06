@@ -57,15 +57,19 @@ subtitle: Werde Teil der Osnabrücker Talentschmiede für Künstliche Intelligen
   </div>
 </div>
 
+<!-- 
+  https://developers.google.com/search/docs/data-types/job-posting
+-->
+{% assign career_is_not_empty = site.data.career | is_not_empty %}
+{% if career_is_not_empty %}
 <script type="application/ld+json">
-  [
+  [{% for career in site.data.career %}
     {
       "@context": "https://schema.org/",
       "@type": "JobPosting",
-      "title": "Praktikant Business Development (m/w/d)",
-      "description": "<p>Du wolltest schon immer ein Startup mit aufbauen? Du hast Kontakte in der Automobil-, Werkstatt- oder Versicherungsbranche? Du vernetzt dich gerne? Ein hohes Maß an Eigenständigkeit ist dir wichtig? Dann bewirb dich jetzt und sei von Anfang an dabei!</p>",
-      "datePosted": "2021-01-01",
-      "validThrough": "2021-12-01",
+      "title": "{{ career.title }}",
+      "description": "{{ career.text | markdownify | replace: '"', '\"' | strip_newlines }}",
+      "datePosted": "{{ career.posted }}",
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Deutschland"
@@ -77,67 +81,8 @@ subtitle: Werde Teil der Osnabrücker Talentschmiede für Künstliche Intelligen
         "logo": "https://www.mmmint.ai/images/logo.png"
       },
       "jobLocationType": "TELECOMMUTE",
-      "employmentType": "INTERNSHIP"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "UI- & UX-Design (m/w/d)",
-      "description": "<p>Du brennst für Design und empfindest das Nutzererlebnis als die wichtigste Komponente einer Applikation? Du bist perfektionistisch und willst, dass jeder Pixel richtig sitzt? Bewirb dich jetzt als UI & UX Designer (m/w/d) und arbeite eng mit unserem Entwicklerteam zusammen!</p>",
-      "datePosted": "2020-01-01",
-      "validThrough": "2020-12-01",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Deutschland"
-      },
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "MMM Intelligence",
-        "sameAs": "https://www.mmmint.ai/",
-        "logo": "https://www.mmmint.ai/images/logo.png"
-      },
-      "jobLocationType": "TELECOMMUTE",
-      "employmentType": "PART-TIME"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Full-Stack Developer (m/w/d)",
-      "description": "<p>Du brennst fürs Coden und wolltest schon immer in einem innovativen und dynamischen Start-Up arbeiten? Wir bieten dir exzellente Einblicke in die moderne Cloud- und Webentwicklung. Lerne in unserem Dojo, wie sich virtuelle Start-Ups mit modernster Technologie zukunftssicher und skalierbar platzieren.</p>",
-      "datePosted": "2020-01-01",
-      "validThrough": "2020-12-01",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Deutschland"
-      },
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "MMM Intelligence",
-        "sameAs": "https://www.mmmint.ai/",
-        "logo": "https://www.mmmint.ai/images/logo.png"
-      },
-      "jobLocationType": "TELECOMMUTE",
-      "employmentType": "FULLTIME"
-    },
-    {
-      "@context": "https://schema.org/",
-      "@type": "JobPosting",
-      "title": "Data Scientist (m/w/d)",
-      "description": "<p>Du erkennst auf Anhieb die PI Nummernfolge im Telefonbuch? Statistik und Python sind dir ein Begriff? Du würdest gerne an intelligenten Lösungen wie Bild- und Videoerkennung arbeiten? Du hast Interesse an OCR sowie der Analyse von Datensätzen? Bewirb dich bei uns und sei Teil davon, smarte Applikationen unter Anwendung der neuesten wissenschaftlichen Erkentnisse weiter zu bringen!</p>",
-      "datePosted": "2020-01-01",
-      "validThrough": "2020-12-01",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Deutschland"
-      },
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "MMM Intelligence",
-        "sameAs": "https://www.mmmint.ai/",
-        "logo": "https://www.mmmint.ai/images/logo.png"
-      },
-      "jobLocationType": "TELECOMMUTE",
-      "employmentType": "PART-TIME"
-    }
+      "employmentType": "{{ career.employmentType }}"
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
   ]
 </script>
+{% endif %}
