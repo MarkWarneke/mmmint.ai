@@ -28,7 +28,7 @@ sections:
           * Nächste HU und Erstzulassung
 
           * Codehersteller und Codetyp
-          
+
           * Hersteller und Modell
         actions:
           - label: Go To API
@@ -41,13 +41,13 @@ sections:
     subtitle: Schicken Sie uns einfach eine kurze E-Mail und erhalten Sie eine Teststellung zu unserer Fahrzeugscheinerkennung. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihrem System. Sollte eine Schnittstellenbeschreibung Ihres DMS Systems vorhanden sein, können wir gerne in den Austausch gehen.
     actions:
       - label: Get digital
-        url: 'mailto:info@mmmint.ai'
+        url: "mailto:info@mmmint.ai"
   - section_id: pricing
     component: pricing_block.html
     type: pricingblock
     bg: gray
     title: Pricing
-    subtitle: Gerne erstellen wir Ihnen ein individualisiertes Angebot. 
+    subtitle: Gerne erstellen wir Ihnen ein individualisiertes Angebot.
     pricingplans:
       - title: Basic
         price: 99€/month
@@ -87,9 +87,9 @@ sections:
     title: Frequently Asked Questions
     subtitle: FAQ
     faqitems:
-      - question: Wie kann ich die Fahrzeugschein API benutzen? 
+      - question: Wie kann ich die Fahrzeugschein API benutzen?
         answer: >-
-          Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai). 
+          Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
       - question: Werden die Fahrzeugscheine gemäß der DSGVO verarbeitet?
         answer: >-
           Alle bereitgestellten Services werden in deutschen Rechenzentren verarbeitet und gehosted. Übermittelte Datensätze werden Ende-zu-Ende verschlüsselt und gelagert. Ein Zugriff auf die Daten ist nur mit Hilfe des APIKey (`access_token`) möglich. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert.
