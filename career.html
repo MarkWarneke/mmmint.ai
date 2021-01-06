@@ -33,7 +33,11 @@ subtitle: Werde Teil der Osnabrücker Talentschmiede für Künstliche Intelligen
         <p>{{ career.text }}</p>
         {% if career.action %}
         <p class="block-buttons">
-          <a href="{{ career.action.url | relative_url }}" class="button secondary">{{ career.action.label }}</a>
+          <a
+            href="{{ career.action.url | relative_url }}"
+            class="button secondary"
+            >{{ career.action.label }}</a
+          >
         </p>
         {% endif %}
       </section>
@@ -52,3 +56,33 @@ subtitle: Werde Teil der Osnabrücker Talentschmiede für Künstliche Intelligen
     </div>
   </div>
 </div>
+
+<!-- 
+  https://developers.google.com/search/docs/data-types/job-posting
+-->
+{% assign career_is_not_empty = site.data.career | is_not_empty %}
+{% if career_is_not_empty %}
+<script type="application/ld+json">
+  [{% for career in site.data.career %}
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "{{ career.title }}",
+      "description": "{{ career.text | markdownify | replace: '"', '\"' | strip_newlines }}",
+      "datePosted": "{{ career.posted }}",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Deutschland"
+      },
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "MMM Intelligence",
+        "sameAs": "https://www.mmmint.ai/",
+        "logo": "https://www.mmmint.ai/images/logo.png"
+      },
+      "jobLocationType": "TELECOMMUTE",
+      "employmentType": "{{ career.employmentType }}"
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+</script>
+{% endif %}
