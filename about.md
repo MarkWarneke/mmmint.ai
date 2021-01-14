@@ -47,6 +47,12 @@ sections:
       - question: Arbeitet ihr mit einem Startup Accelerator zusammen?
         answer: >-
           Ja, wir sind Teil des Accelerator Programms des [Seedhouse Osnabrück](https://www.seedhouse.de/), siehe ["Wir sind aufgenommen worden im Seedhouse Osnabrück"](/blog/2020/11/16/mr_fiktiv_joint_das_seedhouse/). Uns war es zu Beginn der Gründung wichtig, unser lokales Netzwerk zu nutzen und zu stärken. Von nun an können wir jedoch völlig remote arbeiten und agieren bereits jetzt mit dem Team deutschlandweit.
+          ![Logo Seedhouse Osnabrück](/images/seedhouse_logo_greenblack_sign.png)
+      - question: Mit welchen Partner arbeiter ihr zusammen?
+        answer: >-
+        KI-Bundesverband
+        ![Logo KI Bundesverband](/images/kibundesverband.svg).
+        IC Osnabrück ![Logo ICO](/images/ico.jpeg)
       - question: Sucht ihr nach weiteren Investoren?
         answer: >-
           Durch Aufnahme in das Start-Up Programm des [Seedhouse Osnabrück](https://www.seedhouse.de/) ist der erste Kapitalbedarf gedeckt. Wir planen im Q2 2021 in die nächste Finanzierungsrunde zu gehen. Sie sind Business Angel oder interessiert an Private Equity? Gerne sind wir offen für einen Austausch mit Ihnen. Kontaktieren Sie uns bitte im Hinblick aller Investors Relations [hier](mailto:max.stein@mmmint.ai).
