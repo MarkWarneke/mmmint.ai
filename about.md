@@ -51,7 +51,7 @@ sections:
       - question: Mit welchen Partner arbeiter ihr zusammen?
         answer: >-
           KI-Bundesverband
-          ![Logo KI Bundesverband](/images/kibundesverband.svg).
+          ![Logo KI Bundesverband](/images/Ki_Verband_Logo_klein.png).
           IC Osnabrück ![Logo ICO](/images/ico.jpeg).
       - question: Sucht ihr nach weiteren Investoren?
         answer: >-
