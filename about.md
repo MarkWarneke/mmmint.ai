@@ -52,8 +52,8 @@ sections:
         answer: >-
           KI-Bundesverband
           ![Logo KI Bundesverband](/images/kibundesverband.svg).
-          IC Osnabrück ![Logo ICO](/images/ico.jpeg)
-        - question: Sucht ihr nach weiteren Investoren?
+          IC Osnabrück ![Logo ICO](/images/ico.jpeg).
+      - question: Sucht ihr nach weiteren Investoren?
         answer: >-
           Durch Aufnahme in das Start-Up Programm des [Seedhouse Osnabrück](https://www.seedhouse.de/) ist der erste Kapitalbedarf gedeckt. Wir planen im Q2 2021 in die nächste Finanzierungsrunde zu gehen. Sie sind Business Angel oder interessiert an Private Equity? Gerne sind wir offen für einen Austausch mit Ihnen. Kontaktieren Sie uns bitte im Hinblick aller Investors Relations [hier](mailto:max.stein@mmmint.ai).
 layout: home
