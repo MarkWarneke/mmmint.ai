@@ -17,7 +17,7 @@ Das Netzwerk von KI, Deep Tech, Wirtschaft und Politik nimmt das Osnabrücker St
 
 ## Politik aus Berlin trifft auf künstliche Intelligenz aus Osnabrück
 
-Der <strong>KI Bundesverband</strong> mit Sitz in Berlin unterstütz ab sofort die KI-Innovationen mit ihrem Schwerpunkt in der Automotive Industrie. Dank dem großen Netzwerk in der etablierten Wirtschaft, sowie dem Sprachrohr in die Politik gewinnt die Gründung für das Osnabrücker Start-Up an Seriösität und Reichweite.
+Der <strong>KI Bundesverband</strong> mit Sitz in Berlin unterstützt ab sofort die KI-Innovationen mit ihrem Schwerpunkt in der Automotive Industrie. Dank dem großen Netzwerk in der etablierten Wirtschaft, sowie dem Sprachrohr in die Politik gewinnt die Gründung für das Osnabrücker Start-Up an Seriösität und Reichweite.
 
 > Hier vernetzen sich die innovativsten KI und Deep Tech Unternehmen mit der etablierten Wirtschaft und Politik.
 
@@ -31,7 +31,7 @@ Die mmmint.ai wird somit ihren Teil dazu beitragen, ein aktives, erfolgreiches u
 
 ### Möchtest du helfen Osnabrück als Standort für KI & Innovationen zu etablieren?
 
-Wir sind gerade auf der Suche nach Verstärkung für unser Team. Das wird kein langweiliger 9-to-5-job. Wir entwickeln state-of-the-art und arbeiten mit den innovativsten Partnern aus dem KI, Versicherung und Automotive Sektor. Schau gleich [hier](/career) nach, ob eine Stellenausschreibung zu deinem Profil passt.
+Wir sind gerade auf der Suche nach Verstärkung für unser Team. Das wird kein langweiliger 9-to-5 Job. Wir entwickeln state-of-the-art und arbeiten mit den innovativsten Partnern aus dem KI, Versicherung und Automotive Sektor. Schau gleich [hier](/career) nach, ob eine Stellenausschreibung zu deinem Profil passt.
 
 <a href="/career" class="button">Klicke hier, für Karriere mit KI!</a>
 
