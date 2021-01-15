@@ -6,7 +6,7 @@ excerpt: >-
   <br/><br/>
   Wir freuen uns auf einen regen Wissens- und Erfahrungsaustausch.
 date: '2021-01-15'
-time: 3 Minute
+time: 3 Minuten
 thumb_img_path: images/posts/2021-01-15-mmmmint-wird-Mitglied-im-ki-bundesverband/Hero.png
 share-img: images/posts/2021-01-15-mmmmint-wird-Mitglied-im-ki-bundesverband/Hero.png
 ---
