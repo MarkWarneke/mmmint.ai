@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mmmmint.ai wird Mitglied im KI Bundesverband e.V.
+title: mmmint.ai wird Mitglied im KI Bundesverband e.V.
 excerpt: >-
   Das Netzwerk von KI, Deep Tech, Wirtschaft und Politik nimmt das Osnabrücker Start-Up mmmint.ai ab sofort mit auf. Das Jahr 2021 könnte für das junge Team nicht besser starten.
   <br/><br/>
