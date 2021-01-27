@@ -25,7 +25,7 @@ Das Team von mmmint.ai freut sich auf einen regen Wissens- und Erfahrungsaustaus
 
 [<img src="/images/posts/2021-01-15-mmmmint-wird-Mitglied-im-ki-bundesverband/Hero.png" alt="logo ki bundesverband" style="height: 300px; margin: auto;  display: block;" />](https://ki-verband.de/)
 
-Besonders spannend ist für mmmmint.ai die Nähe zur Politik, der Wirtschaft und das Netzwerk. Der Bundesverband für Künstliche Intelligenz setzt sich mittlerweile zusammen aus über 250 innovativen KMUs, Startups und Expertinnen & Experten. Neben der Förderung der digitalen Souveränität in Europa steht die Stärkung des KI-Ökosystems für den Standort Deutschland hier im Vordergrund.
+Besonders spannend ist für mmmint.ai die Nähe zur Politik, der Wirtschaft und das Netzwerk. Der Bundesverband für Künstliche Intelligenz setzt sich mittlerweile zusammen aus über 250 innovativen KMUs, Startups und Expertinnen & Experten. Neben der Förderung der digitalen Souveränität in Europa steht die Stärkung des KI-Ökosystems für den Standort Deutschland hier im Vordergrund.
 
 Die mmmint.ai wird somit ihren Teil dazu beitragen, ein aktives, erfolgreiches und nachhaltiges KI-Ökosystem zu etablieren.
 
