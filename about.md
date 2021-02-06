@@ -18,8 +18,7 @@ sections:
       - author: Max
         avatar: images/maxl.jpg
         content: >-
-          Max ist unser KI-Experte für Machine Learning und Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend
-          für unsere smarten Lösungen.
+          Max ist unser KI-Experte für Machine Learning und Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend für unsere smarten Lösungen.
       - author: Max
         avatar: images/maxs.jpg
         content: >-
