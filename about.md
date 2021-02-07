@@ -15,18 +15,22 @@ sections:
         avatar: images/markw.jpg
         content: >-
           Mark ist Softwareentwickler bei Microsoft. Er bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein. Mark ist mehrfach zertifizierter Cloud- und Kubernetes-Experte.
+        link: https://www.linkedin.com/in/markwarneke/
       - author: Max
         avatar: images/maxl.jpg
         content: >-
           Max ist unser KI-Experte für Machine Learning und Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend für unsere smarten Lösungen.
+        link: https://www.linkedin.com/in/maxleimkuehler/
       - author: Max
         avatar: images/maxs.jpg
         content: >-
           Max ist unser Experte für die Automotive Industrie. Er überzeugt mit Branchenkenntnis und Unternehmergeist. Als jüngstes Vorstandsmitglied der IDK, der größten Kfz-Innung Norddeutschlands, bringt er zudem fundamentales Netzwerk und wirtschaftspolitisches Kalkül mit ins Team.
+        link: https://www.linkedin.com/in/maximilian-stein/
       - author: Mattis
         avatar: images/mattiss.jpg
         content: >-
           Mattis arbeitet als Full Stack Developer. Sein beruflicher Schwerpunkt liegt derzeit in der internationalen Logistik. Mit seiner Expertise bildet er die perfekte Schnittstelle zwischen State of the Art Entwicklung und praxisnaher Umsetzung. Durch seine Erfahrungen in den Bereichen UI/UX ergänzt er das Team perfekt.
+        link: https://www.linkedin.com/in/mattis-sch%C3%BCrmann-1325a0193/
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
@@ -55,7 +59,7 @@ sections:
         answer: >-
           Wir planen im Q2 2021 in die nächste Finanzierungsrunde zu gehen. Sie sind Business Angel oder interessiert an Private Equity? Gerne sind wir offen für einen Austausch mit Ihnen. Kontaktieren Sie uns bitte im Hinblick aller Investors Relations [hier](mailto:max.stein@mmmint.ai).
   - section_id: partner
-    component: images_block.html
+    component: slider.html
     type: reviewsblock
     bg: white
     title: Unsere Partner
@@ -67,6 +71,8 @@ sections:
       - url: https://aws.com
         image: https://d0.awsstatic.com/logos/powered-by-aws.png
       - image: images/seedhouse_logo_greenblack_sign.png
+        url: https://www.seedhouse.de/
+      - image: images/Logo_BVMW_tagline_positiv_RGB_M.png
         url: https://www.seedhouse.de/
 layout: home
 ---
