@@ -26,8 +26,8 @@ $palette: (
   accent-orange-alt: #f83600,
 );
 
+@import "imports/slider";
 @import "imports/functions";
-
 @import "imports/reset";
 @import "imports/general";
 @import "imports/icons";
@@ -38,3 +38,4 @@ $palette: (
 @import "imports/footer";
 @import "imports/palettes";
 @import "imports/banner";
+
