@@ -1,7 +1,7 @@
 ---
-title: Solutions Status
+title: Solution Status 
 subtitle: >-
-  List of available solutions, links, description and status
+  Overview of available solutions, links, documentation and status
 solutions:
   - name: Registration Recognition
     description: >-
