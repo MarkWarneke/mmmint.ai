@@ -38,6 +38,7 @@ footer:
     Workshops: "workshops"
     Career: "career"
     About: "about"
+    Status: "solutions/status"
 
   has_subscribe: true
   subscribe_title: "Subscribe"
