@@ -88,10 +88,6 @@ layout: page
   </tbody>
 </table>
 
-<script src="./../health.js" >
-
-</script>
-
 <style>
 /* Tooltip container */
 .tooltip {
@@ -120,3 +116,7 @@ layout: page
   visibility: visible;
 }
 </style>
+
+ <script src="{{ 'assets/js/health.js' | relative_url }}">
+  
+</script>
