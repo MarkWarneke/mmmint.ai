@@ -27,7 +27,7 @@ sections:
           Digitalisierung von Fahrzeugscheinen mittels state of the art object detection und optical character recognition (OCR). Durch Machine Learning zur automatisierten Anlage von Kundenfahrzeugen und Versicherungsfällen in Ihrem DMS System. mmmint.ai virtualisiert den Fahrzeugschein sowohl für den Werkstattbesuch, Flottenbetreiber und Fuhrparkmanager.
         actions:
           - label: Learn More
-            url: /solutions/registrationrecognition
+            url: /solutions/fahrzeugscheinscanner
       - title: CrashBot - Ihr virtueller Helfer nach dem Unfall
         image: images/undraw_chat_bot_kli5.svg
         content: >-
