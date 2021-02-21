@@ -98,7 +98,7 @@ layout: page
 
 @media (min-width: 700px) {
 	.status-table {
-		overflow-x: scrollable;
+		overflow-x: scroll;
 	}
 }
 
