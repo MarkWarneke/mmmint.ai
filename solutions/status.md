@@ -43,7 +43,7 @@ layout: page
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-<table>
+<table class="status-table">
   <thead>
     <tr>
       <th>Name</th>
@@ -96,8 +96,15 @@ layout: page
   border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
 }
 
+@media (min-width: 700px) {
+	.status-table {
+		overflow-x: scroll;
+	}
+}
+
 /* Tooltip text */
 .tooltip .tooltiptext {
+  margin: -5px 0px 0px 25px;
   visibility: hidden;
   width: 120px;
   background-color: #2c2f3b;
