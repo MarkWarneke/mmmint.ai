@@ -72,26 +72,6 @@ sections:
     type: postsblock
     bg: gray
     title: Latest Posts
-  # - section_id: reviews
-  #   component: reviews_block.html
-  #   type: reviewsblock
-  #   bg: white
-  #   title: Co-Founders
-  #   subtitle: >-
-  #     What we have to say about us!
-  #   reviews:
-  #     - author: Mark Warneke
-  #       avatar: images/markw.jpg
-  #       content: >-
-  #         mmmint.ai is wirklich ein tolle Idee! Wir sind ein tolles Team und bieten viel potential.
-  #     - author: Max Stein
-  #       avatar: images/maxs.jpg
-  #       content: >-
-
-  #     - author: Max Leimkühler
-  #       avatar: images/maxl.jpg
-  #       content: >-
-  #         Integer consectetur purus neque, ac porttitor enim convallis vitae.
-  #         Interdum et malesuada fames ac ante ipsum primis in faucibus.
 layout: home
 ---
+
