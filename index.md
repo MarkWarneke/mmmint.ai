@@ -72,26 +72,22 @@ sections:
     type: postsblock
     bg: gray
     title: Latest Posts
-  # - section_id: reviews
-  #   component: reviews_block.html
-  #   type: reviewsblock
-  #   bg: white
-  #   title: Co-Founders
-  #   subtitle: >-
-  #     What we have to say about us!
-  #   reviews:
-  #     - author: Mark Warneke
-  #       avatar: images/markw.jpg
-  #       content: >-
-  #         mmmint.ai is wirklich ein tolle Idee! Wir sind ein tolles Team und bieten viel potential.
-  #     - author: Max Stein
-  #       avatar: images/maxs.jpg
-  #       content: >-
+  - section_id: partner
+    component: slider.html
+    type: reviewsblock
+    bg: white
+    title: Unsere Partner
+    images:
+      - image: images/ico.jpeg
+        url: https://www.innovationscentrum-osnabrueck.de/
+      - url: https://ki-verband.de/
+        image: images/Ki_Verband_Logo_klein.png
+      - url: https://aws.com
+        image: https://d0.awsstatic.com/logos/powered-by-aws.png
+      - image: images/seedhouse_logo_greenblack_sign.png
+        url: https://www.seedhouse.de/
+      - image: images/Logo_BVMW_tagline_positiv_RGB_M.png
+        url: https://www.seedhouse.de/
 
-  #     - author: Max Leimkühler
-  #       avatar: images/maxl.jpg
-  #       content: >-
-  #         Integer consectetur purus neque, ac porttitor enim convallis vitae.
-  #         Interdum et malesuada fames ac ante ipsum primis in faucibus.
 layout: home
 ---
