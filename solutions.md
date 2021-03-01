@@ -49,3 +49,84 @@ sections:
         url: mailto:info@mmmint.ai
 layout: features
 ---
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Mr Fiktiv",
+      "image": [
+        "https://www.mmmint.ai/images/product_mrfiktiv.png"
+       ],
+      "description": "mr fiktiv ist eine digitale Plattform für die Abrechnung von Versicherungsschäden nach einem Autounfall.​",
+      "brand": {
+        "@type": "Brand",
+        "name": "mmmint"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.mmmint.ai/solutions/mrfiktiv/",
+        "priceCurrency": "EUR",
+        "price": "29,00"
+      }
+    }
+</script>
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Fahrzeugschein Scanner",
+      "image": [
+        "https://www.mmmint.ai/images/product_registration_recognition.png"
+       ],
+      "description": "Mithilfe unserer Fahrzeugscheinerkennung können Sie ihre Fahrzeugscheine automatisiert auslesen.",
+      "brand": {
+        "@type": "Brand",
+        "name": "mmmint"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.mmmint.ai/solutions/fahrzeugscheinscanner/",
+        "priceCurrency": "EUR",
+        "price": "99,00"
+      }
+    }
+</script>
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Chat Bot",
+      "image": [
+        "https://www.mmmint.ai/images/product_registration_recognition.png"
+       ],
+      "description": "Wir bieten Werkstätten, Versicherungen, Flottenbetreibern und Fuhrparkmanagern einen auf KI trainierten Chatbot an.",
+      "brand": {
+        "@type": "Brand",
+        "name": "mmmint"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.mmmint.ai/contact/",
+		"priceCurrency": "EUR",
+		"price": "99,00"
+      }
+    }
+</script>
+
+ <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Mr Fiktiv",
+      "operatingSystem": "Browser",
+      "applicationCategory": "BusinessApplication",
+      "offers": {
+        "@type": "Offer",
+        "price": "29,00",
+        "priceCurrency": "EUR"
+      }
+    }
+    </script>

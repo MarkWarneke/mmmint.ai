@@ -72,6 +72,7 @@ sections:
     type: postsblock
     bg: gray
     title: Latest Posts
+
   - section_id: partner
     component: slider.html
     type: reviewsblock
@@ -88,6 +89,6 @@ sections:
         url: https://www.seedhouse.de/
       - image: images/Logo_BVMW_tagline_positiv_RGB_M.png
         url: https://www.seedhouse.de/
-
 layout: home
 ---
+

@@ -7,6 +7,7 @@
     </title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"content="building smart solutions. Osnabrücker Talentschmiede für Künstliche Intelligenz und Digitales."/>
     <link
       href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i"
       rel="stylesheet"
@@ -137,6 +138,47 @@
 
     <script src="{{ 'assets/js/plugins.js' | relative_url }}"></script>
     <script src="{{ 'assets/js/init.js' | relative_url }}"></script>
-    <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+	<script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+	
+	<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "AutomotiveBusiness",
+		  "image": [
+		  	"https://www.mmmint.ai/images/logo.png"
+		   ],
+		  "@id": "https://www.mmmint.ai/",
+		  "name": "mmmint",
+		  "address": {
+			"@type": "PostalAddress",
+			"streetAddress": "Auf der Halle 25a",
+			"addressLocality": "Georgsmarienhütte",
+			"addressRegion": "Niedersachsen",
+			"postalCode": "49124",
+			"addressCountry": "DE"
+		  },
+		  "geo": {
+			"@type": "GeoCoordinates",
+			"latitude": 52.206295013427734,
+			"longitude": 8.103248596191406
+		  },
+		  "url": "https://www.mmmint.ai/",
+		  "openingHoursSpecification": 
+		  [
+			{
+			  "@type": "OpeningHoursSpecification",
+			  "dayOfWeek": [
+				"Monday",
+				"Tuesday",
+				"Wednesday",
+				"Thursday",
+				"Friday"
+			  ],
+			  "opens": "9:00",
+			  "closes": "18:00"
+			}
+		  ]
+		}
+		</script>
   </body>
 </html>
