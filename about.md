@@ -17,15 +17,15 @@ sections:
           Mark bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein. Er ist mehrfach zertifizierter Microsoft Cloud- und Kubernetes-Experte und stellt die Verfügbarkeit und Entwicklung unserer Systeme sicher. 
         link: https://www.linkedin.com/in/markwarneke/
       - author: Max
-        avatar: images/maxl.jpg
-        content: >-
-          Max ist unser KI-Experte für Machine Learning und Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend für unsere smarten Lösungen.
-        link: https://www.linkedin.com/in/maxleimkuehler/
-      - author: Max
         avatar: images/maxs.jpg
         content: >-
           Max ist unser Experte für die Automotive Industrie. Er überzeugt mit Branchenkenntnis und Unternehmergeist. Als jüngstes Vorstandsmitglied der IDK, der größten Kfz-Innung Norddeutschlands, bringt er zudem fundamentales Netzwerk und wirtschaftspolitisches Kalkül mit ins Team.
         link: https://www.linkedin.com/in/maximilian-stein/
+      - author: Max
+        avatar: images/maxl.jpg
+        content: >-
+          Max ist unser KI-Experte für Machine Learning und Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend für unsere smarten Lösungen.
+        link: https://www.linkedin.com/in/maxleimkuehler/
       - author: Mattis
         avatar: images/mattiss.jpg
         content: >-

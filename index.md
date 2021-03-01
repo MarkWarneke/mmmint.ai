@@ -72,6 +72,23 @@ sections:
     type: postsblock
     bg: gray
     title: Latest Posts
+
+  - section_id: partner
+    component: slider.html
+    type: reviewsblock
+    bg: white
+    title: Unsere Partner
+    images:
+      - image: images/ico.jpeg
+        url: https://www.innovationscentrum-osnabrueck.de/
+      - url: https://ki-verband.de/
+        image: images/Ki_Verband_Logo_klein.png
+      - url: https://aws.com
+        image: https://d0.awsstatic.com/logos/powered-by-aws.png
+      - image: images/seedhouse_logo_greenblack_sign.png
+        url: https://www.seedhouse.de/
+      - image: images/Logo_BVMW_tagline_positiv_RGB_M.png
+        url: https://www.seedhouse.de/
 layout: home
 ---
 
