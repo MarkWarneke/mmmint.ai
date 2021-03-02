@@ -1,7 +1,7 @@
 ---
-title: Fahrzeugschein Erkennung
+title: Anonymizer
 subtitle: >-
-    Anonyimisierung von Fahrzeugscheinen und Gesichtern
+    Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonyimisierung von Kennzeichen sowie Gesichtern und sind damit DSGVO-konform by Design.
 layout: page
 ---
 
