@@ -1,7 +1,7 @@
 ---
 title: Bilder anonymisieren
 subtitle: >-
-    Anonyimisierung von Nummernschildern und Gesichtern. Gesichter auf Fotos unkenntlich machen. Den zu anonymisierenden Bereich überdecken, verpixeln oder deformieren.
+    Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonyimisierung von Kennzeichen sowie Gesichtern. Gesichter auf Fotos unkenntlich machen. Den zu anonymisierenden Bereich überdecken, verpixeln oder deformieren.
 layout: page
 ---
 
