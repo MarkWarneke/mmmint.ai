@@ -1,7 +1,7 @@
 ---
-title: Fahrzeugschein Erkennung
+title: Bilder anonymisieren
 subtitle: >-
-    Anonyimisierung von Fahrzeugscheinen und Gesichtern
+    Anonyimisierung von Nummernschildern und Gesichtern. Gesichter auf Fotos unkenntlich machen. Den zu anonymisierenden Bereich überdecken, verpixeln oder deformieren.
 layout: page
 ---
 
