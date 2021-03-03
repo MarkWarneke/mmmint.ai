@@ -1,7 +1,7 @@
 ---
 title: Bilder anonymisieren
 subtitle: >-
-Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonymisierung von Kennzeichen sowie Gesichtern.
+  Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonymisierung von Kennzeichen sowie Gesichtern.
 layout: features
 sections:
   - section_id: anonymizer
@@ -12,10 +12,10 @@ sections:
       - title: Bilder anonymisieren
         image: images/solutions/anonymizer/undraw_both_sides_hbv3.svg
         content: >-
-Verwenden Sie unsere Künstliche Intelligenz zur automatisierten <mark>Anonymisierung</mark> von Kennzeichen sowie Gesichtern.
-              <br/>
-              Mit dem Anonymizer Service von mmmint.ai können Sie Gesichter und Nummernschilder auf Fotos unkenntlich machen.
-              Der zu anonymisierenden Bereich wird überdecken, verpixelt und deformiert, sodass die Informationen und Personen bezogene Daten unkenntlich gemacht werden.
+          Verwenden Sie unsere Künstliche Intelligenz zur automatisierten <mark>Anonymisierung</mark> von Kennzeichen sowie Gesichtern.
+          <br/>
+          Mit dem Anonymizer Service von mmmint.ai können Sie Gesichter und Nummernschilder auf Fotos unkenntlich machen.
+          Der zu anonymisierenden Bereich wird überdecken, verpixelt und deformiert, sodass die Informationen und Personen bezogene Daten unkenntlich gemacht werden.
         actions:
           - label: Go To API
             url: https://api.mmmint.ai/anonymizer/v1/docs
