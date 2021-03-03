@@ -28,6 +28,14 @@ sections:
         actions:
           - label: Learn More
             url: /solutions/fahrzeugscheinscanner
+      - title: Anonymizer
+        image: images/solutions/anonymizer/undraw_both_sides_hbv3.svg
+        content: >-
+          Mit dem Anonymizer service von mmmint.ai können Sie Gesichter auf Fotos unkenntlich machen.
+          Der zu anonymisierenden Bereich wird überdecken, verpixelt und deformiert sodass die Bilder und Personen bezogene Informationen und Daten unkenntnlich gemacht werden.​
+        actions:
+          - label: Learn More
+            url: /solutions/anonymizer
       - title: CrashBot - Ihr virtueller Helfer nach dem Unfall
         image: images/undraw_chat_bot_kli5.svg
         content: >-
