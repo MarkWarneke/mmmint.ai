@@ -56,10 +56,10 @@ Die Zeiten der lästigen manuellen Anonymisierung von Bildern ist mit unserem [<
   <div class="inner-large">
     <div class="grid">
       <div class="cell block-content">
-        <h2 class="block-title">Jetzt T-Shirt wieder anziehen und ...</h2>
+        <h2 class="block-title">Jetzt T-Shirt wieder anziehen...</h2>
       </div><!-- .block-content -->
       <div class="cell block-buttons">
-        <a href="mailto:info@mmmint.ai" class="button white large">Demo anfordern!</a>
+        <a href="mailto:info@mmmint.ai" class="button white large">und Demo anfordern!</a>
       </div><!-- .block-buttons -->
     </div><!-- .grid -->
   </div><!-- .inner -->
