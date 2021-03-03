@@ -23,7 +23,7 @@ Verwenden Sie unsere Künstliche Intelligenz zur automatisierten <mark>Anonymisi
     component: cta_block.html
     type: ctablock
     title: Jetzt Demo anfordern!
-    subtitle: Schicken Sie uns einfach eine kurze E-Mail und erhalten Sie eine Teststellung zu unserer Anonymizer. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihrem System.
+    subtitle: Bei interesse schicken Sie uns einfach eine kurze E-Mail. Wir erstellen ihnen einen Testzugang zu unserem Anonymizer-Service. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihrem System.
     actions:
       - label: Go Anonymus
         url: "mailto:info@mmmint.ai"
