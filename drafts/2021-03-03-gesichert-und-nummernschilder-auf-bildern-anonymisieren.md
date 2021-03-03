@@ -65,7 +65,7 @@ Die Zeiten der lästigen manuellen Anonymisierung von Bildern ist mit unserem [<
   </div><!-- .inner -->
 </section>
 
-**Quellen**
+### Quellen
 
 - [Audi: Audi TT RS 2019](audi.com)
 - [Unsplash: City](https://unsplash.com/photos/jViepQKI01Q)
