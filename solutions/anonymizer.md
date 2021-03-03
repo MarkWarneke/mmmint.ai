@@ -1,7 +1,7 @@
 ---
 title: Bilder anonymisieren
 subtitle: >-
-  Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonymisierung von Kennzeichen sowie Gesichtern.
+  Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonymisierung von Kennzeichen und Gesichtern.
 layout: features
 share-img: images/solutions/anonymizer/undraw_both_sides_hbv3.png
 sections:
@@ -13,18 +13,18 @@ sections:
       - title: Bilder anonymisieren
         image: images/solutions/anonymizer/undraw_both_sides_hbv3.svg
         content: >-
-          Verwenden Sie unsere Künstliche Intelligenz zur automatisierten <mark>Anonymisierung</mark> von Kennzeichen sowie Gesichtern.
+          Verwenden Sie unsere Künstliche Intelligenz zur automatisierten <mark>Anonymisierung</mark> von Kennzeichen und Gesichtern.
           <br/>
-          Mit dem Anonymizer Service von mmmint.ai können Sie Gesichter und Nummernschilder auf Fotos unkenntlich machen.
-          Der zu anonymisierenden Bereich wird überdecken, verpixelt und deformiert, sodass die Informationen und Personen bezogene Daten unkenntlich gemacht werden.
+          Mit dem Anonymizer Service von mmmint.ai können Sie Gesichter und Kennzeichen auf Fotos unkenntlich machen.
+          Der zu anonymisierenden Bereich wird verpixelt, um die Informationen und personenbezogenen Daten unkenntlich zu machen.
         actions:
-          - label: Go To API
+          - label: Zur API
             url: /solutions/anonymizer_api.html
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
     title: Jetzt Demo anfordern!
-    subtitle: Bei interesse schicken Sie uns einfach eine kurze E-Mail. Wir erstellen ihnen einen Testzugang zu unserem Anonymizer-Service. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihrem System.
+    subtitle: Bei Interesse schicken Sie uns einfach eine kurze E-Mail. Wir erstellen Ihnen einen Testzugang zu unserem Anonymizer-Service. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihr System.
     actions:
       - label: Go Anonymus
         url: "mailto:info@mmmint.ai"
@@ -67,12 +67,14 @@ sections:
           - label: Order Now
             url: mailto:info@mmmint.ai
       - title: Enterprise
-        price: individuell
+        price: Individuell
         details: |-
             * Individuelle Preisgestaltung
             * Individuelle Vertragsvereinbarung
+            * Individuelle technische Beratung
+            * Individuelle Kooperation
         actions:
-          - label: get in contact
+          - label: Kontakt
             url: mailto:info@mmmint.ai
   - section_id: hero
     component: hero_block.html
@@ -93,7 +95,7 @@ sections:
     faqitems:
       - question: Wie kann ich die Anonymizer API benutzen?
         answer: >-
-            Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
+            Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung, um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
       - question: Werden die Bilder gemäß der DSGVO verarbeitet?
         answer: >-
             Alle bereitgestellten Services werden in deutschen Rechenzentren verarbeitet und gehosted. Übermittelte Datensätze werden in-transit und at-rest verschlüsselt. Ein Zugriff auf die Daten ist nur mit Hilfe des APIKey (`access_token`) möglich. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert. 
@@ -115,5 +117,5 @@ sections:
       - question: Können auch Videos anonymisiert werden?
         answer: >-
             Ja, da prinzipiell Videos nur eine Aneinanderreihung von Bildern sind. Wir arbeiten gerade mit Hochdruck an einer Lösung zur Anonymisierung von Video-Material. Für einen <mark>early access</mark> Zugriff schickt uns bitte eine kurze E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
-            Wir sind immer auf der Suche nach Kunden und Partnern die mit uns zusammen die smarten solutions der mmmint.ai noch smarter machen wollen!
+            Wir sind immer auf der Suche nach Kunden und Partnern die mit uns zusammen die smarten solutions der mmmint.ai noch besser machen wollen!
 ---
