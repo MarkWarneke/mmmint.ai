@@ -48,15 +48,9 @@ Unser Service kann derzeit Gesichter und Kennzeichen erkennen und anschließend 
 
 Hier erkennen wir deutlich dass sowohl die Person zwischen den Autos, sowie das Nummernschild des roten SUVs von unsrem Service anonymisiert wurde.
 
-Hier ein Beispiel, welches wir auf Platformen zum Wiederverkauft gefunden haben.  
-
-{% include image_compare_block.html section=page.compare.m4 %}
-
-* Dem interessierten Leser fällt das interessante Nummernschild `kubectl` auf, für eine technische Bescheibung unsere Lösung werden wir einen weiteren Blog-Post zeitnah veröffentlichen.
-
 Die Zeiten der lästigen manuellen Anonymisierung von Bildern ist mit unserem [<mark>Anonymizer Service</mark>](/solutions/anonymizer/) nun vorbei.
 
-![Opel Zafira Manuelles Anonymisieren von Auto Kennzeichen](/images/solutions/anonymizer/opel_zafira.jpeg)
+![Opel Zafira Manuelles Anonymisieren von Auto Kennzeichen](/images/solutions/anonymizer/opel_zafira_crop.jpeg)
 
 <section id="call-to-action" class="block cta-block bg-accent outer">
   <div class="inner-large">
