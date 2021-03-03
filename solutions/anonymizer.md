@@ -3,6 +3,7 @@ title: Bilder anonymisieren
 subtitle: >-
   Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonymisierung von Kennzeichen sowie Gesichtern.
 layout: features
+share-img: images/solutions/anonymizer/undraw_both_sides_hbv3.png
 sections:
   - section_id: anonymizer
     component: features_block.html
