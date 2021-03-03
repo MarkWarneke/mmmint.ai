@@ -51,7 +51,7 @@ sections:
           Die MMM Intelligence UG (haftungsbeschränkt) wurde im August 2020 in Osnabrück gegründet.
       - question: Was sind eure Ziele?
         answer: >-
-          Wir möchten uns als Talentschmiede für KI und Digitales etablieren. Dabei vertreiben wir modulare Softwarelösungen, wie z.B. die intelligente Kratzer-, Fahrzeugschein- und Nummernschilderkennung. Mit unserem agilen Team stellen wir den Status Quo der Softwareentwicklung in Frage und erarbeiten individualisiert Innovationen.
+          Wir möchten uns als Talentschmiede für KI und Digitales etablieren. Dabei vertreiben wir modulare Softwarelösungen als Software as a Service (SaaS). Mit unserem agil arbeitendem Team stellen wir den Status Quo von analogen Prozessen mit intelligenter Softwareentwicklung in Frage und erarbeiten domänenspezifische Innovationen.
       - question: Arbeitet ihr mit einem Startup Accelerator zusammen?
         answer: >-
           Ja, wir sind Teil des Accelerator Programms des [Seedhouse Osnabrück](https://www.seedhouse.de/), siehe ["Wir sind aufgenommen worden im Seedhouse Osnabrück"](/blog/2020/11/16/mr_fiktiv_joint_das_seedhouse/). Uns war es zu Beginn der Gründung wichtig, unser lokales Netzwerk zu nutzen und zu stärken. Von nun an können wir jedoch völlig remote arbeiten und agieren bereits jetzt mit dem Team deutschlandweit.
