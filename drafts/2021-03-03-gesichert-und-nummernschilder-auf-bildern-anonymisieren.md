@@ -70,3 +70,10 @@ Die Zeiten der lästigen manuellen Anonymisierung von Bildern ist mit unserem [<
     </div><!-- .grid -->
   </div><!-- .inner -->
 </section>
+
+# Quellen
+
+- [Audi: Audi TT RS 2019](audi.com)
+- [Unsplash: City](https://unsplash.com/photos/jViepQKI01Q)
+- [Twitter: kubectl](https://twitter.com/TekGeekHD/status/1366447164939886592/photo/1)
+- [Unbekannt: Open Zafira](https://www.langweiledich.net/bilderparade-dlvi/3/#DLVI_74)
