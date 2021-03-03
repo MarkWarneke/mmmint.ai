@@ -50,8 +50,8 @@ sections:
         details: |-
             * 100 Bilder inklusive
             * dann 0.05€ pro Bild
-            * Bereistellung API Dokumentation
-            * Bereistellung Python SDK
+            * Bereitstellung API Dokumentation
+            * Bereitstellung Python SDK
         actions:
           - label: Order Now
             url: mailto:info@mmmint.ai
