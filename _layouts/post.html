@@ -2,14 +2,14 @@
 layout: body
 ---
 
+{% assign image_is_not_empty = page.share-img | is_not_empty %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "{{ page.title }}",
   "image": [
-  {% assign image_is_not_empty = page.share-img | is_not_empty %}
-  {% if image_is_not_empty %} "{{ page.share-img | relative_url }}" {% endif %}
+    {% if image_is_not_empty %}"{{ page.share-img | absolute_url }}"{% endif %}
   ],
   "datePublished": "{{ page.date | date_to_xmlschema }}"
 }
