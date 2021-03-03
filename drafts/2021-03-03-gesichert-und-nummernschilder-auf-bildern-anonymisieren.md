@@ -44,7 +44,7 @@ Unser Service wird dabei über die Zeit immer schlauer, genauer und besser in de
 
 ## In nur wenigen Schritten Bilder anonymisiseren
 
-Die Künstliche Intelligenz kann zur Zeit Gesichter und Kennzeichen erkennen, sodass die wichtigen Bereiche des Bildes anschließend anonymisiert werden können. Hier ist ein Vorher-Nachher-Vergleich zweier Bilder einer chaotischen Momentaufnahme einer viel befahren Stadt. Auf der linken Seiten die Anonymisierte Version, auf der rechten Seite die originale Aufnahme. Nutzen Sie den Slider um die Bilder zu überlagern und den subtilen aber wichtigen Unterschied festzustellen.
+Die Künstliche Intelligenz kann zur Zeit Gesichter und Kennzeichen erkennen, sodass die wichtigen Bereiche des Bildes anschließend anonymisiert werden können. Hier ist ein Vorher-Nachher-Vergleich zweier Bilder einer chaotischen Momentaufnahme einer viel befahrenen Stadt. Auf der linken Seiten die Anonymisierte Version, auf der rechten Seite die originale Aufnahme. Nutzen Sie den Slider um die Bilder zu überlagern und den subtilen aber wichtigen Unterschied festzustellen.
 
  {% include image_compare_block.html section=page.compare.city %}
 
