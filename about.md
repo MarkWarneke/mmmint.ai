@@ -54,10 +54,10 @@ sections:
           Wir möchten uns als Talentschmiede für KI und Digitales etablieren. Dabei vertreiben wir modulare Softwarelösungen als Software as a Service (SaaS). Mit unserem agil arbeitendem Team stellen wir den Status Quo von analogen Prozessen mit intelligenter Softwareentwicklung in Frage und erarbeiten domänenspezifische Innovationen.
       - question: Arbeitet ihr mit einem Startup Accelerator zusammen?
         answer: >-
-          Ja, wir sind Teil des Accelerator Programms des [Seedhouse Osnabrück](https://www.seedhouse.de/), siehe ["Wir sind aufgenommen worden im Seedhouse Osnabrück"](/blog/2020/11/16/mr_fiktiv_joint_das_seedhouse/). Uns war es zu Beginn der Gründung wichtig, unser lokales Netzwerk zu nutzen und zu stärken. Von nun an können wir jedoch völlig remote arbeiten und agieren bereits jetzt mit dem Team deutschlandweit.
+          Ja, wir sind Teil des Accelerator Programms des [Seedhouse Osnabrück](https://www.seedhouse.de/), siehe ["Wir sind aufgenommen worden im Seedhouse Osnabrück"](/blog/2020/11/16/mr_fiktiv_joint_das_seedhouse/). Uns ist es wichtig, unser lokales Netzwerk zu nutzen und zu stärken. Wir arbeiten jedoch dabei völlig remote und agieren bereits jetzt schon in einem weltweitem Team.
       - question: Sucht ihr nach weiteren Investoren?
         answer: >-
-          Wir planen im Q2 2021 in die nächste Finanzierungsrunde zu gehen. Sie sind Business Angel oder interessiert an Private Equity? Gerne sind wir offen für einen Austausch mit Ihnen. Kontaktieren Sie uns bitte im Hinblick aller Investors Relations [hier](mailto:max.stein@mmmint.ai).
+          Wir planen in die nächste Finanzierungsrunde zu gehen. Sie sind Business Angel oder interessiert an Private Equity? Gerne sind wir offen für einen Austausch mit Ihnen. Kontaktieren Sie uns bitte im Hinblick aller Investors Relations [hier](mailto:max.stein@mmmint.ai).
   - section_id: partner
     component: slider.html
     type: reviewsblock
