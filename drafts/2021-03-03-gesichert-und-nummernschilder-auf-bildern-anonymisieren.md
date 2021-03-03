@@ -28,25 +28,25 @@ compare:
         alt: Anonymisiert
 ---
 
-Immer mehr Anbieter setzten auf das hochladen von Bildern auf Ihren Platformen. Doch bedenken die wenigsten Menschen dabei das Risiko welches Bilder mit sich tragen können. 
+Immer mehr Anbieter setzten auf das hochladen von Bildern auf Ihrer Platform. Doch bedenken die wenigsten Menschen dabei das Risiko, welches Bilder mit sich tragen können. 
 
 > Ein Bild sagt mehr als tausend Worte
 
 Dieses Sprichwort ist in der zunehmend digitalen Welt nicht nur eine Metapher für den Mehrwert von Bildern gegenüber ausschließlichem Text. Bilder enthalten oft Informationen die Personen bezogene Daten beinhalten. Auf Platformen sehen wir z.B. das Gesicht oder ein Nummernschild von einem fotografiertem Auto.
 
-Mit dem Anonymizer-Service von mmmint.ai können Sie Gesichter sowie Kennzeichen auf Fotos unkenntlich machen. Der zu anonymisierende Bereich wird verdeckt, verpixelt oder deformiert, sodass die Bilder und die enthaltenen personenbezogenen Informationen und Daten unkenntlich gemacht werden.
+Mit dem [<mark>Anonymizer Service</mark>](/solutions/anonymizer/) von mmmint.ai können Sie Gesichter sowie Kennzeichen auf Fotos automatisiert unkenntlich machen. Der zu anonymisierende Bereich wird verdeckt, verpixelt und deformiert, sodass die Bilder und die enthaltenen personenbezogenen Informationen unkenntlich gemacht werden.
 
 ![Anonymized demo face and car](/images/solutions/anonymizer/2314f3fed78c77b29373568b0740aac2124dab9150c8247c15ff7be374baa262.jpg)
 
-Durch die Anwendung von Künstlicher Intelligenz werden auf den Bildern die sensitiven Bereiche erkannt und anschließend anonymisiert. Unsere digitaler Service wendet dabei mehre künstliche Intelligenzen an um die relvanten Positionen auf dem Bild zu erkennen. Unser Service wird dabei über die Zeit immer schlauer, genauer und besser in dem Erkennen von relvanten Informationen. Mehre Modelle werden von uns für die Erkennung der relevanten Informationen benutzt. Diese Modelle wurden von uns auf der Basis von zum Teil öffentlichen sowie synthetisch erzeugten Daten trainiert.
+Durch die Anwendung von Künstlicher Intelligenz werden auf den Bildern die sensitiven Bereiche erkannt und anschließend anonymisiert. Unser digitaler Service wendet dabei mehrere, auf künstlicher Intelligenzen basierende Modelle, an um die relevanten Positionen auf dem Bild zu erkennen. Unser Service wird dabei über die Zeit immer schlauer, genauer und besser in dem Erkennen von relevanten Informationen. Mehre Modelle werden von uns für die Erkennung der relevanten Informationen benutzt. Diese Modelle wurden von uns auf der Basis von zum Teil öffentlichen sowie synthetisch erzeugten Daten trainiert.
 
 ## In nur wenigen Schritten Bilder anonymisiseren
 
-Unser Service kann derzeit Gesichter und Kennzeichen erkennen und anschließend anonymisieren. Hier ist ein Beispiel zu dem "Vorher/Nachher" vergleich zweier Bilder in einem sehr chaotischen Stadt Schnappschuss. 
+Unser Service kann derzeit Gesichter und Kennzeichen erkennen und anschließend anonymisieren. Hier ist ein Vorher-Nachher-Vergleich zweier Bilder einer chaotischen Momentaufnahme einer viel befahren Stadt. Auf der linken Seiten die Anonymisierte Version, auf der rechten Seite die originale Aufnahme. Nutzen Sie den Slider um die Bilder zu überlagern und den subtilen aber wichtigen Unterschied festzustellen.
 
  {% include image_compare_block.html section=page.compare.city %}
 
-Hier erkennen wir deutlich dass sowohl die Person zwischen den Autos, sowie das Nummernschild des roten SUVs von unsrem Service anonymisiert wurde.
+Es kann deutlich erkannt werden, dass sowohl die Person zwischen den Autos, obwohl Sie nicht direkt in die Kamera schaut. Sowie das Nummernschild des roten SUVs von unserer Künstlichen Intelligenz anonymisiert wurde. Das Bild verliert dabei aber nicht an Aussagekraft und die wichtigen Personen bezogenen Daten wurden entfernt.
 
 Die Zeiten der lästigen manuellen Anonymisierung von Bildern ist mit unserem [<mark>Anonymizer Service</mark>](/solutions/anonymizer/) nun vorbei.
 
@@ -56,7 +56,7 @@ Die Zeiten der lästigen manuellen Anonymisierung von Bildern ist mit unserem [<
   <div class="inner-large">
     <div class="grid">
       <div class="cell block-content">
-        <h2 class="block-title">Jetzt T-Shirt wieder anziehen</h2>
+        <h2 class="block-title">Jetzt T-Shirt wieder anziehen und ...</h2>
       </div><!-- .block-content -->
       <div class="cell block-buttons">
         <a href="mailto:info@mmmint.ai" class="button white large">Demo anfordern!</a>
