@@ -19,7 +19,7 @@ sections:
           Der zu anonymisierenden Bereich wird überdecken, verpixelt und deformiert, sodass die Informationen und Personen bezogene Daten unkenntlich gemacht werden.
         actions:
           - label: Go To API
-            url: https://api.mmmint.ai/anonymizer/v1/docs
+            url: /solutions/anonymizer_api.html
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
