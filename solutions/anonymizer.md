@@ -1,5 +1,5 @@
 ---
-title: Bilder anonymisieren
+title: Anonymizer
 subtitle: >-
   Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonymisierung von Kennzeichen und Gesichtern.
 layout: features
