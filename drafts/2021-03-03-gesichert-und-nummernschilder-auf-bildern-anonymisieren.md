@@ -28,15 +28,15 @@ compare:
         alt: Anonymisiert
 ---
 
-Visuelle Medien nehmen einen zunehmenden Stellenwert in einer digitalisierten Welt ein. Z. B. setzen immer mehr Anbieter auf das Hochladen von Bildern auf Ihren Plattformen. Dabei können datenschutzrechliche Risiken durch den Upload von Bildern entstehen und müssen anonymisiert werden. Das manuelle anonymisieren ist mit einem hohem Zeitaufwand verbunden, insbesondere wenn es sich um bewegte Bilder und Batch-Uploads handelt. Unsere Künstliche Intelligenz setzt an dieser Problemstellung an und automatisiert den Prozess des Anonymisierens.
+Visuelle Medien nehmen einen zunehmenden Stellenwert in einer digitalisierten Welt ein. Z. B. setzen immer mehr Anbieter auf das Hochladen von Bildern auf Ihren Plattformen. Dabei können datenschutzrechliche Risiken durch den Upload von Bildern entstehen und müssen anonymisiert werden. Die manuelle Anonymisierung ist mit einem hohem Zeitaufwand verbunden, insbesondere wenn es sich um bewegte Bilder und Batch-Uploads handelt. Unsere Künstliche Intelligenz setzt an dieser Problemstellung an und automatisiert den Prozess der Anonymisierung.
 
 ![Anonymized demo face and car](/images/solutions/anonymizer/2314f3fed78c77b29373568b0740aac2124dab9150c8247c15ff7be374baa262.jpg)
 
-Der [<mark>Anonymizer-Service</mark>](/solutions/anonymizer/) kann für diverse Anwendungsszenarien operationalisiert werden. Dies schließt z. B. das Anonymisieren von Datensätzen für die Entwicklung von selbstfahrenden Autos, das Anonymisieren von virtuellen Rundgängen auf Google-Maps oder Produktfotos auf Plattformen wie Ebay-Kleinanzeigen oder mobile.de ein. Aber auch bewegte Bilder wie TV-Medien lassen sich mithilfe unserer Künstlichen Intelligenz anonymisieren.
+Der [<mark>Anonymizer-Service</mark>](/solutions/anonymizer/) kann für diverse Anwendungsszenarien operationalisiert werden. Dies schließt z. B. die Anonymisierung von Datensätzen für die Entwicklung von selbstfahrenden Autos, die Anonymisierung von virtuellen Rundgängen auf Google-Maps oder Produktfotos auf Plattformen wie Ebay-Kleinanzeigen oder mobile.de ein. Aber auch bewegte Bilder wie TV-Medien lassen sich mithilfe unserer Künstlichen Intelligenz anonymisieren.
 
 ## Wie funktioniert unsere Künstliche Intelligenz?
 
-Mithilfe von Deep Learning werden personenbezogene Inhalte in Bildern lokalisiert. Durch die Verwendung von State-of-the-Art Computer Vision lässt sich eine zuverlässige Lokalisierung der personenbezogenen Inhalte gewährleisten. Dafür wurden zunächst große Datenmengen (teils öffentlich Zugänglich sowie synthetisch erzeugte Daten) verwendet, um die Deep Learning Modelle von mmmint.ai zu trainieren. In unserem Service werden mehrere Deep-Learning Modelle orchestriert und je nach Konfiguration des Services angepsrochen. Es kann konfiguriert werden, ob Gesichter und/oder Kennzeichen auf Fotos automatisiert unkenntlich gemacht werden sollen. Zum Anonymisieren stehen verschiedene Möglichkeiten zur Verfügung. Der Bereich lässt sich verpixeln, verdecken oder auch deformieren. Für Marketingzwecke ist insbesondere die Verdeckung mit einem individualisierten Logo interessant. In urbanen Szenarien und Bildern mit "chaotischen Momentaufnahmen und Zuständen" liefert z. B. der Blurr-Effekt ein ästhetisches Ergebnis, wie folgender Vorher-Nachher-Vergleich zeigt:
+Mithilfe von Deep Learning werden personenbezogene Inhalte in Bildern lokalisiert. Durch die Verwendung von State-of-the-Art Computer Vision lässt sich eine zuverlässige Lokalisierung der personenbezogenen Inhalte gewährleisten. Dafür wurden zunächst große Datenmengen (teils öffentlich Zugänglich sowie synthetisch erzeugte Daten) verwendet, um die Deep Learning Modelle von mmmint.ai zu trainieren. In unserem Service werden mehrere Deep-Learning Modelle orchestriert und je nach Konfiguration des Services angepsrochen. Es kann konfiguriert werden, ob Gesichter und/oder Kennzeichen auf Fotos automatisiert unkenntlich gemacht werden sollen. Zur Anonymisierung stehen verschiedene Möglichkeiten zur Verfügung. Der Bereich lässt sich verpixeln, verdecken oder auch deformieren. Für Marketingzwecke ist insbesondere die Verdeckung mit einem individualisierten Logo interessant. In urbanen Szenarien und Bildern mit "chaotischen Momentaufnahmen und Zuständen" liefert z. B. der Blurr-Effekt ein ästhetisches Ergebnis, wie folgender Vorher-Nachher-Vergleich zeigt:
 
  {% include image_compare_block.html section=page.compare.city %}
 
@@ -48,7 +48,7 @@ Die Einbinung des Anonymizer-Service in Ihre Systeme ist dank einer standardisie
 
 > "Die Zeiten der lästigen, manuellen Anonymisierung von Bildern ist nun vorbei. Endlich läuft es mir bei der Anonymisierung von Bildern nicht mehr kalt den Rücken runter."
 
-![Opel Zafira Manuelles Anonymisieren von Auto Kennzeichen](/images/solutions/anonymizer/opel_zafira_crop.jpeg)
+![Opel Zafira manuelle Anoymisierung von Auto Kennzeichen](/images/solutions/anonymizer/opel_zafira_crop.jpeg)
 
 <section id="call-to-action" class="block cta-block bg-accent outer">
   <div class="inner-large">
