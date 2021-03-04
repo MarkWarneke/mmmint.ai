@@ -11,6 +11,7 @@ share-img: images/solutions/anonymizer/undraw_both_sides_hbv3.png
 layout: post
 compare:
   city:
+    inline: true
     image:
       left:
         src: /images/solutions/anonymizer/city-original.jpg
