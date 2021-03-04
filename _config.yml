@@ -13,7 +13,6 @@ header:
     Home: "index"
     Blog: "blog"
     Solutions: "solutions"
-    Workshops: "workshops"
   palette: blue
   menu:
     actions:
