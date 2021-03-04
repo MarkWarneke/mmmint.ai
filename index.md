@@ -38,6 +38,13 @@ sections:
         actions:
           - label: Learn More
             url: /solutions/fahrzeugscheinscanner
+      - title: Anonymizer
+        image: images/solutions/anonymizer/undraw_both_sides_hbv3.svg
+        content: >-
+          Mit dem Anonymizer-Service von mmmint.ai können Sie Gesichter auf Fotos unkenntlich machen. Der zu anonymisierende Bereich wird verdeckt, verpixelt oder deformiert, sodass die Bilder und die enthaltenen personenbezogenen Informationen und Daten unkenntlich gemacht werden.
+        actions:
+          - label: Learn More
+            url: /solutions/anonymizer
       - title: CrashBot - Ihr virtueller Helfer nach dem Unfall
         image: images/undraw_chat_bot_kli5.svg
         content: >-
@@ -45,20 +52,14 @@ sections:
         actions:
           - label: Kontakt
             url: /contact
-      - title: Individuelle Software für Ihr Unternehmen
+      - title: Domänenspezifische Software für Ihr Unternehmen
         image: images/undraw_cloud_sync_2aph.svg
         content: >-
-          Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Innovationen. Sprechen Sie uns gerne für Ihr individuelles Produkt an.
+          Sie möchten Prozesse und Workflows digitalisieren und haben bereits konkrete Ideen? Wir entwickeln gemeinsam mit Ihnen datenbasierte digitale Services. Maßgeschneiderte Innovationen für Ihre Branche. Sprechen Sie uns gerne auf Ihre Produkt-Vision an.
         actions:
           - label: Kontakt
             url: /contact
-      - title: Workshops für Ihr Unternehmen
-        image: images/undraw_robotics_kep0.svg
-        content: >-
-          Sie möchten Ihr Unternehmen digitalisieren und wissen noch nicht wie? Wir bieten eine Reihe von Workshops zum Thema digitaler Transformation. Von Multi-Cloud-Strategien über Machine Learning hin zur Monetarisierung Ihrer Datensätze. Sehen Sie sich unser Angebot an.
-        actions:
-          - label: Workshops
-            url: /workshops
+
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
