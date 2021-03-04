@@ -3,7 +3,7 @@ title: Bilder Anonymisieren.
 subtitle: >-
   Mit der Anwendung von Künstlicher Intelligenz automatisiert Kennzeichen und Gesichter in Bildern anonymisieren.
 excerpt: >-
-  Visuelle Medien nehmen einen zunehmenden Stellenwert in einer digitalisierten Welt ein. Z. B. setzen immer mehr Anbieter auf das hHchladen von Bildern auf Ihren Plattformen. Dabei können datenschutzrechliche Risiken durch den Upload von Bildern entstehen können. Unsere Künstliche Intelligenz anonymisiert Bilder für diverse Anwendungsszenarien.
+  Visuelle Medien nehmen einen zunehmenden Stellenwert in einer digitalisierten Welt ein. Z. B. setzen immer mehr Anbieter auf das Hochladen von Bildern auf Ihren Plattformen. Dabei können datenschutzrechliche Risiken durch den Upload von Bildern entstehen können. Unsere Künstliche Intelligenz anonymisiert Bilder für diverse Anwendungsszenarien.
 date: '2021-03-03'
 time: 2 Minute
 thumb_img_path: images/solutions/anonymizer/undraw_both_sides_hbv3.png
