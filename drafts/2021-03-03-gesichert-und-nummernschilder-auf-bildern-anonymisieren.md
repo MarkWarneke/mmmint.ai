@@ -1,11 +1,11 @@
 ---
 title: Bilder Anonymisieren.
 subtitle: >-
-  Mit der Anwendung von Künstliche Intelligenz automatisierte Anonymisierung von Kennzeichen und Gesichtern in Bildern vornehmen.
+  Mit der Anwendung von Künstlicher Intelligenz automatisiert Kennzeichen und Gesichter in Bildern anonymisieren.
 excerpt: >-
-  Immer mehr Anbieter setzten auf das hochladen von Bildern auf Ihren Platformen. Doch bedenken die wenigsten Menschen dabei da Risiko welches Bilder mit sich tragen können
+  Visuelle Medien nehmen einen zunehmenden Stellenwert in einer digitalisierten Welt ein. Z. B. setzen immer mehr Anbieter auf das hHchladen von Bildern auf Ihren Plattformen. Dabei können datenschutzrechliche Risiken durch den Upload von Bildern entstehen können. Unsere Künstliche Intelligenz anonymisiert Bilder für diverse Anwendungsszenarien.
 date: '2021-03-03'
-time: 1 Minute
+time: 2 Minute
 thumb_img_path: images/solutions/anonymizer/undraw_both_sides_hbv3.png
 share-img: images/solutions/anonymizer/undraw_both_sides_hbv3.png
 layout: post
@@ -28,29 +28,25 @@ compare:
         alt: Anonymisiert
 ---
 
-Immer mehr Anbieter setzten auf das hochladen von Bildern auf Ihrer Platform. Doch bedenken die wenigsten Menschen dabei das Risiko, welches Bilder mit sich tragen können. 
-
-> Ein Bild sagt mehr als tausend Worte
-
-Dieses Sprichwort ist in der zunehmend digitalen Welt nicht nur eine Metapher für den Mehrwert von Bildern gegenüber ausschließlichem Text. Bilder enthalten oft Informationen die Personen bezogene Daten beinhalten. Auf Platformen sehen wir z.B. das Gesicht oder ein Nummernschild von einem fotografiertem Auto.
-
-Mit dem [<mark>Anonymizer Service</mark>](/solutions/anonymizer/) von mmmint.ai können Sie Gesichter und Kennzeichen auf Fotos automatisiert unkenntlich machen. Der zu anonymisierende Bereich wird verdeckt, verpixelt und deformiert, sodass die Bilder und die enthaltenen personenbezogenen Informationen unkenntlich gemacht werden.
+Visuelle Medien nehmen einen zunehmenden Stellenwert in einer digitalisierten Welt ein. Z. B. setzen immer mehr Anbieter auf das Hochladen von Bildern auf Ihren Plattformen. Dabei können datenschutzrechliche Risiken durch den Upload von Bildern entstehen und müssen anonymisiert werden. Das manuelle anonymisieren ist mit einem hohem Zeitaufwand verbunden, insbesondere wenn es sich um bewegte Bilder und Batch-Uploads handelt. Unsere Künstliche Intelligenz setzt an dieser Problemstellung an und automatisiert den Prozess des Anonymisierens.
 
 ![Anonymized demo face and car](/images/solutions/anonymizer/2314f3fed78c77b29373568b0740aac2124dab9150c8247c15ff7be374baa262.jpg)
 
-Durch die Anwendung von Künstlicher Intelligenz werden auf den Bildern die sensitiven Bereiche erkannt und anschließend anonymisiert. Unser digitaler Service wendet dabei mehrere, auf künstlicher Intelligenzen basierende Modelle, an um die relevanten Positionen auf dem Bild zu erkennen. 
+Der [<mark>Anonymizer-Service</mark>](/solutions/anonymizer/) kann für diverse Anwendungsszenarien operationalisiert werden. Dies schließt z. B. das Anonymisieren von Datensätzen für die Entwicklung von selbstfahrenden Autos, das Anonymisieren von virtuellen Rundgängen auf Google-Maps oder Produktfotos auf Plattformen wie Ebay-Kleinanzeigen oder mobile.de ein. Aber auch bewegte Bilder wie TV-Medien lassen sich mithilfe unserer Künstlichen Intelligenz anonymisieren.
 
-Unser Service wird dabei über die Zeit immer schlauer, genauer und besser in dem Erkennen von relevanten Informationen. Mehre Modelle werden von uns für die Erkennung der relevanten Informationen benutzt. Diese Modelle wurden von uns auf der Basis von zum Teil öffentlichen sowie synthetisch erzeugten Daten trainiert.
+## Wie funktioniert unsere Künstliche Intelligenz?
 
-## In nur wenigen Schritten Bilder anonymisiseren
-
-Die Künstliche Intelligenz kann zur Zeit Gesichter und Kennzeichen erkennen, sodass die wichtigen Bereiche des Bildes anschließend anonymisiert werden können. Hier ist ein Vorher-Nachher-Vergleich zweier Bilder einer chaotischen Momentaufnahme einer viel befahrenen Stadt. Auf der linken Seiten die Anonymisierte Version, auf der rechten Seite die originale Aufnahme. Nutzen Sie den Slider um die Bilder zu überlagern und den subtilen aber wichtigen Unterschied festzustellen.
+Mithilfe von Deep Learning werden personenbezogene Inhalte in Bildern lokalisiert. Durch die Verwendung von State-of-the-Art Computer Vision lässt sich eine zuverlässige Lokalisierung der personenbezogenen Inhalte gewährleisten. Dafür wurden zunächst große Datenmengen (teils öffentlich Zugänglich sowie synthetisch erzeugte Daten) verwendet, um die Deep Learning Modelle von mmmint.ai zu trainieren. In unserem Service werden mehrere Deep-Learning Modelle orchestriert und je nach Konfiguration des Services angepsrochen. Es kann konfiguriert werden, ob Gesichter und/oder Kennzeichen auf Fotos automatisiert unkenntlich gemacht werden sollen. Zum Anonymisieren stehen verschiedene Möglichkeiten zur Verfügung. Der Bereich lässt sich verpixeln, verdecken oder auch deformieren. Für Marketingzwecke ist insbesondere die Verdeckung mit einem individualisierten Logo interessant. In urbanen Szenarien und Bildern mit "chaotischen Momentaufnahmen und Zuständen" liefert z. B. der Blurr-Effekt ein ästhetisches Ergebnis, wie folgender Vorher-Nachher-Vergleich zeigt:
 
  {% include image_compare_block.html section=page.compare.city %}
 
-Es kann deutlich erkannt werden, dass sowohl die Person zwischen den Autos, obwohl Sie nicht direkt in die Kamera schaut. Sowie das Nummernschild des roten SUVs von unserer Künstlichen Intelligenz anonymisiert wurde. Das Bild verliert dabei aber nicht an Aussagekraft und die wichtigen Personen bezogenen Daten wurden entfernt.
+Es kann deutlich erkannt werden, dass sowohl die Person zwischen den Autos, obwohl Sie nicht direkt in die Kamera schaut sowie das Nummernschild des roten SUVs von unserer Künstlichen Intelligenz anonymisiert wurde. Das Bild verliert dabei nicht an Aussagekraft und die sensiblen Daten wurden entfernt.
 
-Die Zeiten der lästigen manuellen Anonymisierung von Bildern ist mit unserem [<mark>Anonymizer Service</mark>](/solutions/anonymizer/) nun vorbei.
+## Ich möchte den Anonymizer-Service heute noch verwenden. Wie starte ich?
+
+Die Einbinung des Anonymizer-Service in Ihre Systeme ist dank einer standardisierten REST-Schnitstelle einfach und schnell möglich. Aktuell wird der [<mark>Anonymizer-Service</mark>](/solutions/anonymizer/) als REST-Schnittstelle zur Verfügung gestellt und biete Entwicklern damit einen einfachen Zugang zu unserer Künstlichen Intelligenz. Eine seperates Frontent zum Upload von Bildern ist ebenfalls in Planung und das Team von mmmint.ai arbeitet bereits an einer Lösung.
+
+> "Die Zeiten der lästigen, manuellen Anonymisierung von Bildern ist nun vorbei. Endlich läuft es mir bei der Anonymisierung von Bildern nicht mehr kalt den Rücken runter."
 
 ![Opel Zafira Manuelles Anonymisieren von Auto Kennzeichen](/images/solutions/anonymizer/opel_zafira_crop.jpeg)
 
