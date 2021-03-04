@@ -46,7 +46,7 @@ Es kann deutlich erkannt werden, dass sowohl die Person zwischen den Autos, obwo
 
 Die Einbinung des Anonymizer-Service in Ihre Systeme ist dank einer standardisierten REST-Schnitstelle einfach und schnell möglich. Aktuell wird der [<mark>Anonymizer-Service</mark>](/solutions/anonymizer/) als REST-Schnittstelle zur Verfügung gestellt und biete Entwicklern damit einen einfachen Zugang zu unserer Künstlichen Intelligenz. Eine seperates Frontent zum Upload von Bildern ist ebenfalls in Planung und das Team von mmmint.ai arbeitet bereits an einer Lösung.
 
-> "Die Zeiten der lästigen, manuellen Anonymisierung von Bildern ist nun vorbei. Endlich läuft es mir bei der Anonymisierung von Bildern nicht mehr kalt den Rücken runter."
+> "Die Zeiten der lästigen, manuellen Anonymisierung von Bildern ist nun vorbei."
 
 ![Opel Zafira manuelle Anoymisierung von Auto Kennzeichen](/images/solutions/anonymizer/opel_zafira_crop.jpeg)
 
