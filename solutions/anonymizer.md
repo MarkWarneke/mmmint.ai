@@ -33,10 +33,10 @@ sections:
     title: Ein Beispiel
     subtitle: Ziehen Sie einfach den Slider um das Vorher-Nachher-Bild zu vergleichen!
     image:
-      left:
+      right:
         src: /images/solutions/anonymizer/city-blurred.jpg
         alt: Anonymisiert
-      right:
+      left:
         src: /images/solutions/anonymizer/city-original.jpg
         alt: Original
   - section_id: pricing
