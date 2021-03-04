@@ -47,7 +47,9 @@ Es kann deutlich erkannt werden, dass sowohl die Person zwischen den Autos, obwo
 
 ## Ich möchte den Anonymizer-Service heute noch verwenden. Wie starte ich?
 
-Die Einbinung des Anonymizer-Service in Ihre Systeme ist dank einer standardisierten Schnitstelle einfach und schnell. Aktuell wird der [<mark>Anonymizer-Service</mark>](/solutions/anonymizer/) als REST-API zur Verfügung gestellt und biete Entwicklern damit einen einfachen Zugang zu unserer Künstlichen Intelligenz, [schauen Sie einfach bei unsere Entwickler Dokumentation vorbei](/solutions/anonymizer_api.html). Eine seperates Frontent zum Upload von Bildern ist ebenfalls in Planung und das Team von mmmint.ai arbeitet bereits an einer Lösung. Sie möchten mit Ihrem Anwendungsfall einen Pilot mit uns starten? Sprechen Sie uns gerne an!
+Die Einbinung des Anonymizer-Service in Ihre Systeme ist dank einer standardisierten Schnitstelle einfach und schnell. Aktuell wird der [<mark>Anonymizer-Service</mark>](/solutions/anonymizer/) als REST-API zur Verfügung gestellt und biete Entwicklern damit einen einfachen Zugang zu unserer Künstlichen Intelligenz, [schauen Sie einfach bei unsere Entwickler Dokumentation vorbei](/solutions/anonymizer_api.html). 
+
+Eine Nutzerfreundliches Frontent zum einfachen Upload von Bildern ist in Planung. Sie möchten mit Ihrem Anwendungsfall einen Pilot mit uns starten? Sprechen Sie uns gerne an!
 
 > "Die Zeiten der lästigen, manuellen Anonymisierung von Bildern ist nun vorbei."
 
