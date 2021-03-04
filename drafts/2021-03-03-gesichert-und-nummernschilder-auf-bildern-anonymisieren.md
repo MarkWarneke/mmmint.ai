@@ -28,7 +28,7 @@ compare:
         alt: Anonymisiert
 ---
 
-Visuelle Medien nehmen einen zunehmenden Stellenwert in einer digitalisierten Welt ein. Z. B. setzen immer mehr Anbieter auf das Hochladen von Bildern auf Ihren Plattformen. Dabei können datenschutzrechliche Risiken durch den Upload von Bildern entstehen und müssen anonymisiert werden. Die manuelle Anonymisierung ist mit einem hohem Zeitaufwand verbunden, insbesondere wenn es sich um bewegte Bilder und Batch-Uploads handelt. Unsere Künstliche Intelligenz setzt an dieser Problemstellung an und automatisiert den Prozess der Anonymisierung.
+Visuelle Medien nehmen einen zunehmenden Stellenwert in einer digitalisierten Welt ein. Z. B. setzen immer mehr Anbieter auf das Hochladen von Bildern auf Ihren Plattformen. Dabei können datenschutzrechliche Risiken durch den Upload von Bildern entstehen. Diese sollten anonymisiert werden. Die manuelle Anonymisierung ist mit einem hohem Zeitaufwand verbunden, insbesondere wenn es sich um Videos sowie Serienaufnahmen handelt. Unsere Künstliche Intelligenz setzt an dieser Problemstellung an und automatisiert den Prozess der Anonymisierung.
 
 ![Anonymized demo face and car](/images/solutions/anonymizer/2314f3fed78c77b29373568b0740aac2124dab9150c8247c15ff7be374baa262.jpg)
 
