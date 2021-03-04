@@ -1,5 +1,5 @@
 <script src="/assets/js/modernizr.js"></script> <!-- Modernizr -->
-<section id="{{ include.section.section_id }}" class="block features-block bg-{{ include.section.bg }} outer">
+<section id="{{ include.section.section_id }}" {% if include.section.inline %} {% else %} class="block features-block bg-{{ include.section.bg | default: "gray" }} outer"  {% endif %}>
     <div class="block-header inner-small">
         <h2 class="block-title">{{ include.section.title }}</h2>
         {% assign subtitle_is_not_empty = include.section.subtitle | is_not_empty %}

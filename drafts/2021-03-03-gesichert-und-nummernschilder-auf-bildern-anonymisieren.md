@@ -11,6 +11,8 @@ share-img: images/solutions/anonymizer/undraw_both_sides_hbv3.png
 layout: post
 compare:
   city:
+    section_id: city
+    inline: true
     image:
       original:
         src: /images/solutions/anonymizer/city-original.jpg
@@ -19,6 +21,8 @@ compare:
         src: /images/solutions/anonymizer/city-blurred.jpg
         alt: Anonymisiert
   m4:
+    section_id: m4
+    inline: true
     image:
       original:
         src: /images/solutions/anonymizer/m4-original.jpg

@@ -30,7 +30,6 @@ sections:
         url: "mailto:info@mmmint.ai"
   - section_id: blurred
     component: image_compare_block.html
-    bg: gray
     image:
       original:
         src: /images/solutions/anonymizer/city-original.jpg
@@ -41,7 +40,7 @@ sections:
   - section_id: pricing
     component: pricing_block.html
     type: pricingblock
-    bg: gray
+    bg: white
     title: Pricing
     subtitle: Gerne erstellen wir Ihnen ein individualisiertes Angebot.
     pricingplans:
@@ -76,16 +75,6 @@ sections:
         actions:
           - label: Kontakt
             url: mailto:info@mmmint.ai
-  - section_id: hero
-    component: hero_block.html
-    type: heroblock
-    image: images/solutions/anonymizer/demo.gif
-    title: Anonymizer
-    content: >-
-        Jetzt Bilder anonymisieren!
-    actions:
-      - label: Anfrage
-        url: mailto:info@mmmint.ai
   - section_id: faq
     component: faq_block.html
     type: faqblock
