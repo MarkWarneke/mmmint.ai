@@ -14,20 +14,20 @@ compare:
     section_id: city
     inline: true
     image:
-      original:
+      left:
         src: /images/solutions/anonymizer/city-original.jpg
         alt: Original
-      modified:
+      right:
         src: /images/solutions/anonymizer/city-blurred.jpg
         alt: Anonymisiert
   m4:
     section_id: m4
     inline: true
     image:
-      original:
+      left:
         src: /images/solutions/anonymizer/m4-original.jpg
         alt: Original
-      modified:
+      right:
         src: /images/solutions/anonymizer/m4-blurred.jpg
         alt: Anonymisiert
 ---

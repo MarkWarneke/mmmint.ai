@@ -30,13 +30,15 @@ sections:
         url: "mailto:info@mmmint.ai"
   - section_id: blurred
     component: image_compare_block.html
+    title: Ein Beispiel
+    subtitle: Ziehen Sie einfach den Slider um das Vorher-Nachher-Bild zu vergleichen!
     image:
-      original:
-        src: /images/solutions/anonymizer/city-original.jpg
-        alt: Original
-      modified:
+      left:
         src: /images/solutions/anonymizer/city-blurred.jpg
         alt: Anonymisiert
+      right:
+        src: /images/solutions/anonymizer/city-original.jpg
+        alt: Original
   - section_id: pricing
     component: pricing_block.html
     type: pricingblock
