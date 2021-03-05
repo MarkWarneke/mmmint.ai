@@ -11,7 +11,7 @@ sections:
     bg: gray
     featureslist:
       - title: Bilder anonymisieren
-        image: images/ssolutions/anonymizer/undraw_both_sides_hbv3.svg
+        image: images/solutions/ainonymizer/undraw_both_sides_hbv3.svg
         content: >-
           Verwenden Sie unsere Künstliche Intelligenz zur automatisierten <mark>Anonymisierung</mark> von Kennzeichen und Gesichtern.
           <br/>
