@@ -43,7 +43,7 @@ Es steht Ihnen frei, ob Sie mit unserem SaaS Gesichter und/oder Kennzeichen auf 
 
  {% include image_compare_block.html section=page.compare.city %}
 
-Sowohl die Person zwischen den Autos, obwohl Sie nicht direkt in die Kamera blickt, als auch das Nummernschild des roten SUVs werden von unserer Künstlichen Intelligenz automatisiert und erkannt und anonymisiert. Das Bild verliert dabei nicht an Aussagekraft und die sensiblen Daten werden entfernt. Datenschutz sollte Sie nicht daran hindern Ihr Bildmaterial für Marketingzwecke effizient zu verwenden - nutzen Sie unseren Service, um in Echtzeit Ergebnisse erzielen zu können.
+Sowohl die Person zwischen den Autos, obwohl Sie nicht direkt in die Kamera blickt, als auch das Nummernschild des roten SUVs werden von unserer Künstlichen Intelligenz erkannt und automatisiert anonymisiert. Das Bild verliert dabei nicht an Aussagekraft und nur die personenbezogenen Daten wurden entfernt. Datenschutz sollte Sie nicht daran hindern Ihr Bildmaterial für Marketingzwecke zu verwenden - nutzen Sie unseren Service, um schnelle Ergebnisse erzielen zu können.
 
 ## Wie kann ich den Anonymizer-Service nutzen?
 
