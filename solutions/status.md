@@ -10,7 +10,7 @@ solutions:
     dev_health: https://dev.api.mmmint.ai/fahrzeugschein/v1/health
     prod_docs: https://api.mmmint.ai/fahrzeugschein/v1/docs
     prod_health: https://api.mmmint.ai/fahrzeugschein/v1/health
-  - name: Anonymizer
+  - name: AInonymizer
     description: >-
       This is a description
     dev_docs: https://dev.api.mmmint.ai/ainonymizer/v1/docs
