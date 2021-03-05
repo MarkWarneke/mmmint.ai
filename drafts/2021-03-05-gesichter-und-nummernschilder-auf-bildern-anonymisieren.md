@@ -51,7 +51,7 @@ Die Einbinung des Anonymizer-Service in Ihre Systeme ist dank einer standardisie
 
 Das Frontend für den Upload von Bildern & Videomaterial befindet sich aktuell in der Entwicklung. Sie möchten mit Ihrem Anwendungsfall einen Pilot mit uns starten? Sprechen Sie uns gerne an! Wir freuen uns auf einen Austausch und sind gespannt auf Ihren Anwendungsfall.
 
-> "Hier sehen Sie einen Auszug aus der Plattform Ebay Kleinanzeigen. Wir sind uns sicher, das geht auch leichter."
+> "Die Zeiten der lästigen, manuellen Anonymisierung von Bildern ist nun vorbei. Wir sind uns sicher, das geht auch leichter."
 
 ![Opel Zafira manuelle Anoymisierung von Auto Kennzeichen](/images/solutions/anonymizer/opel_zafira_crop.jpeg)
 
