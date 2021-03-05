@@ -41,7 +41,7 @@ sections:
       - title: AInonymizer
         image: images/solutions/ainonymizer/undraw_both_sides_hbv3.svg
         content: >-
-          Mit dem Anonymizer-Service von mmmint.ai können Sie Kennzeichen und Gesichter auf Fotos unkenntlich machen. Der zu anonymisierende Bereich wird verdeckt, verpixelt oder deformiert, sodass die Bilder und die enthaltenen personenbezogenen Informationen und Daten unkenntlich gemacht werden.
+          Mit dem AInonymizer-Service von mmmint.ai können Sie Kennzeichen und Gesichter auf Fotos unkenntlich machen. Der zu anonymisierende Bereich wird verdeckt, verpixelt oder deformiert, sodass die Bilder und die enthaltenen personenbezogenen Informationen und Daten unkenntlich gemacht werden.
         actions:
           - label: Learn More
             url: /solutions/ainonymizer
