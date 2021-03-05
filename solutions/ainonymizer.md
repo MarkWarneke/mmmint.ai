@@ -1,7 +1,7 @@
 ---
-title: Anonymizer
+title: AInonymizer
 subtitle: >-
-  Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonymisierung von Kennzeichen und Gesichtern.
+  Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonymisierung von Kennzeichen und Gesichtern - der AInonymizer!
 layout: features
 share-img: images/solutions/anonymizer/undraw_both_sides_hbv3.png
 sections:
@@ -15,7 +15,7 @@ sections:
         content: >-
           Verwenden Sie unsere Künstliche Intelligenz zur automatisierten <mark>Anonymisierung</mark> von Kennzeichen und Gesichtern.
           <br/>
-          Mit dem Anonymizer Service von mmmint.ai können Sie Gesichter und Kennzeichen auf Fotos unkenntlich machen.
+          Mit dem AInonymizer Service von mmmint.ai können Sie Gesichter und Kennzeichen auf Fotos unkenntlich machen.
           Der zu anonymisierenden Bereich wird verpixelt, um die Informationen und personenbezogenen Daten unkenntlich zu machen.
         actions:
           - label: Zur API
@@ -24,7 +24,7 @@ sections:
     component: cta_block.html
     type: ctablock
     title: Jetzt Demo anfordern!
-    subtitle: Bei Interesse schicken Sie uns einfach eine kurze E-Mail. Wir erstellen Ihnen einen Testzugang zu unserem Anonymizer-Service. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihr System.
+    subtitle: Bei Interesse schicken Sie uns einfach eine kurze E-Mail. Wir erstellen Ihnen einen Testzugang zu unserem AInonymizer-Service. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihr System.
     actions:
       - label: Go Anonymous
         url: "mailto:info@mmmint.ai"
@@ -84,7 +84,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: FAQ
     faqitems:
-      - question: Wie kann ich die Anonymizer API benutzen?
+      - question: Wie kann ich die AInonymizer API benutzen?
         answer: >-
             Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung, um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
       - question: Werden die Bilder gemäß der DSGVO verarbeitet?
@@ -92,7 +92,7 @@ sections:
             Alle bereitgestellten Services werden in deutschen Rechenzentren verarbeitet und gehosted. Übermittelte Datensätze werden in-transit und at-rest verschlüsselt. Ein Zugriff auf die Daten ist nur mit Hilfe des APIKey (`access_token`) möglich. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert. 
             <br/>
             Wir speichern keine Bilder ohne Anonymisierung. Alle Bilder und Videos werden nur für die Bearbeitung zu unseren Servern übermittelt und ausschließlich anonymisiert gespeichert. Das originale Bild kann zu keinem Zeitpunkt abgerufen werden.  
-      - question: Wie funktioniert die Anonymizer API?
+      - question: Wie funktioniert die AInonymizer API?
         answer: >-
             Gerne stellen wir Ihnen eine Teststellung bereit und testen live mit Ihnen die Verarbeitung. Anbei finden Sie einen Auszug aus unserer API Dokumentation. [[go to api documentation]](https://api.mmmint.ai/anonymizer/v1/docs)
             <br/><br/>
