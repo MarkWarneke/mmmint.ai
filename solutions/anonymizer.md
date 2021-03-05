@@ -26,7 +26,7 @@ sections:
     title: Jetzt Demo anfordern!
     subtitle: Bei Interesse schicken Sie uns einfach eine kurze E-Mail. Wir erstellen Ihnen einen Testzugang zu unserem Anonymizer-Service. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihr System.
     actions:
-      - label: Go Anonymus
+      - label: Go Anonymous
         url: "mailto:info@mmmint.ai"
   - section_id: blurred
     component: image_compare_block.html
@@ -107,6 +107,6 @@ sections:
             ![Anonymized demo face and car](/images/solutions/anonymizer/2314f3fed78c77b29373568b0740aac2124dab9150c8247c15ff7be374baa262.jpg)
       - question: Können auch Videos anonymisiert werden?
         answer: >-
-            Ja, da prinzipiell Videos nur eine Aneinanderreihung von Bildern sind. Wir arbeiten gerade mit Hochdruck an einer Lösung zur Anonymisierung von Video-Material. Für einen <mark>early access</mark> Zugriff schickt uns bitte eine kurze E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
-            Wir sind immer auf der Suche nach Kunden und Partnern die mit uns zusammen die smarten solutions der mmmint.ai noch besser machen wollen!
+            Ja, da Videos prinzipiell nur eine Aneinanderreihung von Bildern sind. Wir arbeiten gerade mit Hochdruck an einer Lösung zur Anonymisierung von Video-Material. Für einen <mark>early access</mark> Zugriff senden Sie uns bitte eine kurze E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
+            Wir sind immer offen für einen Austausch; gerne auch in Form eines Pilotprojektes mit Ihrem Unternehmen.
 ---
