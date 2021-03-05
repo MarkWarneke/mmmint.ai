@@ -13,10 +13,10 @@ solutions:
   - name: Anonymizer
     description: >-
       This is a description
-    dev_docs: https://dev.api.mmmint.ai/anonymizer/v1/docs
-    dev_health: https://dev.api.mmmint.ai/anonymizer/v1/health
-    prod_docs: https://api.mmmint.ai/anonymizer/v1/docs
-    prod_health: https://api.mmmint.ai/anonymizer/v1/health
+    dev_docs: https://dev.api.mmmint.ai/ainonymizer/v1/docs
+    dev_health: https://dev.api.mmmint.ai/ainonymizer/v1/health
+    prod_docs: https://api.mmmint.ai/ainonymizer/v1/docs
+    prod_health: https://api.mmmint.ai/ainonymizer/v1/health
   - name: Numberplate Recognition
     description: >-
       This is a description
