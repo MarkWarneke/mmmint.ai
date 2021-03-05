@@ -26,7 +26,7 @@ sections:
     title: Jetzt Demo anfordern!
     subtitle: Bei Interesse schicken Sie uns einfach eine kurze E-Mail. Wir erstellen Ihnen einen Testzugang zu unserem Anonymizer-Service. Gerne unterstützen wir Sie beratend hinsichtlich der Implementierung in Ihr System.
     actions:
-      - label: Go anonym
+      - label: Go Anonymous
         url: "mailto:info@mmmint.ai"
   - section_id: blurred
     component: image_compare_block.html
