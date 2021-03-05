@@ -4,7 +4,7 @@ subtitle: >-
   Mit der Anwendung von Künstlicher Intelligenz automatisiert Kennzeichen und Gesichter in Bildern anonymisieren.
 excerpt: >-
   Visuelle Medien nehmen einen zunehmenden Stellenwert in einer digitalisierten Welt ein. Immer mehr Plattformen integrieren das Hochladen von Bilddateien. Dabei können datenschutzrechliche Risiken durch den Upload von Bildern entstehen. Unsere Künstliche Intelligenz anonymisiert Bilder für diverse Anwendungsszenarien.
-date: '2021-03-04'
+date: '2021-03-05'
 time: 2 Minute
 thumb_img_path: images/solutions/anonymizer/undraw_both_sides_hbv3.png
 share-img: images/solutions/anonymizer/undraw_both_sides_hbv3.png
@@ -43,15 +43,15 @@ Es steht Ihnen frei, ob Sie mit unserem SaaS Gesichter und/oder Kennzeichen auf 
 
  {% include image_compare_block.html section=page.compare.city %}
 
-Es kann deutlich erkannt werden, dass sowohl die Person zwischen den Autos, obwohl Sie nicht direkt in die Kamera schaut, sowie das Nummernschild des roten SUVs von unserer Künstlichen Intelligenz anonymisiert wurde. Das Bild verliert dabei nicht an Aussagekraft und die sensiblen Daten wurden entfernt. Datenschutz sollte Sie nicht daran hindern Ihr Bildmaterial für Marketingzwecke effizient zu verwenden - nutzen Sie unseren Service, um in Echtzeit Ergebnisse erzielen zu können.
+Sowohl die Person zwischen den Autos, obwohl Sie nicht direkt in die Kamera blickt, als auch das Nummernschild des roten SUVs werden von unserer Künstlichen Intelligenz erkannt und automatisiert anonymisiert. Das Bild verliert dabei nicht an Aussagekraft und nur die personenbezogenen Daten wurden entfernt. Datenschutz sollte Sie nicht daran hindern Ihr Bildmaterial für Marketingzwecke zu verwenden - nutzen Sie unseren Service, um schnelle Ergebnisse erzielen zu können.
 
-## Ich möchte den Anonymizer-Service heute noch verwenden. Wie starte ich?
+## Wie kann ich den Anonymizer-Service nutzen?
 
-Die Einbinung des Anonymizer-Service in Ihre Systeme ist dank einer standardisierten Schnitstelle einfach und schnell. Aktuell wird der [<mark>Anonymizer-Service</mark>](/solutions/anonymizer/) als REST-API zur Verfügung gestellt und biete Entwicklern damit einen einfachen Zugang zu unserer Künstlichen Intelligenz, [schauen Sie einfach bei unsere Entwickler Dokumentation vorbei](/solutions/anonymizer_api.html). 
+Die Einbinung des Anonymizer-Service in Ihre Systeme ist dank einer standardisierten Schnitstelle einfach und schnell möglich. Aktuell wird der [<mark>Anonymizer-Service</mark>](/solutions/anonymizer/) als REST-API zur Verfügung gestellt und bietet Entwicklern damit einen einfachen Zugang zu unserer Künstlichen Intelligenz. [Hier finden Sie unsere Dokumentation](/solutions/anonymizer_api.html)
 
-Eine Nutzerfreundliches Frontent zum einfachen Upload von Bildern ist in Planung. Sie möchten mit Ihrem Anwendungsfall einen Pilot mit uns starten? Sprechen Sie uns gerne an!
+Das Frontend für den Upload von Bildern & Videomaterial befindet sich aktuell in der Entwicklung. Sie möchten mit Ihrem Anwendungsfall einen Pilot mit uns starten? Sprechen Sie uns gerne an! Wir freuen uns auf einen Austausch und sind gespannt auf Ihren Anwendungsfall.
 
-> "Die Zeiten der lästigen, manuellen Anonymisierung von Bildern ist nun vorbei."
+> "Die Zeiten der lästigen, manuellen Anonymisierung von Bildern ist nun vorbei. Wir sind uns sicher, das geht auch leichter."
 
 ![Opel Zafira manuelle Anoymisierung von Auto Kennzeichen](/images/solutions/anonymizer/opel_zafira_crop.jpeg)
 
