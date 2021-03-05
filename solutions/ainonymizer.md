@@ -5,7 +5,7 @@ subtitle: >-
 layout: features
 share-img: images/solutions/ainonymizer/undraw_both_sides_hbv3.png
 sections:
-  - section_id: anonymizer
+  - section_id: ainonymizer
     component: features_block.html
     type: featuresblock
     bg: gray
