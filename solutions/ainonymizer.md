@@ -3,7 +3,7 @@ title: AInonymizer
 subtitle: >-
   Verwenden Sie unsere Künstliche Intelligenz zur automatisierten Anonymisierung von Kennzeichen und Gesichtern - der AInonymizer!
 layout: features
-share-img: images/solutions/anonymizer/undraw_both_sides_hbv3.png
+share-img: images/solutions/ainonymizer/undraw_both_sides_hbv3.png
 sections:
   - section_id: anonymizer
     component: features_block.html
@@ -11,7 +11,7 @@ sections:
     bg: gray
     featureslist:
       - title: Bilder anonymisieren
-        image: images/solutions/anonymizer/undraw_both_sides_hbv3.svg
+        image: images/ssolutions/anonymizer/undraw_both_sides_hbv3.svg
         content: >-
           Verwenden Sie unsere Künstliche Intelligenz zur automatisierten <mark>Anonymisierung</mark> von Kennzeichen und Gesichtern.
           <br/>
@@ -19,7 +19,7 @@ sections:
           Der zu anonymisierenden Bereich wird verpixelt, um die Informationen und personenbezogenen Daten unkenntlich zu machen.
         actions:
           - label: Zur API
-            url: /solutions/anonymizer_api.html
+            url: /solutions/ainonymizer_api.html
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
@@ -34,10 +34,10 @@ sections:
     subtitle: Ziehen Sie einfach den Slider um das Vorher-Nachher-Bild zu vergleichen!
     image:
       right:
-        src: /images/solutions/anonymizer/city-blurred.jpg
+        src: /images/solutions/ainonymizer/city-blurred.jpg
         alt: Anonymisiert
       left:
-        src: /images/solutions/anonymizer/city-original.jpg
+        src: /images/solutions/ainonymizer/city-original.jpg
         alt: Original
   - section_id: pricing
     component: pricing_block.html
@@ -94,17 +94,17 @@ sections:
             Wir speichern keine Bilder ohne Anonymisierung. Alle Bilder und Videos werden nur für die Bearbeitung zu unseren Servern übermittelt und ausschließlich anonymisiert gespeichert. Das originale Bild kann zu keinem Zeitpunkt abgerufen werden.  
       - question: Wie funktioniert die AInonymizer API?
         answer: >-
-            Gerne stellen wir Ihnen eine Teststellung bereit und testen live mit Ihnen die Verarbeitung. Anbei finden Sie einen Auszug aus unserer API Dokumentation. [[go to api documentation]](https://api.mmmint.ai/anonymizer/v1/docs)
+            Gerne stellen wir Ihnen eine Teststellung bereit und testen live mit Ihnen die Verarbeitung. Anbei finden Sie einen Auszug aus unserer API Dokumentation. [[go to api documentation]](https://api.mmmint.ai/ainonymizer/v1/docs)
             <br/><br/>
             ```
-            curl -X POST "https://api.mmmint.ai/anonymizer/v1/anonymize/?face=true&numberplate=true&logoinsertion=true&access_token=<access_token>" -H  "accept: application/json" -H  "Content-Type: multipart/form-data" -F "file=@car_face.jpg;type=image/jpeg"
+            curl -X POST "https://api.mmmint.ai/ainonymizer/v1/ainonymize/?face=true&numberplate=true&logoinsertion=true&access_token=<access_token>" -H  "accept: application/json" -H  "Content-Type: multipart/form-data" -F "file=@car_face.jpg;type=image/jpeg"
             ```
             <br/>
             Replace `<access_token>` with your personal access_token requested from us [info@mmmint.ai](mailto:info@mmmint.ai). 
             <br/><br/>
             In order to use the anonymize API you start by submitting an image via file upload, using a POST to `/anonymize/`. You can decide to only anonymize faces (`?face=true`) and/or numberplates (`?numberplate=true`)  or both (`?face=true&numberplate=true`) . Also, it is possible to overlay the numberplates with custom images using `?logoinsertion=true`. 
             <br/><br/>
-            ![Anonymized demo face and car](/images/solutions/anonymizer/2314f3fed78c77b29373568b0740aac2124dab9150c8247c15ff7be374baa262.jpg)
+            ![Anonymized demo face and car](/images/solutions/ainonymizer/2314f3fed78c77b29373568b0740aac2124dab9150c8247c15ff7be374baa262.jpg)
       - question: Können auch Videos anonymisiert werden?
         answer: >-
             Ja, da Videos prinzipiell nur eine Aneinanderreihung von Bildern sind. Wir arbeiten gerade mit Hochdruck an einer Lösung zur Anonymisierung von Video-Material. Für einen <mark>early access</mark> Zugriff senden Sie uns bitte eine kurze E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
