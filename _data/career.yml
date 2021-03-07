@@ -10,8 +10,9 @@
   text: Du brennst fürs Coden und wolltest schon immer in einem innovativen und dynamischen Start-Up arbeiten? Wir bieten dir exzellente Einblicke in die moderne Cloud- und Webentwicklung. Lerne in unserem Dojo, wie sich virtuelle Start-Ups mit modernster Technologie zukunftssicher und skalierbar platzieren.
   employmentType: PART_TIME
   posted: 2021-03-07
-     label: Zur Stellenbeschreibung 
-     url: /career/2021_03_07_mmmint_ai_fullstack.pdf
+  action:
+    label: Zur Stellenbeschreibung
+    url: /career/2021_03_07_mmmint_ai_fullstack.pdf
      
 - title: Data Scientist Teilzeit (m/w/d)
   text: Du erkennst auf Anhieb die PI Nummernfolge im Telefonbuch? Statistik und Python sind dir ein Begriff? Du würdest gerne an intelligenten Lösungen wie Bild- und Videoerkennung arbeiten? Du hast Interesse an OCR sowie der Analyse von Datensätzen? Bewirb dich bei uns und sei Teil davon, smarte Applikationen unter Anwendung der neuesten wissenschaftlichen Erkentnisse weiter zu bringen!
