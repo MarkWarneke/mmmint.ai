@@ -23,11 +23,7 @@ Die <strong>FOM Hochschule für Oekonomie und Management</strong> geht mit ihren
 
 Das Team von mmmint.ai freut sich auf einen regen Wissens- und Erfahrungsaustausch mit Studierenden der [FOM Hochschule](https://www.fom.de/). Max, einer der drei Gründer des Teams, hat sein B.Sc. in Betriebswirtschaft & Wirtschaftspsychologie ebenso an der FOM absolviert und kann aus eigener Erfahrung berichten, wie realitätsnah an der Hochschule gelehrt wird. Das junge und komplett digitale KI-Startup sieht in der Kooperation auch eine weitere Möglichkeit für sein Employer Branding; mit über 40 Bachelor- und Masterstudiengängen gibt es hier ein großes Potenzial für Trainees, Werkstudenten oder duale Studenten.
 
-<<<<<<< HEAD
-[<img src="/images/posts/2021-03-13-mmmmint-ist-Partner-der-FOM/MAX_FOM.jpg" alt="Foto Maximilian Stein" style="height: 300px; margin: auto;  display: block;" />](https://www.linkedin.com/in/maximilian-stein/)
-=======
 [<img src="/images/posts/2021-03-13-mmmmint-ist-Partner-der-FOM/MAX_FOM.jpeg" alt="Foto Maximilian Stein" style="height: 300px; margin: auto;  display: block;" />](https://www.linkedin.com/in/maximilian-stein/)
->>>>>>> 5beda542ee81dd78ebbaaf65d6c79dafeca4a5c1
 
 ### Möchtest du Studium und Praxis kombinieren? Hast Du Lust praxisnah ausgebildet zu werden und dabei mit modernsten KI-Technologien zu arbeiten?
 
