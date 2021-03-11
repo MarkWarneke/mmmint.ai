@@ -13,7 +13,7 @@ share-img: images/FOM_2013_RGB.jpg
 
  Die FOM ist mit über 57.000 Studierenden eine der führenden privaten Hochschulen Europas. Für unser KI-Startup stellt die Zusammenarbeit mit einer praxisorientierten Hochschule einen großen Mehrwert dar.
 
-[<img src="/images/FOM_2013_RGB.jpg" alt="logo FOM" style="margin: auto;  display: block; heihgt: 300px;" />](https://fom.de/)
+[<img src="/images/FOM_2013_RGB.jpg" alt="logo FOM" style="margin: auto;  display: block; height: 300px;" />](https://fom.de/)
 
 ## KI-Startup aus Osnabrück knüpft Kontakte in die berufsbegleitende Forschung
 
