@@ -74,6 +74,8 @@ sections:
         url: https://www.seedhouse.de/
       - image: images/Logo_BVMW_tagline_positiv_RGB_M.png
         url: https://www.seedhouse.de/
+      - image: images/FOM_2013_RGB.jpg
+        url: https://fom.de/
 layout: home
 ---
 
