@@ -7,21 +7,21 @@ excerpt: >-
   Wir freuen uns eine spannende Kollaboration zwischen der praxisnahen Forschung und unserem StartUp.
 date: '2021-03-13'
 time: 2 Minute
-thumb_img_path: images/posts/2021-03-13-mmmmint-ist-Partner-der-FOM/FOM_2013_RGB.jpg
-share-img: images/posts/2021-03-13-mmmmint-ist-Partner-der-FOM/FOM_2013_RGB.jpg
+thumb_img_path: images/FOM_2013_RGB.jpg
+share-img: images/FOM_2013_RGB.jpg
 ---
 
  Die FOM ist mit über 57.000 Studierenden eine der führenden privaten Hochschulen Europas. Für unser KI-Startup stellt die Zusammenarbeit mit einer praxisorientierten Hochschule einen großen Mehrwert dar.
 
 [<img src="/images/FOM_2013_RGB.jpg" alt="logo FOM" style="margin: auto;  display: block;" />](https://fom.de/)
 
-## KI-Startup aus Osnabrück knüpft Kontakte in die berufbegleitende Forschung
+## KI-Startup aus Osnabrück knüpft Kontakte in die berufsbegleitende Forschung
 
 Die <strong>FOM Hochschule für Oekonomie und Management</strong> geht mit ihren 36 Hochschulzentren quer durch Deutschland nun eine Kooperation mit der Osnabrücker Talentschmiede für KI & Digitales ein. Insbesondere der Theorie- und Praxistransfer in den akademischen FOM Studiengängen für Berufstätige gibt unseren KI-Innovationen dem Schwerpunkt auf die Automotive Industrie einen positiven Ausblick in die Zukunft. Dank dem großen Netzwerk über die Ländergrenzen hinaus nach China, Indien, USA & Südafrika bietet diese Partnerschaft Aussicht auf Skalierbarkeit.
 
 > FOM & mmmint.ai präsentieren sich berufsbeleitend, praxisnah, international und forschungsstark
 
-Das Team von mmmint.ai freut sich auf einen regen Wissens- und Erfahrungsaustausch mit Studierenden der [FOM Hochschule](https://www.fom.de/). Max, einer der drei Gründer des Teams, hat sein B.Sc. in Betriebswirtschaft & Wirtschaftspsychologie ebenso an der FOM absolviert und kann aus eigener Erfahrung berichten, wie realitätsnah an der Hochschule gelehrt wird. Das junge und komplett digitale KI-Startup sieht in der Kooperation auch eine weitere Möglichkeit für sein Employer Branding; mit über 40 Bachelor- und Masterstudiengängen gibt es hier ein großes Potenzial für Trainees, Werkstudenten oder Duale Studenten.
+Das Team von mmmint.ai freut sich auf einen regen Wissens- und Erfahrungsaustausch mit Studierenden der [FOM Hochschule](https://www.fom.de/). Max, einer der drei Gründer des Teams, hat sein B.Sc. in Betriebswirtschaft & Wirtschaftspsychologie ebenso an der FOM absolviert und kann aus eigener Erfahrung berichten, wie realitätsnah an der Hochschule gelehrt wird. Das junge und komplett digitale KI-Startup sieht in der Kooperation auch eine weitere Möglichkeit für sein Employer Branding; mit über 40 Bachelor- und Masterstudiengängen gibt es hier ein großes Potenzial für Trainees, Werkstudenten oder duale Studenten.
 
 [<img src="/images/posts/2021-03-13-mmmmint-ist-Partner-der-FOM/MAX_FOM.jpg" alt="Foto Maximilian Stein" style="height: 300px; margin: auto;  display: block;" />](https://www.linkedin.com/in/maximilian-stein/)
 
