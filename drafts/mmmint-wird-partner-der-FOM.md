@@ -11,13 +11,13 @@ thumb_img_path: images/FOM_2013_RGB.jpg
 share-img: images/FOM_2013_RGB.jpg
 ---
 
- Die FOM ist mit über 57.000 Studierenden eine der führenden privaten Hochschulen Europas. Für unser KI-Startup stellt die Zusammenarbeit mit einer praxisorientierten Hochschule einen großen Mehrwert dar.
+Die [FOM](https://www.fom.de/) ist mit über 57.000 Studierenden eine der führenden privaten Hochschulen Europas. Für unser KI-Startup stellt die Zusammenarbeit mit einer praxisorientierten Hochschule einen großen Mehrwert dar.
 
 [<img src="/images/FOM_2013_RGB.jpg" alt="logo FOM" style="margin: auto;  display: block; height: 300px;" />](https://fom.de/)
 
 ## KI-Startup aus Osnabrück knüpft Kontakte in die berufsbegleitende Forschung
 
-Die <strong>FOM Hochschule für Oekonomie und Management</strong> geht mit ihren 36 Hochschulzentren quer durch Deutschland nun eine Kooperation mit der Osnabrücker Talentschmiede für KI & Digitales ein. Insbesondere der Theorie- und Praxistransfer in den akademischen FOM Studiengängen für Berufstätige gibt unseren KI-Innovationen dem Schwerpunkt auf die Automotive Industrie einen positiven Ausblick in die Zukunft. Dank dem großen Netzwerk über die Ländergrenzen hinaus nach China, Indien, USA & Südafrika bietet diese Partnerschaft Aussicht auf Skalierbarkeit.
+Die <strong>FOM Hochschule für Oekonomie und Management</strong> geht mit ihren 36 Hochschulzentren in ganz Deutschland nun eine Kooperation mit der Osnabrücker Talentschmiede für KI & Digitales ein. Insbesondere der Theorie- und Praxistransfer in den akademischen FOM Studiengängen für Berufstätige ist für unsere KI-Innovationen mit dem Schwerpunkt auf die Automotive Industrie spannend. Dank dem großen Netzwerk über die Ländergrenzen hinaus nach China, Indien, USA & Südafrika bietet diese Partnerschaft Aussicht auf Skalierbarkeit. Besonders für die internationalen Teammitglieder von mmmint.ai aus Dublin (Irland), New York (USA) und Ernakulam (Indien) ergeben sich hier Möglichkeiten zum Vernetzen.
 
 > FOM & mmmint.ai präsentieren sich berufsbeleitend, praxisnah, international und forschungsstark
 
@@ -27,7 +27,8 @@ Das Team von mmmint.ai freut sich auf einen regen Wissens- und Erfahrungsaustaus
 
 ### Möchtest du Studium und Praxis kombinieren? Hast Du Lust praxisnah ausgebildet zu werden und dabei mit modernsten KI-Technologien zu arbeiten?
 
-Wir suchen stetig nach Verstärkung für unser Team. Das wird kein langweiliger 9-to-5 Job. Wir entwickeln State of the Art SaaS und arbeiten mit den innovativsten Partnern aus dem KI, Versicherungs- und Automotive Sektor. Schau gleich [hier](/career) nach, ob eine Stellenausschreibung zu deinem Profil passt. Die passende Stelle ist nicht dabei aber die Kombination zwischen Studium an der FOM Hochschule für Oekonomie & Management und mmmint.ai lässt dich nicht los? Wir freuen uns deinen Vorschlag - schick uns eine E-Mail und wir kommen sicher ins Gespräch!
+Wir suchen stetig nach Verstärkung für unser Team. Wir entwickeln State of the Art SaaS und arbeiten mit den innovativsten Partnern aus dem KI, Versicherungs- und Automotive Sektor. Schau gleich [hier](/career) nach, ob eine Stellenausschreibung zu deinem Profil passt. 
+Die passende Stelle ist nicht dabei aber die Kombination zwischen einem Studium an der [FOM Hochschule für Oekonomie & Management](https://www.fom.de/) und mmmint.ai lässt dich nicht los? Wir freuen uns deinen Vorschlag für eine Zusammenarbeit!
 
 <a href="/career" class="button">Jetzt Forschung in die Praxis bringen!</a>
 
