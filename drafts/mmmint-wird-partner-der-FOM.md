@@ -17,18 +17,18 @@ Die [FOM](https://www.fom.de/) ist mit über 57.000 Studierenden eine der führe
 
 ## KI-Startup aus Osnabrück knüpft Kontakte in die berufsbegleitende Forschung
 
-Die <strong>FOM Hochschule für Oekonomie und Management</strong> geht mit ihren 36 Hochschulzentren in ganz Deutschland nun eine Kooperation mit der Osnabrücker Talentschmiede für KI & Digitales ein. Insbesondere der Theorie- und Praxistransfer in den akademischen FOM Studiengängen für Berufstätige ist für unsere KI-Innovationen mit dem Schwerpunkt auf die Automotive Industrie spannend. Dank dem großen Netzwerk über die Ländergrenzen hinaus nach China, Indien, USA & Südafrika bietet diese Partnerschaft Aussicht auf Skalierbarkeit. Besonders für die internationalen Teammitglieder von mmmint.ai aus Dublin (Irland), New York (USA) ergeben sich hier Möglichkeiten zum Vernetzen.
+Die <strong>FOM Hochschule für Oekonomie und Management</strong> geht mit ihren 36 Hochschulzentren in ganz Deutschland nun eine Kooperation mit der Osnabrücker Talentschmiede für KI & Digitales ein. Insbesondere der Theorie- und Praxistransfer in den akademischen FOM Studiengängen für Berufstätige ist für unsere KI-Innovationen mit dem Schwerpunkt auf die Automotive Industrie spannend. Dank des großen Netzwerks über die Ländergrenzen hinaus nach China, Indien, USA & Südafrika bietet diese Partnerschaft Aussicht auf Skalierbarkeit. Besonders für die internationalen Teammitglieder von mmmint.ai aus Dublin (Irland), New York (USA) ergeben sich hier Möglichkeiten zum Vernetzen.
 
 > FOM & mmmint.ai präsentieren sich berufsbeleitend, praxisnah, international und forschungsstark
 
-Das Team von mmmint.ai freut sich auf einen regen Wissens- und Erfahrungsaustausch mit Studierenden der [FOM Hochschule](https://www.fom.de/). Max, einer der drei Gründer des Teams, hat sein B.Sc. in Betriebswirtschaft & Wirtschaftspsychologie ebenso an der FOM absolviert und kann aus eigener Erfahrung berichten, wie realitätsnah an der Hochschule gelehrt wird. Das junge und komplett digitale KI-Startup sieht in der Kooperation auch eine weitere Möglichkeit für sein Employer Branding; mit über 40 Bachelor- und Masterstudiengängen gibt es hier ein großes Potenzial für Trainees, Werkstudenten oder duale Studenten.
+Das Team von mmmint.ai freut sich auf einen regen Wissens- und Erfahrungsaustausch mit Studierenden der [FOM Hochschule](https://www.fom.de/). Max, einer der drei Gründer des Teams, hat sein B.Sc. in Betriebswirtschaft & Wirtschaftspsychologie ebenso an der FOM absolviert und kann aus eigener Erfahrung berichten, wie praxisnah an der Hochschule gelehrt wird. Das junge und komplett digitale KI-Startup sieht in der Kooperation auch eine weitere Möglichkeit für das Employer Branding; mit über 40 Bachelor- und Masterstudiengängen gibt es hier ein großes Potenzial für Trainees, Werkstudenten oder duale Studenten.
 
 [<img src="/images/posts/2021-03-13-mmmmint-ist-Partner-der-FOM/MAX_FOM.jpeg" alt="Foto Maximilian Stein" style="height: 300px; margin: auto;  display: block;" />](https://www.linkedin.com/in/maximilian-stein/)
 
 ### Möchtest du Studium und Praxis kombinieren? Hast Du Lust praxisnah ausgebildet zu werden und dabei mit modernsten KI-Technologien zu arbeiten?
 
 Wir suchen stetig nach Verstärkung für unser Team. Wir entwickeln State of the Art SaaS und arbeiten mit den innovativsten Partnern aus dem KI, Versicherungs- und Automotive Sektor. Schau gleich [hier](/career) nach, ob eine Stellenausschreibung zu deinem Profil passt. 
-Die passende Stelle ist nicht dabei aber die Kombination zwischen einem Studium an der [FOM Hochschule für Oekonomie & Management](https://www.fom.de/) und mmmint.ai lässt dich nicht los? Wir freuen uns deinen Vorschlag für eine Zusammenarbeit!
+Die passende Stelle ist nicht dabei aber die Kombination zwischen einem Studium an der [FOM Hochschule für Oekonomie & Management](https://www.fom.de/) und mmmint.ai lässt dich nicht los? Wir freuen uns auf deinen Vorschlag für eine Zusammenarbeit!
 
 <a href="/career" class="button">Jetzt Forschung in die Praxis bringen!</a>
 
