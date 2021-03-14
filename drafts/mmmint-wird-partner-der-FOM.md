@@ -17,7 +17,7 @@ Die [FOM](https://www.fom.de/) ist mit über 57.000 Studierenden eine der führe
 
 ## KI-Startup aus Osnabrück knüpft Kontakte in die berufsbegleitende Forschung
 
-Die <strong>FOM Hochschule für Oekonomie und Management</strong> geht mit ihren 36 Hochschulzentren in ganz Deutschland nun eine Kooperation mit der Osnabrücker Talentschmiede für KI & Digitales ein. Insbesondere der Theorie- und Praxistransfer in den akademischen FOM Studiengängen für Berufstätige ist für unsere KI-Innovationen mit dem Schwerpunkt auf die Automotive Industrie spannend. Dank dem großen Netzwerk über die Ländergrenzen hinaus nach China, Indien, USA & Südafrika bietet diese Partnerschaft Aussicht auf Skalierbarkeit. Besonders für die internationalen Teammitglieder von mmmint.ai aus Dublin (Irland), New York (USA) und Ernakulam (Indien) ergeben sich hier Möglichkeiten zum Vernetzen.
+Die <strong>FOM Hochschule für Oekonomie und Management</strong> geht mit ihren 36 Hochschulzentren in ganz Deutschland nun eine Kooperation mit der Osnabrücker Talentschmiede für KI & Digitales ein. Insbesondere der Theorie- und Praxistransfer in den akademischen FOM Studiengängen für Berufstätige ist für unsere KI-Innovationen mit dem Schwerpunkt auf die Automotive Industrie spannend. Dank dem großen Netzwerk über die Ländergrenzen hinaus nach China, Indien, USA & Südafrika bietet diese Partnerschaft Aussicht auf Skalierbarkeit. Besonders für die internationalen Teammitglieder von mmmint.ai aus Dublin (Irland), New York (USA) ergeben sich hier Möglichkeiten zum Vernetzen.
 
 > FOM & mmmint.ai präsentieren sich berufsbeleitend, praxisnah, international und forschungsstark
 
