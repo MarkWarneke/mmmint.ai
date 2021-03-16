@@ -5,7 +5,7 @@ excerpt: >-
   Die FOM ist mit über 57.000 Studierenden eine der führenden privaten Hochschulen Europas. Für unser KI-StartUp stellt die Zusammenarbeit mit einer praxisorientierten Hochschule einen großen Mehrwert dar.
   <br/><br/>
   Wir freuen uns eine spannende Kollaboration zwischen der praxisnahen Forschung und unserem StartUp.
-date: '2021-03-13'
+date: '2021-03-17'
 time: 2 Minute
 thumb_img_path: images/FOM_2013_RGB.jpg
 share-img: images/FOM_2013_RGB.jpg
