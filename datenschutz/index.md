@@ -1,5 +1,13 @@
-# Datenschutz
+---
+title: Datenschutz
+subtitle: >-
+  Datenschutzerklärung von mmmint.ai - building smart solutions.
+  Under construction.
+  Reach out to info@mmmint.ai for further information.
+
+layout: page
+---
 
 
 
-![undraw_under_construction_46pa](https://user-images.githubusercontent.com/7847915/112969231-f6d6ad80-9144-11eb-8cbd-6b46108897d0.png)
+![Under Construction](/images/undraw_under_construction_46pa.svg)
