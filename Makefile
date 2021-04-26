@@ -22,4 +22,4 @@ exec:
 	docker exec -ti mmmint /bin/sh
 
 clean:
-	docker rm -f mmmint
+	# docker rm -f mmmint
