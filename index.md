@@ -24,7 +24,7 @@ sections:
       take a look, what mmmint.ai is offering
     featureslist:
       - title: Moderne Landingpage für Werkstätten
-        image: images/product_landingpage.png
+        image: images/solutions/landingpage/product_landingpage.png
         content: >-
           Mit deiner persönlichen Landingpage generierst Du zusätzliche Leads in deiner Stadt.​
           Sei dem Wettbewerb einen Klick voraus und buche jetzt deinen zusätzlichen Webauftritt.​

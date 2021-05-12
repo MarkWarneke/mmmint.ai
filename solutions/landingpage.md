@@ -3,7 +3,7 @@ title: Moderne Landingpage Webseite zur Akquise von Kunden für Werkstätten
 subtitle: >-
   Mit deiner persönlichen Landingpage generierst Du zusätzliche Leads in deiner Stadt.​
   Sei dem Wettbewerb einen Klick voraus und buche jetzt deinen zusätzlichen Webauftritt.​
-share-img: images/product_landingpage.png
+share-img: images/solutions/landingpage/product_landingpage.png
 sections:
   - section_id: registrationrecognition
     component: features_block.html
@@ -11,7 +11,7 @@ sections:
     bg: gray
     featureslist:
       - title: Personalisierte Landingpage zur Generierung von zusätzlichen Leads in deiner Stadt.​
-        image: images/product_landingpage.png
+        image: images/solutions/landingpage/product_landingpage.png
         content: >-
           Mit deiner persönlichen Landingpage generierst Du zusätzliche Leads in deiner Stadt.​
           Schnell einen zusätzlichen digitalen  Auftritt für kleines Geld erstellen! Mit der Option die Prozesse durch  Künstliche Intelligenz zu optimieren.
@@ -39,10 +39,26 @@ sections:
     component: cta_block.html
     type: ctablock
     title: Jetzt Demo anfordern!
-    subtitle: Schick uns einfach eine kurze E-Mail und erhalte eine Teststellung zu unserer Landingpage. Gerne unterstützen wir Dich beratend hinsichtlich der Implementierung und Verlinkung auf deine bestehende Website.  Sollte eine Schnittstellenbeschreibung eures DMS Systems vorhanden sein, können wir mit Hilfe von unserer Künstlichen Intelligenz eure bestehenden Prozesse zur Kundenerfassung automatisieren.
+    subtitle: Schick uns einfach eine kurze E-Mail und erhalte eine Teststellung zu unserer Landingpage. Gerne unterstützen wir Dich beratend hinsichtlich der Implementierung und Verlinkung auf deine bestehende Website.
     actions:
       - label: Get digital
         url: "mailto:info@mmmint.ai"
+  - section_id: email
+    component: features_block.html
+    type: featuresblock
+    bg: white
+    featureslist:
+      - title: Prozesse Optimieren mit dem integrierten Fahrzeugscanner
+        image: images/solutions/landingpage/smart_email.png
+        content: >-
+          Mit Hilfe von unserer Künstlichen Intelligenz bestehenden Prozesse zur Kundenerfassung automatisieren.  Verwenden Sie unsere Landingpage zur automatisierten ingeration von Kontaktanfragen direkt in DMS Systems wie z.B. KSR.
+          <br/>
+          <br/>
+          Mithilfe unserer Fahrzeugscheinerkennung werden übermittelte Fahrzeugscheine automatisiert ausgelesen und zur Weiterverarbeitung digitalisiert. Sollte eine Schnittstellenbeschreibung des DMS Systems vorhanden sein, können wir mit Hilfe von unserer Lösungen die bestehenden Prozesse zur Kundenerfassung automatisieren.
+        actions:
+          - label: wetiere Informationen zur Fahrzeugscheinerkennung
+            url: /solutions/fahrzeugscheinscanner
+
   - section_id: pricing
     component: pricing_block.html
     type: pricingblock
@@ -86,29 +102,6 @@ sections:
         actions:
           - label: get in contact
             url: mailto:info@mmmint.ai
-  # - section_id: faq
-  #   component: faq_block.html
-  #   type: faqblock
-  #   bg: gray
-  #   title: Frequently Asked Questions
-  #   subtitle: FAQ
-  #   faqitems:
-  #     - question: Wie kann ich die Fahrzeugschein API benutzen?
-  #       answer: >-
-  #         Um einen vollumfänglichen Zugriff auf unsere API zu bekommen, wird ein individualisierter APIKey (`access_token`) benötigt. Gerne stellen wir Ihnen eine Teststellung zur Verfügung um den Anwendsfall explizit zu testen. Senden Sie uns hierzu bitte eine E-Mail an [info@mmmint.ai](mailto:info@mmmint.ai).
-  #     - question: Werden die Fahrzeugscheine gemäß der DSGVO verarbeitet?
-  #       answer: >-
-  #         Alle bereitgestellten Services werden in deutschen Rechenzentren verarbeitet und gehosted. Übermittelte Datensätze werden in-transit und at-rest verschlüsselt. Ein Zugriff auf die Daten ist nur mit Hilfe des APIKey (`access_token`) möglich. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert.
-  #     - question: Wie funktioniert die Fahrzeugschein API?
-  #       answer: >-
-  #         Gerne stellen wir Ihnen eine Teststellung bereit und testen live mit Ihnen die Verarbeitung. Anbei finden Sie einen Auszug aus unserer API Dokumentation:
-
-  #           1. In order to use the registration recognition API you start by submitting an image via file upload, or with a publicly accessible image of the registration, using a POST to `/fahrzeugschein`.
-  #           2. The asynchronous processing of the the recognition can be checked using the `/fahrzeugschein/status/` {sessionId} resource.
-  #           3. After the status is finished, the recognized data can be retrieved using `/fahrzeugschein/{id}` resource.
-  #           4. The bounding boxes and associated cropped images can be retrieved using the `/detection` resources.
-  #           5. To retrieve all sessions for the submitted registration use the `/session` resource. The sessions will also indicate the status of all submissions.
-
   - section_id: partner
     component: slider.html
     type: reviewsblock
@@ -122,5 +115,22 @@ sections:
         url: https://www.spotrepair-os.de/
       - image: partner/brand-logo/isicar.png
         url: https://www.spotrepair-leipzig.de/
+
+  - section_id: faq
+    component: faq_block.html
+    type: faqblock
+    bg: gray
+    title: Frequently Asked Questions
+    subtitle: FAQ
+    faqitems:
+      - question: Wie erhalte ich die Kontaktanfragen über die Landingpage?
+        answer: >-
+          Wir erstellen einen individuellen Partner Zugang. Mit diesem Partner Zugang können alle wesentlichen Elemente der Landingpage konfiguriert und angepasst werden. 
+          Die Kontaktanfragen werden an eine festgelegte E-Mail Adresse versendet. Die übermittelten Daten können so ganz einfach aus dem Posteingang übernommen werden.
+          Die strukturierten Daten können anschließend auch ganz einfach aus unserer Partner Konsole abgerufen werden! Die Partner Konsole stellt alle Kundenanfragen übersichtlich in einem Portal zur Verfügung.  
+      - question: Werden die Daten gemäß der DSGVO verarbeitet?
+        answer: >-
+          Alle bereitgestellten Services werden in deutschen Rechenzentren verarbeitet und gehosted. Übermittelte Datensätze werden in-transit und at-rest verschlüsselt. Ein Zugriff auf die Daten ist nur mit Hilfe des Partner Zugangs möglich. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert.
+
 layout: features
 ---
