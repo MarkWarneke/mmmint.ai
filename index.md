@@ -97,7 +97,9 @@ sections:
       - image: images/seedhouse_logo_greenblack_sign.png
         url: https://www.seedhouse.de/
       - image: images/Logo_BVMW_tagline_positiv_RGB_M.png
-        url: https://www.seedhouse.de/
+        url: https://www.bvmw.de/
+      - image: images/zukunfts-werkstatt.png
+        url: https://www.ifa-info.de/zukunftswerkstatt
 layout: home
 ---
 
