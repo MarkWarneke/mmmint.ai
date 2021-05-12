@@ -50,7 +50,7 @@ sections:
     subtitle: Gerne erstellen wir Ihnen ein individualisiertes Angebot.
     pricingplans:
       - title: Basic
-        price: 99€/month
+        price: 19.99€/month
         details: |-
           * 150 Bilder inklusive
           * dann 0.15€ pro Bild
@@ -61,7 +61,7 @@ sections:
           - label: Order Now
             url: mailto:info@mmmint.ai
       - title: Professional
-        price: 498€/month
+        price: 99€/month
         details: |-
           * 2000 Bilder inklusive
           * dann 0.08€ pro Bild

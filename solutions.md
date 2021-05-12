@@ -13,6 +13,14 @@ sections:
     subtitle: >-
       take a look, what mmmint.ai is offering
     featureslist:
+      - title: Moderne Landingpage für Werkstätten
+        image: images/product_landingpage.png
+        content: >-
+          Mit deiner persönlichen Landingpage generierst Du zusätzliche Leads in deiner Stadt.​
+          Sei dem Wettbewerb einen Klick voraus und buche jetzt deinen zusätzlichen Webauftritt.​
+        actions:
+          - label: Learn More
+            url: /solutions/landingpage
       - title: mr fiktiv
         image: images/product_mrfiktiv.png
         content: >-
@@ -96,7 +104,7 @@ layout: features
         "@type": "Offer",
         "url": "https://www.mmmint.ai/solutions/fahrzeugscheinscanner/",
         "priceCurrency": "EUR",
-        "price": "99,00"
+        "price": "19,99"
       }
     }
 </script>
@@ -123,17 +131,24 @@ layout: features
     }
 </script>
 
- <script type="application/ld+json">
+<script type="application/ld+json">
     {
-      "@context": "https://schema.org",
-      "@type": "SoftwareApplication",
-      "name": "Mr Fiktiv",
-      "operatingSystem": "Browser",
-      "applicationCategory": "BusinessApplication",
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Zusätzliche Landingzone für die mordne Werkstatt",
+      "image": [
+        "https://www.mmmint.ai/images/product_landingpage.png"
+       ],
+      "description": "Mit deiner persönlichen Landingpage generierst Du zusätzliche Leads in deiner Stadt.​​ Sei dem Wettbewerb einen Klick voraus und buche jetzt deinen zusätzlichen Webauftritt.​",
+      "brand": {
+        "@type": "Brand",
+        "name": "mmmint"
+      },
       "offers": {
         "@type": "Offer",
-        "price": "29,00",
-        "priceCurrency": "EUR"
+        "url": "https://www.mmmint.ai/solutions/landingpage/",
+        "priceCurrency": "EUR",
+        "price": "29,99"
       }
     }
-    </script>
+</script>
