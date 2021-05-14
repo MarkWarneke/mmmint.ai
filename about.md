@@ -34,12 +34,12 @@ sections:
       - 
         author: Nils
         avatar: images/nilsp.png
-        content: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+        content: "Nils arbeitet bei uns im Bereich Research und Development. Er studiert aktuell Informatik im Bachelor an der RWTH Aachen. Aufgrund seines einjährigen Auslandsaufenthalt in Taiwan und seiner dabei gewonnenen Expertise in den Bereichen Machine Learning und Full Stack Development passt er perfekt ins Team."
         link: "https://www.linkedin.com/in/nils-pulte/"
       - 
         author: Julia
         avatar: images/juliag.png
-        content: "Julia ist unsere User Experience Designerin. Sie absolviert aktuell ihr Bachelor Studium in New York. Mit ihrer Erfahrung in Bereichen wie Social Media Content Creation und Blogging unterstützt sie unser Marketing. Durch ihre Expertise in UI / UX Design ist sie maßgeblich für das Look and Feel unserer Anwendungen verantwortlich."
+        content: "Julia ist unsere User Experience Designerin. Sie absolviert aktuell ihr Bachelor Studium in New York. Mit ihrer Erfahrung in Bereichen wie Social Media Content Creation und Blogging unterstützt sie unser Marketing. Durch ihre Fachauskunft in UI / UX Design ist sie maßgeblich für das Look and Feel unserer Anwendungen verantwortlich."
         link: "https://www.linkedin.com/in/julia-ginsburg-30a498202/"
   - section_id: call-to-action
     component: cta_block.html
