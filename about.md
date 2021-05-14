@@ -10,27 +10,37 @@ sections:
     title: Meet the Team
     subtitle: >-
       MMM
-    reviews:
-      - author: Mark
+    reviews: 
+      - 
+        author: Mark
         avatar: images/markw.jpg
-        content: >-
-          Mark bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href="https://starteve.ai">starteve.ai</a> mit ein. Er ist mehrfach zertifizierter Microsoft Cloud- und Kubernetes-Experte und stellt die Verfügbarkeit und Entwicklung unserer Systeme sicher. 
-        link: https://www.linkedin.com/in/markwarneke/
-      - author: Max
+        content: "Mark bringt Erfahrung aus der digitalen Produktion von Porsche sowie zahlreichen Cloud und Softwareprojekten wie z.B. <a href=\"https://starteve.ai\">starteve.ai</a> mit ein. Er ist mehrfach zertifizierter Microsoft Cloud- und Kubernetes-Experte und stellt die Verfügbarkeit und Entwicklung unserer Systeme sicher. "
+        link: "https://www.linkedin.com/in/markwarneke/"
+      - 
+        author: Max
         avatar: images/maxs.jpg
-        content: >-
-          Max ist unser Experte für die Automotive Industrie. Er überzeugt mit Branchenkenntnis und Unternehmergeist. Als jüngstes Vorstandsmitglied der IDK, der größten Kfz-Innung Norddeutschlands, bringt er zudem fundamentales Netzwerk und wirtschaftspolitisches Kalkül mit ins Team.
-        link: https://www.linkedin.com/in/maximilian-stein/
-      - author: Max
+        content: "Max ist unser Experte für die Automotive Industrie. Er überzeugt mit Branchenkenntnis und Unternehmergeist. Als jüngstes Vorstandsmitglied der IDK, der größten Kfz-Innung Norddeutschlands, bringt er zudem fundamentales Netzwerk und wirtschaftspolitisches Kalkül mit ins Team."
+        link: "https://www.linkedin.com/in/maximilian-stein/"
+      - 
+        author: Max
         avatar: images/maxl.jpg
-        content: >-
-          Max ist unser KI-Experte für Machine Learning und Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend für unsere smarten Lösungen.
-        link: https://www.linkedin.com/in/maxleimkuehler/
-      - author: Mattis
+        content: "Max ist unser KI-Experte für Machine Learning und Digitales. Er hat weitreichende Erfahrung in Forschungs- sowie Beratungsprojekten gesammelt. Zuvor war er bei der BMW Group in der Digitalisierung beschäftigt. Seine Leidenschaft zur Innovation ist treibend für unsere smarten Lösungen."
+        link: "https://www.linkedin.com/in/maxleimkuehler/"
+      - 
+        author: Mattis
         avatar: images/mattiss.jpg
-        content: >-
-          Mattis arbeitet als Full Stack Developer. Sein beruflicher Schwerpunkt liegt derzeit in der internationalen Logistik. Mit seiner Expertise bildet er die perfekte Schnittstelle zwischen State of the Art Entwicklung und praxisnaher Umsetzung. Durch seine Erfahrungen in den Bereichen UI/UX ergänzt er das Team perfekt.
-        link: https://www.linkedin.com/in/mattis-sch%C3%BCrmann-1325a0193/
+        content: "Mattis arbeitet als Full Stack Developer. Sein beruflicher Schwerpunkt liegt derzeit in der internationalen Logistik. Mit seiner Expertise bildet er die perfekte Schnittstelle zwischen State of the Art Entwicklung und praxisnaher Umsetzung. Durch seine Erfahrungen in den Bereichen UI/UX ergänzt er das Team perfekt."
+        link: "https://www.linkedin.com/in/mattis-sch%C3%BCrmann-1325a0193/"
+      - 
+        author: Nils
+        avatar: images/nilsp.png
+        content: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+        link: "https://www.linkedin.com/in/nils-pulte/"
+      - 
+        author: Julia
+        avatar: images/juliag.png
+        content: "Julia ist unsere User Experience Designerin. Sie absolviert aktuell ihr Bachelor Studium in New York. Mit ihrer Erfahrung in Bereichen wie Social Media Content Creation und Blogging unterstützt sie unser Marketing. Durch ihre Expertise in UI / UX Design ist sie maßgeblich für das Look and Feel unserer Anwendungen verantwortlich."
+        link: "https://www.linkedin.com/in/julia-ginsburg-30a498202/"
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock

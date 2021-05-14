@@ -1,8 +1,8 @@
 ---
 title: Moderne Landingpage Webseite zur Akquise von Kunden für Werkstätten 
 subtitle: >-
-  Mit deiner persönlichen Landingpage generierst Du zusätzliche Leads in deiner Stadt.​
-  Sei dem Wettbewerb einen Klick voraus und buche jetzt deinen zusätzlichen Webauftritt.​
+  Mit Ihrer persönlichen Landingpage generieren Sie zusätzliche Leads in Ihrer Stadt.​
+  Seien Sie dem Wettbewerb einen Klick voraus und buchen Sie jetzt Ihren zusätzlichen Webauftritt.​
 share-img: images/solutions/landingpage/product_landingpage.png
 sections:
   - section_id: registrationrecognition
@@ -10,19 +10,19 @@ sections:
     type: featuresblock
     bg: gray
     featureslist:
-      - title: Personalisierte Landingpage zur Generierung von zusätzlichen Leads in deiner Stadt.​
+      - title: Personalisierte Landingpage zur Generierung von zusätzlichen Leads in Ihrer Stadt.​
         image: images/solutions/landingpage/product_landingpage.png
         content: >-
-          Mit deiner persönlichen Landingpage generierst Du zusätzliche Leads in deiner Stadt.​
-          Schnell einen zusätzlichen digitalen  Auftritt für kleines Geld erstellen! Mit der Option die Prozesse durch  Künstliche Intelligenz zu optimieren.
+          Mit Ihrer persönlichen Landingpage generieren Sie zusätzliche Leads in Ihrer Stadt.​
+          Schnell einen zusätzlichen digitalen Auftritt für kleines Geld erstellen! Mit der Option die Prozesse durch Künstliche Intelligenz zu optimieren.
           <br/><br/>
-          Sei dem Wettbewerb einen Klick voraus und buche jetzt deinen zusätzlichen Webauftritt.​
+          Seien Sie dem Wettbewerb einen Klick voraus und buchen Sie jetzt Ihren zusätzlichen Webauftritt.​
           <br/><br/>
-          Folgende Features kannst du über unsere Landingzone einfach und schnell konfigurieren:
+          Folgende Features können Sie über unsere Landingzone einfach und schnell konfigurieren:
 
-          * Eigene Domain für deine Stadt 
+          * Eigene Domain für Ihre Stadt 
 
-          * Logo und Layout in deinen Farben
+          * Logo und Layout in Ihren Farben
 
           * Webauftritt einfach selber gestalten
 
@@ -32,7 +32,7 @@ sections:
 
           * Einbindung von KI zum automatisierten auslesen des Fahrzeugscheins
         actions:
-          - label: Go To Demo
+          - label: Demo ansehen
             url: https://app.mrfiktiv.com/#/partner/mmmint.ai/contact
 
   - section_id: call-to-action
@@ -41,22 +41,22 @@ sections:
     title: Jetzt Demo anfordern!
     subtitle: Schick uns einfach eine kurze E-Mail und erhalte eine Teststellung zu unserer Landingpage. Gerne unterstützen wir Dich beratend hinsichtlich der Implementierung und Verlinkung auf deine bestehende Website.
     actions:
-      - label: Get digital
+      - label: Demo anfordern
         url: "mailto:info@mmmint.ai"
   - section_id: email
     component: features_block.html
     type: featuresblock
     bg: white
     featureslist:
-      - title: Prozesse Optimieren mit dem integrierten Fahrzeugscanner
+      - title: Prozesse optimieren mit dem integrierten Fahrzeugscheinscanner
         image: images/solutions/landingpage/smart_email.png
         content: >-
-          Mit Hilfe von unserer Künstlichen Intelligenz bestehenden Prozesse zur Kundenerfassung automatisieren.  Verwenden Sie unsere Landingpage zur automatisierten ingeration von Kontaktanfragen direkt in DMS Systems wie z.B. KSR.
+          Mit Hilfe von künstlicher Intelligenz bestehende Prozesse zur Kundenerfassung automatisieren.  Verwenden Sie unsere Landingpage zur automatisierten Integration von Kontaktanfragen direkt in DMS Systemen wie z.B. KSR.
           <br/>
           <br/>
-          Mithilfe unserer Fahrzeugscheinerkennung werden übermittelte Fahrzeugscheine automatisiert ausgelesen und zur Weiterverarbeitung digitalisiert. Sollte eine Schnittstellenbeschreibung des DMS Systems vorhanden sein, können wir mit Hilfe von unserer Lösungen die bestehenden Prozesse zur Kundenerfassung automatisieren.
+          Mit Hilfe unserer Fahrzeugscheinerkennung werden übermittelte Fahrzeugscheine automatisiert ausgelesen und zur Weiterverarbeitung digitalisiert. Sollte eine Schnittstellenbeschreibung des DMS Syste,s vorhanden sein, können wir mit Hilfe von unseren Lösungen die bestehenden Prozesse zur Kundenerfassung automatisieren.
         actions:
-          - label: wetiere Informationen zur Fahrzeugscheinerkennung
+          - label: Weitere Informationen zur Fahrzeugscheinerkennung
             url: /solutions/fahrzeugscheinscanner
 
   - section_id: pricing
@@ -75,7 +75,7 @@ sections:
           * Persönlicher Header​
           * Weiterleitung via E-Mail​
         actions:
-          - label: Order Now
+          - label: Jetzt bestellen
             url: mailto:info@mmmint.ai
       - title: Professional
         price: 49.99€/month
@@ -89,7 +89,7 @@ sections:
           * Importdatei für DMS (KSR)
         highlight: true
         actions:
-          - label: Order Now
+          - label: Jetzt bestellen
             url: mailto:info@mmmint.ai
       - title: Enterprise
         price: individuell
@@ -100,14 +100,13 @@ sections:
           * Individuelle technische Beratung​
           * Individuelle Marketingkampagnen
         actions:
-          - label: get in contact
+          - label: Kontaktieren Sie uns
             url: mailto:info@mmmint.ai
   - section_id: partner
     component: slider.html
     type: reviewsblock
     bg: white
-    title: Ein paar Beispiele...
-    subtitle: Klick einfach auf eines der Logos um die zusätzliche Landingpage unserer Kunden zu entdecken!
+    title: Unsere Kunden
     images:
       - image: partner/brand-logo/restemeier.png
         url: https://www.smartrepair-os.de/
@@ -125,7 +124,7 @@ sections:
     faqitems:
       - question: Wie erhalte ich die Kontaktanfragen über die Landingpage?
         answer: >-
-          Wir erstellen einen individuellen Partner Zugang. Mit diesem Partner Zugang können alle wesentlichen Elemente der Landingpage konfiguriert und angepasst werden. 
+          Wir erstellen einen individuellen Zugang für Sie. Mit diesem Zugang können alle wesentlichen Elemente der Landingpage konfiguriert und angepasst werden. 
           Die Kontaktanfragen werden an eine festgelegte E-Mail Adresse versendet. Die übermittelten Daten können so ganz einfach aus dem Posteingang übernommen werden.
           Die strukturierten Daten können anschließend auch ganz einfach aus unserer Partner Konsole abgerufen werden! Die Partner Konsole stellt alle Kundenanfragen übersichtlich in einem Portal zur Verfügung.  
       - question: Werden die Daten gemäß der DSGVO verarbeitet?
