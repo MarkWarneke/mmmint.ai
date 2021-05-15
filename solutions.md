@@ -16,8 +16,8 @@ sections:
       - title: Moderne Landingpage für Werkstätten
         image: images/solutions/landingpage/product_landingpage.png
         content: >-
-          Mit deiner persönlichen Landingpage generierst Du zusätzliche Leads in deiner Stadt.​
-          Sei dem Wettbewerb einen Klick voraus und buche jetzt deinen zusätzlichen Webauftritt.​
+          Mit Ihrer persönlichen Landingpage generieren Sie zusätzliche Leads in Ihrer Stadt.​
+          Seien Sie dem Wettbewerb einen Klick voraus und buchen Sie jetzt Ihren zusätzlichen Webauftritt.​
         actions:
           - label: Learn More
             url: /solutions/landingpage
