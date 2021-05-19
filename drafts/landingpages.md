@@ -16,7 +16,7 @@ Sie sind Besitzer einer Werkstatt oder einer Lackiererei und möchten mediale Re
 
 ![Landingpage Example](/images/solutions/landingpage/product_landingpage.png)
 
-Unsere [<mark>Landingpages</mark>](/solutions/landingpage/) gibt Ihrem Unternehmen einen zusätzlichen Webauftritt für kleines Geld. Ihr bisheriges Marketing und Ihr bisheriger Webauftritt benötigt keinerlei Anpassung oder Re-branding - wir bieten Ihnen eine zusätzliche digitale Anlaufstelle für Kundenanfragen. Wir begrenzen dabei unsere Anzahl an Landingpages für jede Stadt, daher ist das Angebot knapp. Sollten auch Sie Interesse daran haben zusätzliche Kundenleads für Smart- oder Spotreparaturen aus Ihrer Stadt zu bekommen, dann nehmen Sie am Besten direkt Kontakt zu uns auf! Seien Sie dem lokalen Wettbewerb einen Klick voraus und verschlanken Sie jetzt Ihre Prozesse mit Hilfe von künstlicher Intelligenz bei der Leadgenerierung. 
+Unsere [<mark>Landingpages</mark>](/solutions/landingpage/) geben Ihrem Unternehmen einen zusätzlichen Webauftritt für kleines Geld. Ihr bisheriges Marketing und Ihr bisheriger Webauftritt benötigt keinerlei Anpassung oder Re-branding - wir bieten Ihnen eine zusätzliche digitale Anlaufstelle für Kundenanfragen. Wir begrenzen dabei unsere Anzahl an Landingpages für jede Stadt, daher ist das Angebot knapp. Sollten auch Sie Interesse daran haben, zusätzliche Kundenleads für Smart- oder Spotreparaturen aus Ihrer Stadt zu bekommen, dann nehmen Sie am Besten direkt Kontakt zu uns auf! Seien Sie dem lokalen Wettbewerb einen Klick voraus und verschlanken Sie jetzt Ihre Prozesse mit Hilfe von künstlicher Intelligenz bei der Leadgenerierung. 
 
 ## Wie funktioniert die Leadgenerierung?
 
@@ -41,7 +41,7 @@ Bei Bedarf bringen wir Ihren zusätzlichen Webauftritt innerhalb von 72h online 
         <h3 class="block-title">Jetzt Landingpage sichern...</h3>
       </div><!-- .block-content -->
       <div class="cell block-buttons">
-        <a href="mailto:info@mmmint.ai" class="button white large">Kontakt aufnehmen</a>
+        <a href="mailto:info@mmmint.ai" class="button white large">und Kontakt aufnehmen!</a>
       </div><!-- .block-buttons -->
     </div><!-- .grid -->
   </div><!-- .inner -->
