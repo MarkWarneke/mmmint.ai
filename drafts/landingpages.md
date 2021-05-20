@@ -6,8 +6,8 @@ excerpt: >-
   Sie sind Besitzer einer Werkstatt oder einer Lackiererei und möchten mediale Reichweite für Ihre Dienstleistungen erlangen? Wir verstehen Sie genau und möchten Ihnen gerne unsere Lösung vorstellen!
 date: '2021-05-19'
 time: 2 Minute
-thumb_img_path: images/solutions/ainonymizer/undraw_both_sides_hbv3.png
-share-img: images/solutions/ainonymizer/undraw_both_sides_hbv3.png
+thumb_img_path: /images/solutions/landingpage/product_landingpage.png
+share-img: /images/solutions/landingpage/product_landingpage.png
 layout: post
 
 ---
