@@ -4,7 +4,7 @@ subtitle: >-
   Mit den personalisierten Landingpages von mmmint.ai generieren Sie zusätzliche Kundenleads für Smart- & Spotrepair in Ihrer Stadt.
 excerpt: >-
   Sie sind Besitzer einer Werkstatt oder einer Lackiererei und möchten mediale Reichweite für Ihre Dienstleistungen erlangen? Wir verstehen Sie genau und möchten Ihnen gerne unsere Lösung vorstellen!
-date: '2021-05-19'
+date: '2021-05-21'
 time: 2 Minute
 thumb_img_path: /images/solutions/landingpage/product_landingpage.png
 share-img: /images/solutions/landingpage/product_landingpage.png
